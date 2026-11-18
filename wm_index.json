@@ -1,0 +1,6562 @@
+{
+"你好": [
+"LL-Q9192 (cmn)-Bakerkobe-你好.wav",
+"LL-Q9192 (cmn)-Luilui6666-你好.wav",
+"zh-yue-你好.opus"
+],
+"谢谢": [
+"LL-Q9192 (cmn)-Luilui6666-谢谢.wav"
+],
+"再见": [],
+"老师": [
+"LL-Q9192 (cmn)-Luilui6666-老师.wav"
+],
+"学生": [
+"LL-Q9192 (cmn)-Luilui6666-学生.wav"
+],
+"朋友": [
+"LL-Q9192 (cmn)-Luilui6666-朋友.wav",
+"zh-péngyou.ogg"
+],
+"爸爸": [
+"LL-Q9192 (cmn)-Luilui6666-爸爸.wav",
+"zh-bàba.ogg"
+],
+"妈妈": [
+"LL-Q9192 (cmn)-Luilui6666-妈妈.wav"
+],
+"哥哥": [
+"LL-Q9192 (cmn)-Luilui6666-哥哥.wav",
+"zh-gēge.ogg"
+],
+"姐姐": [
+"zh-jiějie.ogg"
+],
+"弟弟": [
+"LL-Q9192 (cmn)-Luilui6666-弟弟.wav",
+"zh-dìdi.ogg"
+],
+"妹妹": [
+"LL-Q9192 (cmn)-Luilui6666-妹妹.wav",
+"zh-mèimei.ogg"
+],
+"中国": [
+"LL-Q9192 (cmn)-CanonNi-中国.wav",
+"LL-Q9192 (cmn)-Jouketou-中国.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-中国.wav",
+"LL-Q9192 (cmn)-Luilui6666-中国.wav"
+],
+"北京": [
+"LL-Q9192 (cmn)-CanonNi-北京.wav",
+"LL-Q9192 (cmn)-Luilui6666-北京.wav",
+"zh-yue-北京.opus"
+],
+"米饭": [],
+"苹果": [
+"LL-Q9192 (cmn)-Luilui6666-苹果.wav"
+],
+"鸡蛋": [],
+"面条": [],
+"牛奶": [
+"LL-Q9192 (cmn)-Jouketou-牛奶.wav",
+"zh-niúnǎi.ogg"
+],
+"咖啡": [
+"LL-Q9192 (cmn)-Luilui6666-咖啡.wav",
+"zh-kāfēi.ogg",
+"zh-yue-咖啡.opus"
+],
+"商店": [
+"zh-shāngdiàn.ogg"
+],
+"学校": [
+"LL-Q9192 (cmn)-Luilui6666-学校.wav"
+],
+"学习": [],
+"工作": [
+"zh-gōngzuò.ogg"
+],
+"电话": [],
+"电脑": [],
+"电视": [],
+"手机": [
+"LL-Q9192 (cmn)-Luilui6666-手机.wav"
+],
+"飞机": [],
+"火车": [
+"LL-Q9192 (cmn)-Luilui6666-火车.wav"
+],
+"出租车": [
+"LL-Q9192 (cmn)-CanonNi-出租车.wav"
+],
+"今天": [
+"LL-Q9192 (cmn)-Luilui6666-今天.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-今天.wav",
+"LL-Q9192 (cmn)-Yihsiangyang-今天.wav",
+"zh-jīntiān.ogg"
+],
+"明天": [
+"LL-Q9192 (cmn)-Luilui6666-明天.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-明天.wav",
+"zh-míngtiān.ogg"
+],
+"昨天": [
+"LL-Q9192 (cmn)-Luilui6666-昨天.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-昨天.wav",
+"zh-zuótiān.ogg"
+],
+"现在": [
+"LL-Q9192 (cmn)-Luilui6666-现在.wav"
+],
+"星期": [
+"LL-Q9192 (cmn)-Luilui6666-星期.wav",
+"zh-xīngqī.ogg"
+],
+"时候": [
+"LL-Q9192 (cmn)-Luilui6666-时候.wav"
+],
+"上午": [
+"LL-Q9192 (cmn)-Luilui6666-上午.wav",
+"zh-shàngwǔ.ogg"
+],
+"下午": [
+"LL-Q9192 (cmn)-Luilui6666-下午.wav",
+"zh-xiàwǔ.ogg"
+],
+"晚上": [
+"LL-Q9192 (cmn)-Luilui6666-晚上.wav",
+"zh-wǎnshang.ogg"
+],
+"天气": [],
+"下雨": [
+"LL-Q9192 (cmn)-CanonNi-下雨.wav",
+"LL-Q9192 (cmn)-Jouketou-下雨.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-下雨.wav",
+"zh-xiàyǔ.ogg"
+],
+"高兴": [],
+"漂亮": [
+"zh-piàoliang.ogg"
+],
+"喜欢": [
+"LL-Q9192 (cmn)-Luilui6666-喜欢.wav"
+],
+"睡觉": [
+"LL-Q9192 (cmn)-Luilui6666-睡觉.wav"
+],
+"起床": [
+"LL-Q9192 (cmn)-Luilui6666-起床.wav",
+"zh-qǐchuáng.ogg"
+],
+"唱歌": [
+"LL-Q9192 (cmn)-CanonNi-唱歌.wav",
+"LL-Q9192 (cmn)-Luilui6666-唱歌.wav"
+],
+"跳舞": [
+"zh-tiàowǔ.ogg"
+],
+"游泳": [
+"LL-Q9192 (cmn)-Luilui6666-游泳.wav",
+"zh-yóuyǒng.ogg"
+],
+"足球": [
+"LL-Q9192 (cmn)-Jouketou-足球.wav",
+"zh-zúqiú.ogg"
+],
+"篮球": [
+"LL-Q9192 (cmn)-Luilui6666-篮球.wav"
+],
+"桌子": [
+"LL-Q9192 (cmn)-Luilui6666-桌子.wav",
+"zh-zhuōzi.ogg"
+],
+"椅子": [
+"LL-Q9192 (cmn)-Luilui6666-椅子.wav",
+"zh-yǐzi.ogg"
+],
+"便宜": [
+"LL-Q9192 (cmn)-Luilui6666-便宜.wav",
+"zh-piányi.ogg"
+],
+"医生": [],
+"医院": [],
+"名字": [
+"LL-Q9192 (cmn)-Luilui6666-名字.wav",
+"zh-míngzi.ogg"
+],
+"对不起": [
+"LL-Q9192 (cmn)-Luilui6666-对不起.wav"
+],
+"没关系": [],
+"知道": [
+"LL-Q9192 (cmn)-Luilui6666-知道.wav",
+"zh-zhīdào.ogg"
+],
+"可以": [
+"LL-Q9192 (cmn)-Luilui6666-可以.wav",
+"zh-kěyǐ.ogg"
+],
+"休息": [
+"zh-xiūxi.ogg"
+],
+"旅游": [],
+"成绩": [],
+"同学": [],
+"欢迎": [
+"LL-Q9192 (cmn)-Jouketou-欢迎.wav",
+"LL-Q9192 (cmn)-Luilui6666-欢迎.wav"
+],
+"认识": [
+"LL-Q9192 (cmn)-Luilui6666-认识.wav"
+],
+"外面": [
+"LL-Q9192 (cmn)-Luilui6666-外面.wav"
+],
+"时间": [
+"LL-Q9192 (cmn)-Luilui6666-时间.wav"
+],
+"生日": [
+"LL-Q9192 (cmn)-Luilui6666-生日.wav",
+"zh-seⁿ-ji̍t.ogg",
+"zh-shēngri.ogg"
+],
+"快乐": [],
+"考试": [],
+"篮子": [],
+"香蕉": [
+"zh-xiāngjiāo.ogg"
+],
+"西瓜": [
+"LL-Q9192 (cmn)-Jouketou-西瓜.wav",
+"Zh-xigua.ogg"
+],
+"面包": [],
+"帽子": [
+"zh-màozi.ogg"
+],
+"裙子": [
+"Zh-qúnzi.ogg"
+],
+"眼睛": [
+"LL-Q9192 (cmn)-Jouketou-眼睛.wav",
+"zh-yǎnjing.ogg"
+],
+"头发": [
+"LL-Q9192 (cmn)-Jouketou-头发.wav"
+],
+"爬山": [
+"LL-Q9192 (cmn)-Luilui6666-爬山.wav"
+],
+"钢笔": [],
+"铅笔": [
+"LL-Q9192 (cmn)-Luilui6666-铅笔.wav"
+],
+"词典": [],
+"地图": [],
+"但是": [
+"LL-Q9192 (cmn)-Luilui6666-但是.wav",
+"zh-dànshì.ogg"
+],
+"因为": [
+"LL-Q9192 (cmn)-Luilui6666-因为.wav"
+],
+"所以": [
+"LL-Q9192 (cmn)-Luilui6666-所以.wav",
+"zh-suǒyǐ.ogg"
+],
+"如果": [
+"LL-Q9192 (cmn)-Jouketou-如果.wav",
+"LL-Q9192 (cmn)-Luilui6666-如果.wav",
+"zh-rúguǒ.ogg"
+],
+"虽然": [],
+"已经": [],
+"突然": [
+"LL-Q9192 (cmn)-Jouketou-突然.wav",
+"zh-tūrán.ogg"
+],
+"终于": [
+"LL-Q9192 (cmn)-Jouketou-终于.wav"
+],
+"特别": [
+"LL-Q9192 (cmn)-Jouketou-特别.wav"
+],
+"非常": [
+"LL-Q9192 (cmn)-Luilui6666-非常.wav",
+"zh-fēicháng.ogg"
+],
+"经常": [
+"LL-Q9192 (cmn)-Jouketou-经常.wav"
+],
+"总是": [],
+"马上": [],
+"刚才": [
+"LL-Q9192 (cmn)-Jouketou-刚才.wav"
+],
+"以前": [
+"Zh-yǐqián.ogg"
+],
+"以后": [],
+"开始": [],
+"结束": [],
+"准备": [],
+"决定": [
+"LL-Q9192 (cmn)-Jouketou-决定.wav"
+],
+"希望": [
+"zh-xīwàng.ogg"
+],
+"愿意": [
+"LL-Q9192 (cmn)-Jouketou-愿意.wav"
+],
+"觉得": [
+"LL-Q9192 (cmn)-Luilui6666-觉得.wav"
+],
+"担心": [
+"LL-Q9192 (cmn)-Jouketou-担心.wav"
+],
+"注意": [
+"LL-Q9192 (cmn)-Jouketou-注意.wav",
+"zh-zhùyì.ogg"
+],
+"帮助": [],
+"告诉": [],
+"介绍": [
+"LL-Q9192 (cmn)-Luilui6666-介绍.wav"
+],
+"参加": [
+"LL-Q9192 (cmn)-Jouketou-参加.wav"
+],
+"比赛": [
+"LL-Q9192 (cmn)-Jouketou-比赛.wav"
+],
+"机会": [
+"LL-Q9192 (cmn)-Jouketou-机会.wav"
+],
+"经验": [
+"LL-Q9192 (cmn)-CanonNi-经验.wav"
+],
+"影响": [
+"LL-Q9192 (cmn)-Jouketou-影响.wav"
+],
+"环境": [],
+"健康": [
+"zh-jiànkāng.ogg"
+],
+"锻炼": [],
+"减肥": [
+"LL-Q9192 (cmn)-CanonNi-减肥.wav"
+],
+"感冒": [
+"Zh-gǎnmào.ogg"
+],
+"发烧": [],
+"头疼": [],
+"护照": [],
+"行李": [],
+"机场": [],
+"地铁": [],
+"自行车": [
+"LL-Q9192 (cmn)-Luilui6666-自行车.wav"
+],
+"旅行": [
+"LL-Q9192 (cmn)-CanonNi-旅行.wav",
+"zh-lǚxíng.ogg"
+],
+"景色": [
+"LL-Q9192 (cmn)-CanonNi-景色.wav",
+"Zh-jingsè.ogg"
+],
+"附近": [
+"LL-Q9192 (cmn)-Jouketou-附近.wav",
+"LL-Q9192 (cmn)-Luilui6666-附近.wav",
+"zh-fùjìn.ogg"
+],
+"旁边": [
+"LL-Q9192 (cmn)-Luilui6666-旁边.wav"
+],
+"对面": [
+"LL-Q9192 (cmn)-CanonNi-对面.wav"
+],
+"左边": [
+"LL-Q9192 (cmn)-Luilui6666-左边.wav"
+],
+"右边": [
+"LL-Q9192 (cmn)-Luilui6666-右边.wav"
+],
+"前面": [
+"LL-Q9192 (cmn)-Luilui6666-前面.wav"
+],
+"后面": [],
+"中间": [],
+"城市": [
+"LL-Q9192 (cmn)-Jouketou-城市.wav",
+"zh-chéngshì.ogg"
+],
+"国家": [
+"LL-Q9192 (cmn)-Jouketou-国家.wav"
+],
+"世界": [
+"LL-Q9192 (cmn)-Jouketou-世界.wav",
+"zh-shìjiè.ogg"
+],
+"历史": [],
+"文化": [
+"zh-wénhuà.ogg"
+],
+"经济": [
+"LL-Q9192 (cmn)-CanonNi-经济.wav"
+],
+"社会": [
+"LL-Q9192 (cmn)-CanonNi-社会.wav"
+],
+"公司": [
+"LL-Q9192 (cmn)-Luilui6666-公司.wav"
+],
+"经理": [],
+"同事": [
+"LL-Q9192 (cmn)-Luilui6666-同事.wav",
+"zh-tóngshì.ogg"
+],
+"客人": [
+"LL-Q9192 (cmn)-Luilui6666-客人.wav"
+],
+"服务员": [],
+"警察": [
+"LL-Q9192 (cmn)-CanonNi-警察.wav",
+"LL-Q9192 (cmn)-Jouketou-警察.wav",
+"LL-Q9192_(cmn)-Jouketou-警察.wav",
+"Zh-jingchá.ogg"
+],
+"司机": [],
+"律师": [
+"LL-Q9192 (cmn)-CanonNi-律师.wav",
+"LL-Q9192 (cmn)-Jouketou-律师.wav"
+],
+"护士": [
+"LL-Q9192 (cmn)-CanonNi-护士.wav"
+],
+"演员": [
+"LL-Q9192 (cmn)-CanonNi-演员.wav"
+],
+"歌手": [
+"LL-Q9192 (cmn)-Luilui6666-歌手.wav"
+],
+"画家": [
+"LL-Q9192 (cmn)-Luilui6666-画家.wav"
+],
+"作家": [
+"LL-Q9192 (cmn)-CanonNi-作家.wav",
+"LL-Q9192 (cmn)-Luilui6666-作家.wav",
+"LL-Q9192_(cmn)-Luilui6666-作家.wav"
+],
+"厨房": [
+"LL-Q9192 (cmn)-CanonNi-厨房.wav"
+],
+"卧室": [],
+"客厅": [
+"LL-Q9192 (cmn)-CanonNi-客厅.wav"
+],
+"冰箱": [
+"LL-Q9192 (cmn)-CanonNi-冰箱.wav"
+],
+"空调": [],
+"洗衣机": [],
+"沙发": [
+"LL-Q9192 (cmn)-CanonNi-沙发.wav"
+],
+"钥匙": [
+"LL-Q9192 (cmn)-CanonNi-钥匙.wav"
+],
+"雨伞": [],
+"手表": [],
+"眼镜": [
+"LL-Q9192 (cmn)-CanonNi-眼镜.wav"
+],
+"衬衫": [],
+"裤子": [],
+"袜子": [
+"LL-Q9192 (cmn)-CanonNi-袜子.wav"
+],
+"巧克力": [
+"LL-Q9192 (cmn)-CanonNi-巧克力.wav",
+"LL-Q9192 (cmn)-Luilui6666-巧克力.wav"
+],
+"蛋糕": [
+"LL-Q9192 (cmn)-Luilui6666-蛋糕.wav"
+],
+"饺子": [
+"LL-Q9192 (cmn)-CanonNi-饺子.wav"
+],
+"包子": [
+"LL-Q9192 (cmn)-CanonNi-包子.wav",
+"LL-Q9192 (cmn)-Luilui6666-包子.wav",
+"LL-Q9192_(cmn)-Luilui6666-包子.wav",
+"Zh-bāozi.oga"
+],
+"啤酒": [
+"LL-Q9192 (cmn)-Luilui6666-啤酒.wav",
+"zh-píjiǔ.ogg"
+],
+"果汁": [
+"LL-Q9192 (cmn)-CanonNi-果汁.wav"
+],
+"饮料": [
+"LL-Q9192 (cmn)-Luilui6666-饮料.wav"
+],
+"筷子": [
+"LL-Q9192 (cmn)-Luilui6666-筷子.wav",
+"zh-kuàizi.ogg"
+],
+"勺子": [
+"LL-Q9192 (cmn)-CanonNi-勺子.wav",
+"Zh-sháozi.ogg"
+],
+"盘子": [],
+"干净": [],
+"安静": [],
+"热闹": [
+"LL-Q9192 (cmn)-CanonNi-热闹.wav"
+],
+"方便": [
+"zh-fāngbiàn.ogg"
+],
+"容易": [
+"LL-Q9192 (cmn)-Jouketou-容易.wav",
+"zh-róngyì.ogg"
+],
+"聪明": [
+"LL-Q9192 (cmn)-Jouketou-聪明.wav"
+],
+"认真": [
+"LL-Q9192 (cmn)-Jouketou-认真.wav"
+],
+"努力": [
+"zh-nǔlì.ogg"
+],
+"糟糕": [
+"Zh-zaogao.ogg"
+],
+"轻松": [
+"LL-Q9192 (cmn)-CanonNi-轻松.wav"
+],
+"紧张": [
+"LL-Q9192 (cmn)-CanonNi-紧张.wav",
+"LL-Q9192 (cmn)-Jouketou-紧张.wav"
+],
+"生气": [
+"LL-Q9192 (cmn)-Jouketou-生气.wav"
+],
+"难过": [],
+"害怕": [
+"LL-Q9192 (cmn)-Jouketou-害怕.wav",
+"zh-hàipà.ogg"
+],
+"奇怪": [
+"LL-Q9192 (cmn)-Jouketou-奇怪.wav",
+"zh-qíguài.ogg"
+],
+"有名": [
+"Zh-yǒumíng.ogg"
+],
+"重要": [
+"LL-Q9192 (cmn)-Jouketou-重要.wav",
+"zh-zhòngyào.ogg"
+],
+"必须": [],
+"需要": [
+"LL-Q9192 (cmn)-Jouketou-需要.wav",
+"LL-Q9192 (cmn)-Luilui6666-需要.wav"
+],
+"应该": [
+"LL-Q9192 (cmn)-Jouketou-应该.wav",
+"LL-Q9192 (cmn)-Luilui6666-应该.wav"
+],
+"可能": [
+"zh-kěnéng.ogg"
+],
+"最近": [
+"LL-Q9192 (cmn)-Jouketou-最近.wav",
+"LL-Q9192 (cmn)-Luilui6666-最近.wav",
+"zh-zuìjìn.ogg"
+],
+"另外": [
+"LL-Q9192 (cmn)-CanonNi-另外.wav",
+"LL-Q9192 (cmn)-Jouketou-另外.wav",
+"Zh-lìngwài.ogg"
+],
+"大家": [
+"LL-Q9192 (cmn)-Luilui6666-大家.wav",
+"zh-dàjiā.ogg"
+],
+"自己": [
+"LL-Q9192 (cmn)-Jouketou-自己.wav",
+"LL-Q9192 (cmn)-Luilui6666-自己.wav",
+"zh-zìjǐ.ogg"
+],
+"互相": [
+"LL-Q9192 (cmn)-CanonNi-互相.wav",
+"zh-hùxiāng.ogg"
+],
+"打算": [
+"LL-Q9192 (cmn)-Jouketou-打算.wav",
+"zh-dǎsuàn.ogg"
+],
+"遇到": [
+"LL-Q9192 (cmn)-Jouketou-遇到.wav",
+"zh-yùdào.ogg"
+],
+"迟到": [],
+"离开": [
+"LL-Q9192 (cmn)-Jouketou-离开.wav"
+],
+"到达": [],
+"出发": [
+"LL-Q9192 (cmn)-CanonNi-出发.wav"
+],
+"加油": [
+"zh-yue-加油.opus"
+],
+"恭喜": [
+"LL-Q9192 (cmn)-CanonNi-恭喜.wav"
+],
+"感谢": [
+"LL-Q9192 (cmn)-CanonNi-感谢.wav",
+"LL-Q9192 (cmn)-Jouketou-感谢.wav"
+],
+"抱歉": [
+"LL-Q9192 (cmn)-CanonNi-抱歉.wav",
+"LL-Q9192 (cmn)-Jouketou-抱歉.wav",
+"Zh-bàoqiàn.ogg"
+],
+"麻烦": [
+"LL-Q9192 (cmn)-CanonNi-麻烦.wav",
+"LL-Q9192 (cmn)-Jouketou-麻烦.wav"
+],
+"礼物": [
+"LL-Q9192 (cmn)-Jouketou-礼物.wav"
+],
+"照片": [
+"LL-Q9192 (cmn)-Jouketou-照片.wav",
+"Zh-zhàopiàn.ogg"
+],
+"照相": [
+"zh-zhàoxiàng.ogg"
+],
+"电影": [
+"LL-Q9192 (cmn)-Luilui6666-电影.wav"
+],
+"音乐": [
+"LL-Q9192 (cmn)-Jouketou-音乐.wav",
+"LL-Q9192 (cmn)-Luilui6666-音乐.wav"
+],
+"节目": [
+"LL-Q9192 (cmn)-Jouketou-节目.wav"
+],
+"新闻": [
+"LL-Q9192 (cmn)-Jouketou-新闻.wav"
+],
+"报纸": [
+"LL-Q9192 (cmn)-Luilui6666-报纸.wav"
+],
+"杂志": [
+"LL-Q9192 (cmn)-CanonNi-杂志.wav"
+],
+"网站": [
+"LL-Q9192 (cmn)-CanonNi-网站.wav"
+],
+"邮件": [],
+"密码": [
+"LL-Q9192 (cmn)-CanonNi-密码.wav"
+],
+"号码": [
+"LL-Q9192 (cmn)-CanonNi-号码.wav",
+"LL-Q9192 (cmn)-Luilui6666-号码.wav"
+],
+"地址": [
+"LL-Q9192 (cmn)-CanonNi-地址.wav",
+"Zh-dìzhi.ogg"
+],
+"句子": [
+"zh-jùzi.ogg"
+],
+"汉字": [
+"LL-Q9192 (cmn)-Luilui6666-汉字.wav"
+],
+"声调": [],
+"拼音": [
+"LL-Q9192 (cmn)-CanonNi-拼音.wav",
+"LL-Q9192 (cmn)-Luilui6666-拼音.wav"
+],
+"发音": [],
+"翻译": [
+"LL-Q9192 (cmn)-CanonNi-翻译.wav"
+],
+"语法": [
+"LL-Q9192 (cmn)-CanonNi-语法.wav",
+"LL-Q9192 (cmn)-Luilui6666-语法.wav"
+],
+"练习": [
+"LL-Q9192 (cmn)-Luilui6666-练习.wav"
+],
+"作业": [],
+"问题": [
+"LL-Q9192 (cmn)-Luilui6666-问题.wav"
+],
+"答案": [
+"LL-Q9192 (cmn)-CanonNi-答案.wav",
+"LL-Q9192 (cmn)-Luilui6666-答案.wav",
+"zh-dá'àn.ogg"
+],
+"图书馆": [
+"LL-Q9192 (cmn)-Luilui6666-图书馆.wav"
+],
+"教室": [
+"LL-Q9192 (cmn)-Luilui6666-教室.wav",
+"zh-jiàoshì.ogg"
+],
+"黑板": [
+"zh-hēibǎn.ogg"
+],
+"校长": [],
+"毕业": [
+"LL-Q9192 (cmn)-CanonNi-毕业.wav"
+],
+"大学": [
+"LL-Q9192 (cmn)-Luilui6666-大学.wav"
+],
+"留学": [],
+"暑假": [],
+"春天": [
+"zh-chūntiān.ogg"
+],
+"夏天": [
+"zh-xiàtiān.ogg"
+],
+"秋天": [
+"zh-qiūtiān.ogg"
+],
+"冬天": [
+"zh-dōngtiān.ogg"
+],
+"刮风": [
+"LL-Q9192 (cmn)-CanonNi-刮风.wav"
+],
+"下雪": [],
+"阴天": [],
+"晴天": [],
+"太阳": [
+"LL-Q9192 (cmn)-KhawaChenpo-太阳.wav"
+],
+"月亮": [
+"LL-Q9192 (cmn)-KhawaChenpo-月亮.wav",
+"zh-yuèliang.ogg"
+],
+"星星": [
+"LL-Q9192 (cmn)-KhawaChenpo-星星.wav"
+],
+"森林": [
+"LL-Q9192 (cmn)-CanonNi-森林.wav",
+"Zh-senlín.ogg"
+],
+"动物": [
+"LL-Q9192 (cmn)-雲角-动物.wav"
+],
+"熊猫": [],
+"老虎": [
+"LL-Q9192 (cmn)-CanonNi-老虎.wav",
+"Zh-laohu.ogg"
+],
+"兔子": [],
+"蚊子": [],
+"博物馆": [],
+"动物园": [],
+"游乐园": [],
+"体育馆": [],
+"售货员": [
+"LL-Q9192 (cmn)-CanonNi-售货员.wav"
+],
+"火车站": [],
+"汽车站": [],
+"停车场": [],
+"超市": [],
+"银行": [],
+"邮局": [
+"LL-Q9192 (cmn)-CanonNi-邮局.wav"
+],
+"书店": [
+"LL-Q9192 (cmn)-Luilui6666-书店.wav"
+],
+"饭馆": [
+"LL-Q9192 (cmn)-Luilui6666-饭馆.wav"
+],
+"宾馆": [],
+"电梯": [],
+"楼梯": [],
+"洗手间": [],
+"信用卡": [
+"LL-Q9192 (cmn)-CanonNi-信用卡.wav",
+"LL-Q9192 (cmn)-Jouketou-信用卡.wav",
+"LL-Q9192 (cmn)-Luilui6666-信用卡.wav"
+],
+"马马虎虎": [],
+"半途而废": [],
+"入乡随俗": [],
+"千方百计": [],
+"实事求是": [],
+"对牛弹琴": [],
+"画蛇添足": [],
+"守株待兔": [],
+"颜色": [],
+"爷爷": [],
+"奶奶": [
+"Zh-nainai.ogg",
+"zh-yue-奶奶.opus"
+],
+"叔叔": [
+"Zh-shushu.ogg"
+],
+"阿姨": [
+"Zh-ayí.ogg"
+],
+"孩子": [
+"zh-háizi.ogg"
+],
+"男人": [
+"zh-nánrén.ogg"
+],
+"女人": [],
+"丈夫": [],
+"妻子": [
+"Zh-qizi.ogg"
+],
+"邻居": [],
+"耳朵": [
+"Zh-erduo.ogg"
+],
+"鼻子": [
+"LL-Q9192 (cmn)-Jouketou-鼻子.wav",
+"zh-bízi.ogg"
+],
+"肚子": [
+"LL-Q9192 (cmn)-CanonNi-肚子.wav",
+"LL-Q9192 (cmn)-Luilui6666-肚子.wav",
+"Zh-dùzi.ogg"
+],
+"胳膊": [
+"LL-Q9192 (cmn)-CanonNi-胳膊.wav",
+"Zh-gebo.ogg"
+],
+"早饭": [
+"LL-Q9192 (cmn)-Luilui6666-早饭.wav"
+],
+"午饭": [
+"LL-Q9192 (cmn)-Luilui6666-午饭.wav"
+],
+"晚饭": [
+"LL-Q9192 (cmn)-Luilui6666-晚饭.wav"
+],
+"豆腐": [
+"zh-dòufu.ogg"
+],
+"青菜": [],
+"土豆": [
+"Zh-tudòu.ogg"
+],
+"西红柿": [
+"LL-Q9192 (cmn)-CanonNi-西红柿.wav"
+],
+"白菜": [],
+"葡萄": [
+"LL-Q9192 (cmn)-CanonNi-葡萄.wav",
+"LL-Q9192 (cmn)-Jouketou-葡萄.wav"
+],
+"橙子": [],
+"草莓": [
+"LL-Q9192 (cmn)-Jouketou-草莓.wav"
+],
+"冰淇淋": [
+"LL-Q727694_(cmn)-Shangkuanlc-冰淇淋.wav"
+],
+"公园": [
+"LL-Q9192 (cmn)-Luilui6666-公园.wav"
+],
+"饭店": [],
+"旅馆": [],
+"市场": [],
+"广场": [],
+"马路": [],
+"公共汽车": [],
+"红绿灯": [],
+"早上": [
+"LL-Q9192 (cmn)-Luilui6666-早上.wav"
+],
+"中午": [
+"LL-Q9192 (cmn)-Luilui6666-中午.wav",
+"zh-zhōngwǔ.ogg"
+],
+"半夜": [],
+"周末": [],
+"每天": [
+"LL-Q9192 (cmn)-Luilui6666-每天.wav"
+],
+"今年": [
+"LL-Q9192 (cmn)-Luilui6666-今年.wav",
+"zh-jīnnián.ogg"
+],
+"去年": [
+"LL-Q9192 (cmn)-Luilui6666-去年.wav",
+"zh-qùnián.ogg"
+],
+"明年": [
+"LL-Q9192 (cmn)-Luilui6666-明年.wav",
+"zh-míngnián.ogg"
+],
+"分钟": [],
+"小时": [],
+"春节": [],
+"节日": [],
+"回答": [
+"LL-Q9192 (cmn)-Jouketou-回答.wav",
+"LL-Q9192 (cmn)-Luilui6666-回答.wav",
+"zh-huídá.ogg"
+],
+"学会": [],
+"记得": [
+"LL-Q9192 (cmn)-Jouketou-记得.wav"
+],
+"忘记": [
+"LL-Q9192 (cmn)-Jouketou-忘记.wav"
+],
+"相信": [
+"LL-Q9192 (cmn)-Jouketou-相信.wav",
+"zh-xiāngxìn.ogg"
+],
+"同意": [
+"LL-Q9192 (cmn)-Jouketou-同意.wav",
+"zh-tóngyì.ogg"
+],
+"选择": [
+"LL-Q9192 (cmn)-Jouketou-选择.wav"
+],
+"比较": [
+"LL-Q9192 (cmn)-Jouketou-比较.wav"
+],
+"发现": [
+"LL-Q9192 (cmn)-Jouketou-发现.wav"
+],
+"变化": [],
+"成为": [
+"LL-Q9192 (cmn)-CanonNi-成为.wav",
+"LL-Q9192 (cmn)-Jouketou-成为.wav"
+],
+"开车": [
+"LL-Q9192 (cmn)-Luilui6666-开车.wav"
+],
+"下车": [],
+"上车": [],
+"关门": [],
+"开门": [],
+"打开": [],
+"关上": [],
+"画画": [],
+"做饭": [],
+"刷牙": [
+"LL-Q9192 (cmn)-CanonNi-刷牙.wav"
+],
+"梳头": [],
+"收拾": [
+"LL-Q9192 (cmn)-CanonNi-收拾.wav",
+"zh-shōushi.ogg"
+],
+"握手": [
+"zh-wòshǒu.ogg"
+],
+"年轻": [
+"LL-Q9192 (cmn)-Jouketou-年轻.wav"
+],
+"东西": [],
+"事情": [
+"zh-shìqing.ogg"
+],
+"办法": [
+"LL-Q9192 (cmn)-Jouketou-办法.wav"
+],
+"原因": [
+"LL-Q9192 (cmn)-CanonNi-原因.wav",
+"LL-Q9192 (cmn)-Jouketou-原因.wav",
+"Zh-yuányīn.oga"
+],
+"结果": [
+"LL-Q9192 (cmn)-CanonNi-结果.wav",
+"LL-Q9192 (cmn)-Jouketou-结果.wav"
+],
+"故事": [
+"LL-Q9192 (cmn)-Jouketou-故事.wav",
+"zh-gùshi.ogg"
+],
+"笑话": [
+"LL-Q9192 (cmn)-CanonNi-笑话.wav"
+],
+"爱好": [],
+"愿望": [],
+"习惯": [],
+"关系": [
+"LL-Q9192 (cmn)-Jouketou-关系.wav"
+],
+"感情": [
+"LL-Q9192 (cmn)-CanonNi-感情.wav",
+"Zh-gǎnqíng.oga"
+],
+"意思": [
+"zh-yìsi.ogg"
+],
+"意见": [
+"LL-Q9192 (cmn)-CanonNi-意见.wav"
+],
+"办公室": [
+"LL-Q9192 (cmn)-Jouketou-办公室.wav"
+],
+"会议": [],
+"合同": [],
+"工资": [
+"LL-Q9192 (cmn)-CanonNi-工资.wav"
+],
+"价格": [
+"LL-Q9192 (cmn)-CanonNi-价格.wav"
+],
+"机票": [],
+"门票": [],
+"箱子": [],
+"书包": [],
+"钱包": [
+"LL-Q9192 (cmn)-BlueCamille-钱包.wav"
+],
+"杯子": [
+"LL-Q9192 (cmn)-Luilui6666-杯子.wav",
+"zh-bēizi.ogg"
+],
+"瓶子": [
+"Zh-píngzi.ogg"
+],
+"叉子": [
+"Zh-chazi.ogg"
+],
+"镜子": [
+"LL-Q9192 (cmn)-CanonNi-镜子.wav"
+],
+"牙刷": [],
+"毛巾": [
+"LL-Q9192 (cmn)-CanonNi-毛巾.wav",
+"Zh-máojin.ogg"
+],
+"肥皂": [
+"zh-féizào.ogg"
+],
+"被子": [
+"Zh-bèizi.ogg"
+],
+"枕头": [
+"LL-Q9192 (cmn)-Fake estate-枕头.wav"
+],
+"地板": [],
+"屋子": [
+"zh-wūzi.ogg"
+],
+"房间": [],
+"房子": [],
+"院子": [],
+"键盘": [],
+"鼠标": [],
+"屏幕": [
+"LL-Q9192 (cmn)-Fake estate-屏幕.wav"
+],
+"视频": [
+"LL-Q9192 (cmn)-CanonNi-视频.wav",
+"LL-Q9192 (cmn)-Fake estate-视频.wav"
+],
+"游戏": [
+"LL-Q9192 (cmn)-Jouketou-游戏.wav"
+],
+"软件": [],
+"石头": [],
+"沙子": [],
+"天空": [
+"Zh-tiankong.ogg"
+],
+"地球": [
+"LL-Q9192 (cmn)-CanonNi-地球.wav",
+"Zh-dìqiú.ogg"
+],
+"空气": [
+"LL-Q9192 (cmn)-CanonNi-空气.wav"
+],
+"温度": [
+"LL-Q9192 (cmn)-CanonNi-温度.wav"
+],
+"虫子": [],
+"蜜蜂": [
+"Zh-mìfeng.ogg"
+],
+"蝴蝶": [
+"zh-húdié.ogg"
+],
+"大象": [
+"LL-Q9192 (cmn)-CanonNi-大象.wav"
+],
+"猴子": [
+"zh-hóuzi.ogg"
+],
+"狮子": [],
+"运动": [
+"LL-Q9192 (cmn)-Luilui6666-运动.wav"
+],
+"网球": [
+"LL-Q9192 (cmn)-CanonNi-网球.wav",
+"LL-Q9192 (cmn)-Luilui6666-网球.wav"
+],
+"乒乓球": [
+"LL-Q9192 (cmn)-CanonNi-乒乓球.wav",
+"Zh-pingpangqiú.ogg"
+],
+"滑冰": [
+"Zh-huábing.ogg"
+],
+"滑雪": [
+"LL-Q9192 (cmn)-Luilui6666-滑雪.wav"
+],
+"差不多": [
+"LL-Q9192 (cmn)-CanonNi-差不多.wav"
+],
+"当然": [
+"LL-Q9192 (cmn)-Jouketou-当然.wav",
+"LL-Q9192 (cmn)-Luilui6666-当然.wav"
+],
+"其实": [
+"LL-Q9192 (cmn)-Jouketou-其实.wav"
+],
+"可是": [
+"LL-Q9192 (cmn)-CanonNi-可是.wav",
+"LL-Q9192 (cmn)-Jouketou-可是.wav",
+"LL-Q9192 (cmn)-Luilui6666-可是.wav",
+"zh-kěshì.ogg"
+],
+"而且": [
+"LL-Q9192 (cmn)-Jouketou-而且.wav",
+"zh-érqiě.ogg"
+],
+"或者": [
+"LL-Q9192 (cmn)-Jouketou-或者.wav",
+"zh-huòzhě.ogg"
+],
+"然后": [
+"LL-Q9192 (cmn)-Jouketou-然后.wav"
+],
+"比如": [
+"LL-Q9192 (cmn)-CanonNi-比如.wav",
+"Zh-birú.ogg"
+],
+"英语": [
+"LL-Q9192 (cmn)-Jouketou-英语.wav"
+],
+"汉语": [],
+"日语": [],
+"俄语": [],
+"法国": [
+"LL-Q9192 (cmn)-Luilui6666-法国.wav"
+],
+"美国": [
+"LL-Q9192 (cmn)-Luilui6666-美国.wav"
+],
+"日本": [
+"LL-Q9192 (cmn)-Luilui6666-日本.wav",
+"LL-Q9192_(cmn)-Luilui6666-日本.wav"
+],
+"俄罗斯": [],
+"韩国": [],
+"外国": [],
+"国际": [
+"LL-Q9192 (cmn)-CanonNi-国际.wav"
+],
+"欢乐": [
+"LL-Q9192 (cmn)-Fake estate-欢乐.wav"
+],
+"幸福": [
+"LL-Q9192 (cmn)-CanonNi-幸福.wav",
+"zh-xìngfú.ogg"
+],
+"安全": [
+"LL-Q9192 (cmn)-CanonNi-安全.wav",
+"LL-Q9192 (cmn)-Jouketou-安全.wav",
+"Zh-anquán.ogg"
+],
+"危险": [
+"LL-Q9192 (cmn)-CanonNi-危险.wav",
+"LL-Q9192 (cmn)-Jouketou-危险.wav"
+],
+"自由": [
+"LL-Q9192 (cmn)-Jouketou-自由.wav",
+"zh-zìyóu.ogg"
+],
+"和平": [
+"Zh-hépíng.ogg"
+],
+"文明": [],
+"科学": [
+"LL-Q9192 (cmn)-CanonNi-科学.wav"
+],
+"技术": [
+"LL-Q9192 (cmn)-CanonNi-技术.wav"
+],
+"教育": [
+"LL-Q9192 (cmn)-CanonNi-教育.wav",
+"zh-jiàoyù.ogg"
+],
+"知识": [
+"LL-Q9192 (cmn)-CanonNi-知识.wav"
+],
+"故宫": [],
+"长城": [
+"LL-Q9192 (cmn)-CanonNi-长城.wav"
+],
+"上海": [
+"LL-Q9192 (cmn)-Luilui6666-上海.wav",
+"Zh-Shanghai.ogg",
+"zh-wuu-2-上海.opus",
+"zh-yue-上海.opus",
+"zh-上海.opus"
+],
+"香港": [],
+"画龙点睛": [],
+"亡羊补牢": [],
+"井底之蛙": [],
+"杯弓蛇影": [],
+"自相矛盾": [],
+"胸有成竹": [],
+"照顾": [
+"LL-Q9192 (cmn)-Jouketou-照顾.wav"
+],
+"提高": [
+"zh-tígāo.ogg"
+],
+"增加": [
+"LL-Q9192 (cmn)-CanonNi-增加.wav",
+"Zh-zēngjiā.ogg"
+],
+"减少": [
+"LL-Q9192 (cmn)-CanonNi-减少.wav"
+],
+"解决": [
+"LL-Q9192 (cmn)-Jouketou-解决.wav"
+],
+"讨论": [
+"LL-Q9192 (cmn)-CanonNi-讨论.wav"
+],
+"聊天": [
+"Zh-liáotian.ogg"
+],
+"批评": [
+"LL-Q9192 (cmn)-CanonNi-批评.wav"
+],
+"表扬": [
+"LL-Q9192 (cmn)-CanonNi-表扬.wav"
+],
+"邀请": [
+"LL-Q9192 (cmn)-CanonNi-邀请.wav"
+],
+"拒绝": [
+"LL-Q9192 (cmn)-CanonNi-拒绝.wav"
+],
+"接受": [
+"LL-Q9192 (cmn)-CanonNi-接受.wav",
+"LL-Q9192 (cmn)-Jouketou-接受.wav",
+"Zh-jieshòu.ogg"
+],
+"联系": [
+"LL-Q9192 (cmn)-CanonNi-联系.wav",
+"LL-Q9192 (cmn)-Jouketou-联系.wav"
+],
+"通知": [
+"LL-Q9192 (cmn)-CanonNi-通知.wav",
+"zh-tōngzhī.ogg"
+],
+"检查": [
+"LL-Q9192 (cmn)-Jouketou-检查.wav"
+],
+"修理": [
+"LL-Q9192 (cmn)-CanonNi-修理.wav",
+"Zh-xiuli.ogg"
+],
+"打印": [
+"LL-Q9192 (cmn)-CanonNi-打印.wav"
+],
+"复印": [
+"LL-Q9192 (cmn)-CanonNi-复印.wav"
+],
+"保护": [
+"LL-Q9192 (cmn)-CanonNi-保护.wav",
+"LL-Q9192 (cmn)-Jouketou-保护.wav"
+],
+"浪费": [
+"LL-Q9192 (cmn)-CanonNi-浪费.wav"
+],
+"节约": [
+"LL-Q9192 (cmn)-CanonNi-节约.wav"
+],
+"登机": [],
+"取消": [
+"Zh-quxiao.ogg"
+],
+"预订": [],
+"排队": [
+"LL-Q9192 (cmn)-CanonNi-排队.wav"
+],
+"堵车": [
+"LL-Q9192 (cmn)-CanonNi-堵车.wav"
+],
+"迷路": [
+"LL-Q9192 (cmn)-CanonNi-迷路.wav"
+],
+"散步": [
+"LL-Q9192 (cmn)-CanonNi-散步.wav",
+"zh-sànbù.ogg"
+],
+"聚会": [
+"LL-Q9192 (cmn)-CanonNi-聚会.wav"
+],
+"约会": [
+"LL-Q9192 (cmn)-CanonNi-约会.wav",
+"LL-Q9192 (cmn)-Jouketou-约会.wav"
+],
+"结婚": [
+"LL-Q9192 (cmn)-Jouketou-结婚.wav"
+],
+"离婚": [],
+"出生": [
+"LL-Q9192 (cmn)-CanonNi-出生.wav",
+"Zh-chusheng.ogg"
+],
+"舒服": [
+"zh-shūfu.ogg"
+],
+"痛苦": [
+"Zh-tòngku.ogg"
+],
+"勇敢": [
+"LL-Q9192 (cmn)-CanonNi-勇敢.wav",
+"Zh-yonggan.ogg"
+],
+"诚实": [],
+"礼貌": [],
+"幽默": [
+"LL-Q9192 (cmn)-CanonNi-幽默.wav"
+],
+"活泼": [
+"LL-Q9192 (cmn)-CanonNi-活泼.wav"
+],
+"可爱": [
+"LL-Q9192 (cmn)-Jouketou-可爱.wav"
+],
+"严格": [
+"LL-Q9192 (cmn)-CanonNi-严格.wav"
+],
+"温柔": [],
+"骄傲": [
+"LL-Q9192 (cmn)-CanonNi-骄傲.wav"
+],
+"满意": [],
+"失望": [
+"LL-Q9192 (cmn)-CanonNi-失望.wav",
+"Zh-shiwàng.ogg"
+],
+"无聊": [
+"LL-Q9192 (cmn)-CanonNi-无聊.wav"
+],
+"有趣": [
+"LL-Q9192 (cmn)-CanonNi-有趣.wav",
+"LL-Q9192 (cmn)-Jouketou-有趣.wav",
+"Zh-youqù.ogg"
+],
+"丰富": [
+"LL-Q9192 (cmn)-CanonNi-丰富.wav"
+],
+"完整": [
+"Zh-wánzheng.ogg"
+],
+"正确": [
+"LL-Q9192 (cmn)-CanonNi-正确.wav"
+],
+"简单": [
+"LL-Q9192 (cmn)-Jouketou-简单.wav"
+],
+"复杂": [
+"LL-Q9192 (cmn)-CanonNi-复杂.wav"
+],
+"特殊": [
+"Zh-tèshū.oga"
+],
+"普通": [],
+"最后": [
+"LL-Q9192 (cmn)-Jouketou-最后.wav"
+],
+"第一": [
+"LL-Q9192 (cmn)-CanonNi-第一.wav"
+],
+"父母": [],
+"亲戚": [
+"LL-Q9192 (cmn)-CanonNi-亲戚.wav"
+],
+"夫妻": [],
+"老人": [],
+"青年": [
+"zh-qīngnián.ogg"
+],
+"男孩": [],
+"女孩": [],
+"婴儿": [
+"LL-Q9192 (cmn)-Fake estate-婴儿.wav"
+],
+"乘客": [],
+"顾客": [
+"LL-Q9192 (cmn)-CanonNi-顾客.wav"
+],
+"农民": [],
+"工人": [
+"zh-gōngrén.ogg"
+],
+"厨师": [],
+"记者": [
+"LL-Q9192 (cmn)-CanonNi-记者.wav"
+],
+"工程师": [],
+"科学家": [],
+"工厂": [],
+"农村": [],
+"沙漠": [
+"Zh-shamò.ogg"
+],
+"瀑布": [
+"zh-pùbù.ogg"
+],
+"天安门": [],
+"厕所": [
+"LL-Q9192 (cmn)-CanonNi-厕所.wav"
+],
+"阳台": [],
+"抽屉": [],
+"剪刀": [
+"Zh-jiandao.ogg"
+],
+"锤子": [],
+"电池": [],
+"充电器": [
+"LL-Q9192 (cmn)-CanonNi-充电器.wav",
+"LL-Q9192 (cmn)-Jouketou-充电器.wav"
+],
+"耳机": [],
+"相机": [],
+"地毯": [
+"Zh-dìtan.ogg"
+],
+"窗帘": [],
+"垃圾": [],
+"火锅": [],
+"烤鸭": [
+"LL-Q9192 (cmn)-CanonNi-烤鸭.wav",
+"LL-Q9192 (cmn)-Luilui6666-烤鸭.wav"
+],
+"馒头": [],
+"豆浆": [
+"LL-Q9192 (cmn)-Luilui6666-豆浆.wav"
+],
+"饼干": [
+"LL-Q9192 (cmn)-CanonNi-饼干.wav"
+],
+"花生": [
+"Zh-huasheng.ogg",
+"zh-yue-花生.opus"
+],
+"西餐": [],
+"中餐": [],
+"菜单": [
+"LL-Q9192 (cmn)-Luilui6666-菜单.wav"
+],
+"买单": [
+"LL-Q9192 (cmn)-Luilui6666-买单.wav"
+],
+"彩虹": [
+"LL-Q9192 (cmn)-Jouketou-彩虹.wav"
+],
+"闪电": [],
+"台风": [],
+"地震": [
+"zh-dìzhèn.ogg"
+],
+"季节": [],
+"世纪": [
+"LL-Q9192 (cmn)-CanonNi-世纪.wav"
+],
+"嗓子": [
+"Zh-sangzi.ogg"
+],
+"咳嗽": [
+"LL-Q9192 (cmn)-CanonNi-咳嗽.wav",
+"Zh-késao.oga"
+],
+"过敏": [],
+"受伤": [],
+"手术": [],
+"成语": [],
+"声母": [],
+"韵母": [],
+"音节": [],
+"四声": [],
+"轻声": [],
+"朗读": [],
+"听力": [
+"LL-Q9192 (cmn)-Luilui6666-听力.wav"
+],
+"口语": [],
+"阅读": [
+"LL-Q9192 (cmn)-CanonNi-阅读.wav"
+],
+"写作": [],
+"马到成功": [],
+"万事如意": [],
+"心想事成": [],
+"身体健康": [],
+"学无止境": [],
+"广州": [
+"LL-Q9192 (cmn)-Luilui6666-广州.wav"
+],
+"西安": [
+"LL-Q9192 (cmn)-Luilui6666-西安.wav"
+],
+"成都": [
+"LL-Q9192 (cmn)-Luilui6666-成都.wav",
+"Zh-Chengdu.ogg"
+],
+"台湾": [
+"LL-Q9192 (cmn)-Luilui6666-台湾.wav"
+],
+"新加坡": [
+"LL-Q9192 (cmn)-Luilui6666-新加坡.wav",
+"Zh-nan-czhu,_新加坡.ogg"
+],
+"爱人": [],
+"安排": [
+"LL-Q9192 (cmn)-CanonNi-安排.wav",
+"zh-ānpái.ogg"
+],
+"按照": [
+"LL-Q9192 (cmn)-CanonNi-按照.wav",
+"zh-ànzhào.ogg"
+],
+"帮忙": [
+"LL-Q9192 (cmn)-Jouketou-帮忙.wav"
+],
+"包括": [
+"Zh-bāokuò.oga"
+],
+"保证": [
+"LL-Q9192 (cmn)-CanonNi-保证.wav",
+"LL-Q9192 (cmn)-Jouketou-保证.wav"
+],
+"报名": [],
+"北方": [
+"LL-Q9192_(cmn)-Luilui6666-北方.wav",
+"Zh-beifang.ogg"
+],
+"本来": [
+"LL-Q9192 (cmn)-CanonNi-本来.wav",
+"LL-Q9192 (cmn)-Jouketou-本来.wav"
+],
+"笔记本": [
+"LL-Q9192 (cmn)-Luilui6666-笔记本.wav"
+],
+"必要": [
+"zh-bìyào.ogg"
+],
+"标准": [
+"LL-Q9192 (cmn)-CanonNi-标准.wav"
+],
+"表演": [
+"LL-Q9192 (cmn)-CanonNi-表演.wav",
+"LL-Q9192 (cmn)-Jouketou-表演.wav",
+"zh-biǎoyǎn.ogg"
+],
+"表示": [
+"LL-Q9192 (cmn)-CanonNi-表示.wav",
+"zh-biǎoshì.ogg"
+],
+"别人": [
+"LL-Q9192 (cmn)-Jouketou-别人.wav"
+],
+"不但": [
+"zh-búdàn.ogg"
+],
+"不过": [
+"LL-Q9192 (cmn)-CanonNi-不过.wav",
+"LL-Q9192 (cmn)-Jouketou-不过.wav"
+],
+"部分": [
+"LL-Q9192 (cmn)-CanonNi-部分.wav",
+"LL-Q9192 (cmn)-Jouketou-部分.wav",
+"zh-cmn-部分.opus"
+],
+"参观": [
+"LL-Q9192 (cmn)-CanonNi-参观.wav"
+],
+"草地": [],
+"茶叶": [],
+"常常": [
+"zh-chángcháng.ogg"
+],
+"超过": [
+"LL-Q9192 (cmn)-CanonNi-超过.wav"
+],
+"成功": [
+"LL-Q9192 (cmn)-CanonNi-成功.wav",
+"LL-Q9192 (cmn)-Jouketou-成功.wav",
+"Zh-chénggong.ogg"
+],
+"重新": [
+"LL-Q9192 (cmn)-CanonNi-重新.wav",
+"LL-Q9192 (cmn)-Jouketou-重新.wav",
+"Zh-chóngxin.ogg"
+],
+"抽烟": [
+"LL-Q9192 (cmn)-CanonNi-抽烟.wav"
+],
+"出差": [
+"LL-Q9192 (cmn)-CanonNi-出差.wav",
+"Zh-chuchai.ogg"
+],
+"出现": [
+"LL-Q9192 (cmn)-CanonNi-出现.wav",
+"LL-Q9192 (cmn)-Jouketou-出现.wav"
+],
+"除了": [
+"LL-Q9192 (cmn)-Jouketou-除了.wav"
+],
+"词语": [
+"LL-Q9192 (cmn)-CanonNi-词语.wav"
+],
+"粗心": [
+"LL-Q9192 (cmn)-CanonNi-粗心.wav",
+"Zh-cuxin.ogg"
+],
+"打扫": [],
+"打针": [
+"LL-Q9192 (cmn)-CanonNi-打针.wav"
+],
+"打电话": [
+"LL-Q9192 (cmn)-CanonNi-打电话.wav"
+],
+"打篮球": [],
+"大概": [
+"LL-Q9192 (cmn)-CanonNi-大概.wav",
+"LL-Q9192 (cmn)-Jouketou-大概.wav",
+"zh-dàgài.ogg"
+],
+"大使馆": [
+"LL-Q9192 (cmn)-CanonNi-大使馆.wav"
+],
+"大约": [
+"LL-Q9192 (cmn)-CanonNi-大约.wav"
+],
+"当时": [
+"LL-Q9192 (cmn)-CanonNi-当时.wav",
+"LL-Q9192 (cmn)-Jouketou-当时.wav"
+],
+"导游": [
+"LL-Q9192 (cmn)-CanonNi-导游.wav"
+],
+"到处": [
+"LL-Q9192 (cmn)-CanonNi-到处.wav"
+],
+"道歉": [
+"LL-Q9192 (cmn)-CanonNi-道歉.wav",
+"Zh-dàoqiàn.ogg"
+],
+"得到": [
+"zh-dédào.ogg"
+],
+"灯光": [],
+"地方": [
+"LL-Q9192 (cmn)-Jouketou-地方.wav",
+"LL-Q9192 (cmn)-Luilui6666-地方.wav",
+"zh-dìfang.ogg"
+],
+"地点": [
+"LL-Q9192 (cmn)-CanonNi-地点.wav",
+"LL-Q9192 (cmn)-Luilui6666-地点.wav"
+],
+"电子邮件": [],
+"调查": [
+"LL-Q9192 (cmn)-CanonNi-调查.wav",
+"LL-Q9192 (cmn)-Jouketou-调查.wav"
+],
+"东方": [],
+"动作": [
+"LL-Q9192 (cmn)-CanonNi-动作.wav"
+],
+"读书": [],
+"锻炼身体": [],
+"对话": [
+"LL-Q9192 (cmn)-CanonNi-对话.wav"
+],
+"多少": [
+"zh-duōshao.ogg"
+],
+"儿子": [],
+"发生": [
+"LL-Q9192 (cmn)-CanonNi-发生.wav",
+"LL-Q9192 (cmn)-Jouketou-发生.wav"
+],
+"发展": [
+"LL-Q9192 (cmn)-CanonNi-发展.wav"
+],
+"法律": [
+"LL-Q9192 (cmn)-CanonNi-法律.wav",
+"Zh-falu.ogg"
+],
+"烦恼": [
+"LL-Q9192 (cmn)-CanonNi-烦恼.wav"
+],
+"反对": [
+"LL-Q9192 (cmn)-CanonNi-反对.wav"
+],
+"方法": [
+"LL-Q9192 (cmn)-CanonNi-方法.wav",
+"LL-Q9192 (cmn)-Jouketou-方法.wav",
+"zh-fāngfǎ.ogg"
+],
+"方面": [
+"LL-Q9192 (cmn)-CanonNi-方面.wav",
+"zh-fāngmiàn.ogg"
+],
+"方向": [
+"LL-Q9192 (cmn)-CanonNi-方向.wav",
+"zh-fāngxiàng.ogg"
+],
+"房东": [
+"LL-Q9192 (cmn)-CanonNi-房东.wav"
+],
+"放假": [
+"zh-fàngjià.ogg"
+],
+"放心": [
+"Zh-fàngxin.ogg"
+],
+"放弃": [
+"LL-Q9192 (cmn)-CanonNi-放弃.wav",
+"LL-Q9192 (cmn)-Jouketou-放弃.wav"
+],
+"飞机场": [],
+"丰富多彩": [],
+"风景": [],
+"否则": [
+"LL-Q9192 (cmn)-CanonNi-否则.wav"
+],
+"服务": [],
+"符合": [
+"LL-Q9192 (cmn)-CanonNi-符合.wav",
+"Zh-fúhé.ogg"
+],
+"父亲": [
+"LL-Q9192 (cmn)-CanonNi-父亲.wav",
+"LL-Q9192 (cmn)-Jouketou-父亲.wav"
+],
+"付款": [
+"LL-Q9192 (cmn)-CanonNi-付款.wav",
+"Zh-fùkuan.ogg"
+],
+"负责": [
+"LL-Q9192 (cmn)-CanonNi-负责.wav"
+],
+"复习": [
+"LL-Q9192 (cmn)-Luilui6666-复习.wav"
+],
+"干杯": [
+"LL-Q9192 (cmn)-CanonNi-干杯.wav"
+],
+"感动": [
+"LL-Q9192 (cmn)-CanonNi-感动.wav"
+],
+"感觉": [
+"LL-Q9192 (cmn)-CanonNi-感觉.wav",
+"LL-Q9192 (cmn)-Jouketou-感觉.wav"
+],
+"刚刚": [],
+"高级": [],
+"个子": [],
+"根据": [
+"LL-Q9192 (cmn)-Luilui6666-根据.wav"
+],
+"公斤": [
+"zh-gōngjīn.ogg"
+],
+"公里": [
+"LL-Q9192 (cmn)-CanonNi-公里.wav",
+"zh-gōnglǐ.ogg"
+],
+"功夫": [
+"LL-Q9192 (cmn)-CanonNi-功夫.wav",
+"Zh-gongfu.ogg"
+],
+"共同": [
+"LL-Q9192 (cmn)-CanonNi-共同.wav",
+"Zh-gòngtóng.ogg"
+],
+"故意": [
+"LL-Q9192 (cmn)-CanonNi-故意.wav",
+"Zh-gùyì.ogg"
+],
+"关键": [
+"LL-Q9192 (cmn)-CanonNi-关键.wav"
+],
+"关心": [
+"LL-Q9192 (cmn)-Jouketou-关心.wav"
+],
+"关于": [
+"LL-Q9192 (cmn)-Jouketou-关于.wav"
+],
+"管理": [
+"LL-Q9192 (cmn)-CanonNi-管理.wav"
+],
+"广告": [
+"LL-Q9192 (cmn)-CanonNi-广告.wav"
+],
+"规定": [
+"LL-Q9192 (cmn)-CanonNi-规定.wav"
+],
+"国籍": [
+"LL-Q9192 (cmn)-CanonNi-国籍.wav"
+],
+"果然": [
+"Zh-guorán.ogg"
+],
+"过去": [
+"LL-Q9192 (cmn)-Jouketou-过去.wav"
+],
+"害羞": [
+"LL-Q9192 (cmn)-CanonNi-害羞.wav",
+"Zh-hàixiū.oga"
+],
+"寒假": [
+"LL-Q9192 (cmn)-CanonNi-寒假.wav",
+"zh-hánjià.ogg"
+],
+"航班": [
+"LL-Q9192 (cmn)-CanonNi-航班.wav",
+"Zh-hángban.ogg"
+],
+"好处": [
+"LL-Q9192 (cmn)-CanonNi-好处.wav"
+],
+"好像": [
+"LL-Q9192 (cmn)-CanonNi-好像.wav",
+"LL-Q9192 (cmn)-Jouketou-好像.wav",
+"zh-hǎoxiàng.ogg"
+],
+"合适": [
+"LL-Q9192 (cmn)-CanonNi-合适.wav"
+],
+"盒子": [
+"LL-Q9192 (cmn)-CanonNi-盒子.wav"
+],
+"后来": [],
+"花园": [],
+"化妆": [
+"LL-Q9192 (cmn)-Fake estate-化妆.wav"
+],
+"怀疑": [],
+"黄河": [],
+"回忆": [
+"LL-Q9192 (cmn)-CanonNi-回忆.wav"
+],
+"活动": [
+"LL-Q9192 (cmn)-CanonNi-活动.wav",
+"LL-Q9192 (cmn)-Luilui6666-活动.wav"
+],
+"获得": [
+"LL-Q9192 (cmn)-CanonNi-获得.wav"
+],
+"积极": [
+"LL-Q9192 (cmn)-CanonNi-积极.wav"
+],
+"基础": [
+"LL-Q9192 (cmn)-CanonNi-基础.wav"
+],
+"激动": [
+"LL-Q9192 (cmn)-CanonNi-激动.wav"
+],
+"及时": [
+"LL-Q9192 (cmn)-CanonNi-及时.wav"
+],
+"即使": [
+"LL-Q9192 (cmn)-CanonNi-即使.wav",
+"Zh-jíshi.ogg"
+],
+"几乎": [],
+"计划": [
+"LL-Q9192 (cmn)-Aa087159-计划.wav",
+"LL-Q9192 (cmn)-CanonNi-计划.wav",
+"LL-Q9192 (cmn)-Jouketou-计划.wav"
+],
+"继续": [
+"LL-Q9192 (cmn)-CanonNi-继续.wav",
+"LL-Q9192 (cmn)-Jouketou-继续.wav"
+],
+"家具": [
+"LL-Q9192 (cmn)-CanonNi-家具.wav",
+"Zh-jiajù.ogg"
+],
+"家庭": [
+"zh-jiātíng.ogg"
+],
+"假期": [],
+"坚持": [
+"LL-Q9192 (cmn)-CanonNi-坚持.wav"
+],
+"见面": [
+"LL-Q9192 (cmn)-Jouketou-见面.wav",
+"LL-Q9192 (cmn)-Luilui6666-见面.wav"
+],
+"建议": [
+"LL-Q9192 (cmn)-CanonNi-建议.wav"
+],
+"将来": [
+"LL-Q9192 (cmn)-CanonNi-将来.wav"
+],
+"奖金": [
+"LL-Q9192 (cmn)-CanonNi-奖金.wav"
+],
+"降落": [
+"LL-Q9192 (cmn)-CanonNi-降落.wav",
+"Zh-jiàngluò.ogg"
+],
+"交流": [
+"LL-Q9192 (cmn)-CanonNi-交流.wav",
+"Zh-jiaoliú.ogg"
+],
+"交通": [
+"LL-Q9192 (cmn)-CanonNi-交通.wav",
+"Zh-jiaotong.ogg",
+"Zh-交通.oga"
+],
+"郊区": [
+"LL-Q9192 (cmn)-CanonNi-郊区.wav"
+],
+"教授": [
+"LL-Q9192 (cmn)-CanonNi-教授.wav",
+"zh-jiàoshòu.ogg"
+],
+"街道": [
+"Zh-jiedào.ogg"
+],
+"解释": [
+"LL-Q9192 (cmn)-CanonNi-解释.wav",
+"LL-Q9192 (cmn)-Jouketou-解释.wav",
+"LL-Q9192 (cmn)-Luilui6666-解释.wav"
+],
+"姐妹": [],
+"借口": [],
+"今后": [],
+"尽管": [
+"LL-Q9192 (cmn)-CanonNi-尽管.wav"
+],
+"进行": [
+"LL-Q9192 (cmn)-CanonNi-进行.wav",
+"LL-Q9192 (cmn)-Jouketou-进行.wav"
+],
+"禁止": [
+"LL-Q9192 (cmn)-CanonNi-禁止.wav",
+"Zh-jìnzhi.ogg"
+],
+"经过": [],
+"经历": [
+"LL-Q9192 (cmn)-CanonNi-经历.wav"
+],
+"精彩": [
+"LL-Q9192 (cmn)-CanonNi-精彩.wav",
+"zh-jīngcǎi.ogg"
+],
+"精神": [
+"zh-jīngshén.ogg"
+],
+"竞争": [
+"LL-Q9192 (cmn)-CanonNi-竞争.wav"
+],
+"酒店": [],
+"举行": [
+"LL-Q9192 (cmn)-CanonNi-举行.wav"
+],
+"举办": [
+"LL-Q9192 (cmn)-CanonNi-举办.wav"
+],
+"距离": [
+"LL-Q9192 (cmn)-CanonNi-距离.wav"
+],
+"开玩笑": [
+"LL-Q9192 (cmn)-CanonNi-开玩笑.wav"
+],
+"开心": [
+"LL-Q9192 (cmn)-CanonNi-开心.wav",
+"LL-Q9192 (cmn)-Jouketou-开心.wav"
+],
+"看病": [
+"zh-kànbìng.ogg"
+],
+"看见": [],
+"考虑": [
+"LL-Q9192 (cmn)-CanonNi-考虑.wav",
+"LL-Q9192 (cmn)-Jouketou-考虑.wav"
+],
+"可怜": [
+"LL-Q9192 (cmn)-CanonNi-可怜.wav"
+],
+"可惜": [
+"LL-Q9192 (cmn)-CanonNi-可惜.wav",
+"LL-Q9192 (cmn)-Luilui6666-可惜.wav"
+],
+"客气": [],
+"肯定": [
+"LL-Q9192 (cmn)-CanonNi-肯定.wav",
+"LL-Q9192 (cmn)-Jouketou-肯定.wav",
+"Zh-kendìng.ogg"
+],
+"恐怕": [
+"LL-Q9192 (cmn)-CanonNi-恐怕.wav",
+"Zh-kongpà.ogg"
+],
+"困难": [
+"LL-Q9192 (cmn)-CanonNi-困难.wav"
+],
+"垃圾桶": [
+"LL-Q9192 (cmn)-CanonNi-垃圾桶.wav"
+],
+"来不及": [
+"LL-Q9192 (cmn)-CanonNi-来不及.wav"
+],
+"来得及": [
+"LL-Q9192 (cmn)-CanonNi-来得及.wav"
+],
+"浪漫": [
+"LL-Q9192 (cmn)-CanonNi-浪漫.wav",
+"zh-làngmàn.ogg"
+],
+"老板": [],
+"乐观": [],
+"礼拜天": [
+"LL-Q9192 (cmn)-CanonNi-礼拜天.wav"
+],
+"理发": [
+"LL-Q9192 (cmn)-CanonNi-理发.wav"
+],
+"理解": [
+"LL-Q9192 (cmn)-CanonNi-理解.wav",
+"LL-Q9192 (cmn)-Jouketou-理解.wav",
+"LL-Q9192_(cmn)-Jouketou-理解.wav",
+"Zh-lijie.ogg"
+],
+"理想": [
+"LL-Q9192 (cmn)-CanonNi-理想.wav",
+"Zh-lixiang.ogg"
+],
+"力气": [
+"LL-Q9192 (cmn)-CanonNi-力气.wav"
+],
+"厉害": [
+"LL-Q9192 (cmn)-CanonNi-厉害.wav"
+],
+"例如": [
+"LL-Q9192 (cmn)-CanonNi-例如.wav",
+"LL-Q9192 (cmn)-Luilui6666-例如.wav",
+"zh-lìrú.ogg"
+],
+"凉快": [
+"LL-Q9192 (cmn)-CanonNi-凉快.wav"
+],
+"了解": [
+"LL-Q9192 (cmn)-Jouketou-了解.wav",
+"zh-liǎojiě.ogg"
+],
+"流利": [
+"LL-Q9192 (cmn)-CanonNi-流利.wav",
+"Zh-liúlì.ogg"
+],
+"流行": [
+"LL-Q9192 (cmn)-CanonNi-流行.wav",
+"Zh-liúxíng.ogg"
+],
+"美丽": [
+"LL-Q9192 (cmn)-CanonNi-美丽.wav"
+],
+"门口": [
+"LL-Q9192 (cmn)-Luilui6666-门口.wav"
+],
+"梦想": [],
+"面积": [],
+"民族": [
+"LL-Q9192 (cmn)-CanonNi-民族.wav",
+"zh-mínzú.ogg"
+],
+"明白": [
+"LL-Q9192 (cmn)-Jouketou-明白.wav"
+],
+"母亲": [
+"LL-Q9192 (cmn)-CanonNi-母亲.wav",
+"LL-Q9192 (cmn)-Jouketou-母亲.wav"
+],
+"目的": [
+"LL-Q9192 (cmn)-CanonNi-目的.wav"
+],
+"耐心": [
+"LL-Q9192 (cmn)-CanonNi-耐心.wav",
+"Zh-nàixīn.oga"
+],
+"难道": [
+"LL-Q9192 (cmn)-CanonNi-难道.wav",
+"LL-Q9192 (cmn)-Jouketou-难道.wav"
+],
+"难受": [
+"LL-Q9192 (cmn)-CanonNi-难受.wav"
+],
+"内容": [
+"LL-Q9192 (cmn)-CanonNi-内容.wav"
+],
+"能力": [
+"LL-Q9192 (cmn)-CanonNi-能力.wav",
+"LL-Q9192 (cmn)-Jouketou-能力.wav",
+"LL-Q9192_(cmn)-Jouketou-能力.wav",
+"Zh-nénglì.ogg"
+],
+"年级": [],
+"年龄": [
+"LL-Q9192 (cmn)-CanonNi-年龄.wav"
+],
+"牛肉": [
+"LL-Q9192 (cmn)-Luilui6666-牛肉.wav"
+],
+"暖和": [
+"LL-Q9192 (cmn)-CanonNi-暖和.wav",
+"zh-nuǎnhuo.ogg"
+],
+"偶尔": [
+"LL-Q9192 (cmn)-CanonNi-偶尔.wav"
+],
+"跑步": [
+"zh-pǎobù.ogg"
+],
+"皮肤": [
+"LL-Q9192 (cmn)-CanonNi-皮肤.wav"
+],
+"平时": [
+"LL-Q9192 (cmn)-CanonNi-平时.wav"
+],
+"其他": [
+"LL-Q9192 (cmn)-Jouketou-其他.wav",
+"LL-Q9192 (cmn)-雲角-其他.wav"
+],
+"其中": [
+"LL-Q9192 (cmn)-CanonNi-其中.wav",
+"Zh-qízhong.ogg"
+],
+"起飞": [],
+"起来": [
+"LL-Q9192 (cmn)-Jouketou-起来.wav"
+],
+"签证": [
+"LL-Q9192 (cmn)-CanonNi-签证.wav"
+],
+"清楚": [
+"LL-Q9192 (cmn)-Jouketou-清楚.wav",
+"Zh-qīngchu.ogg"
+],
+"情况": [
+"LL-Q9192 (cmn)-CanonNi-情况.wav",
+"LL-Q9192 (cmn)-Jouketou-情况.wav"
+],
+"请假": [],
+"请客": [],
+"区别": [
+"LL-Q9192 (cmn)-CanonNi-区别.wav"
+],
+"全部": [
+"zh-quánbù.ogg"
+],
+"缺点": [],
+"确实": [
+"LL-Q9192 (cmn)-CanonNi-确实.wav",
+"LL-Q9192 (cmn)-Jouketou-确实.wav"
+],
+"然而": [
+"LL-Q9192 (cmn)-CanonNi-然而.wav"
+],
+"热情": [],
+"人民币": [],
+"任何": [
+"LL-Q9192 (cmn)-CanonNi-任何.wav",
+"LL-Q9192 (cmn)-Jouketou-任何.wav",
+"zh-rènhé.ogg"
+],
+"任务": [
+"LL-Q9192 (cmn)-CanonNi-任务.wav",
+"LL-Q9192 (cmn)-Jouketou-任务.wav"
+],
+"仍然": [
+"LL-Q9192 (cmn)-CanonNi-仍然.wav",
+"Zh-réngrán.ogg"
+],
+"日记": [
+"LL-Q9192 (cmn)-CanonNi-日记.wav"
+],
+"入口": [
+"LL-Q9192 (cmn)-CanonNi-入口.wav",
+"Zh-rùkou.ogg"
+],
+"商量": [
+"LL-Q9192 (cmn)-CanonNi-商量.wav"
+],
+"伤心": [
+"LL-Q9192 (cmn)-CanonNi-伤心.wav"
+],
+"上班": [
+"Zh-shàngban.ogg"
+],
+"上网": [
+"LL-Q9192 (cmn)-Assassas77-上网.wav",
+"LL-Q9192 (cmn)-CanonNi-上网.wav",
+"LL-Q9192 (cmn)-Jouketou-上网.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-上网.wav",
+"LL-Q9192 (cmn)-Luilui6666-上网.wav"
+],
+"身体": [],
+"什么": [
+"LL-Q9192 (cmn)-Assassas77-什么.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-什么.wav",
+"LL-Q9192 (cmn)-Wang Cheng (Yug)-什么.wav",
+"LL-Q9192 (cmn)-雲角-什么.wav"
+],
+"甚至": [
+"LL-Q9192 (cmn)-CanonNi-甚至.wav",
+"zh-shènzhì.ogg"
+],
+"生病": [
+"Zh-shengbìng.ogg"
+],
+"生活": [
+"LL-Q9192 (cmn)-CanonNi-生活.wav",
+"LL-Q9192 (cmn)-Jouketou-生活.wav",
+"Zh-shēnghuó.ogg"
+],
+"声音": [
+"LL-Q9192 (cmn)-Jouketou-声音.wav"
+],
+"失败": [
+"LL-Q9192 (cmn)-CanonNi-失败.wav"
+],
+"师傅": [
+"LL-Q9192 (cmn)-CanonNi-师傅.wav"
+],
+"十分": [
+"LL-Q9192 (cmn)-CanonNi-十分.wav",
+"zh-shífēn.ogg"
+],
+"实际": [
+"LL-Q9192 (cmn)-CanonNi-实际.wav"
+],
+"实在": [
+"LL-Q9192 (cmn)-CanonNi-实在.wav"
+],
+"食品": [
+"Zh-shípin.ogg",
+"Zh-食品.oga"
+],
+"使用": [
+"LL-Q9192 (cmn)-CanonNi-使用.wav",
+"zh-shǐyòng.ogg"
+],
+"是否": [
+"LL-Q9192 (cmn)-CanonNi-是否.wav",
+"LL-Q9192 (cmn)-Jouketou-是否.wav",
+"Zh-shìfou.ogg"
+],
+"适合": [
+"LL-Q9192 (cmn)-CanonNi-适合.wav"
+],
+"收入": [
+"LL-Q9192 (cmn)-CanonNi-收入.wav",
+"Zh-shourù.ogg"
+],
+"首都": [
+"LL-Q9192 (cmn)-CanonNi-首都.wav",
+"zh-shǒudū.ogg"
+],
+"受不了": [
+"LL-Q9192 (cmn)-CanonNi-受不了.wav"
+],
+"熟悉": [
+"LL-Q9192 (cmn)-CanonNi-熟悉.wav",
+"Zh-shúxi.ogg"
+],
+"数学": [],
+"数字": [
+"LL-Q9192 (cmn)-CanonNi-数字.wav"
+],
+"顺便": [
+"LL-Q9192 (cmn)-CanonNi-顺便.wav",
+"LL-Q9192 (cmn)-Luilui6666-顺便.wav"
+],
+"顺利": [
+"LL-Q9192 (cmn)-CanonNi-顺利.wav"
+],
+"说明": [
+"LL-Q9192 (cmn)-CanonNi-说明.wav"
+],
+"硕士": [
+"LL-Q9192 (cmn)-CanonNi-硕士.wav"
+],
+"速度": [
+"LL-Q9192 (cmn)-CanonNi-速度.wav",
+"zh-sùdù.ogg"
+],
+"塑料袋": [
+"LL-Q9192 (cmn)-CanonNi-塑料袋.wav"
+],
+"随便": [
+"LL-Q9192 (cmn)-CanonNi-随便.wav"
+],
+"随着": [
+"LL-Q9192 (cmn)-CanonNi-随着.wav"
+],
+"孙子": [
+"LL-Q9192 (cmn)-CanonNi-孙子.wav"
+],
+"所有": [
+"LL-Q9192 (cmn)-CanonNi-所有.wav",
+"LL-Q9192 (cmn)-Jouketou-所有.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-所有.wav",
+"LL-Q9192 (cmn)-雲角-所有.wav",
+"zh-suǒyǒu.ogg"
+],
+"太太": [],
+"态度": [
+"LL-Q9192 (cmn)-CanonNi-态度.wav"
+],
+"弹钢琴": [
+"LL-Q9192 (cmn)-CanonNi-弹钢琴.wav"
+],
+"讨厌": [
+"LL-Q9192 (cmn)-CanonNi-讨厌.wav",
+"LL-Q9192 (cmn)-Jouketou-讨厌.wav"
+],
+"特点": [
+"LL-Q9192 (cmn)-CanonNi-特点.wav"
+],
+"提前": [
+"LL-Q9192 (cmn)-CanonNi-提前.wav",
+"Zh-tíqián.ogg"
+],
+"提醒": [
+"LL-Q9192 (cmn)-CanonNi-提醒.wav",
+"Zh-tíxing.ogg"
+],
+"体育": [],
+"填空": [
+"LL-Q9192 (cmn)-CanonNi-填空.wav"
+],
+"条件": [
+"LL-Q9192 (cmn)-CanonNi-条件.wav"
+],
+"停止": [
+"Zh-tíngzhi.ogg"
+],
+"通过": [
+"LL-Q9192 (cmn)-CanonNi-通过.wav",
+"LL-Q9192 (cmn)-Jouketou-通过.wav"
+],
+"同情": [
+"LL-Q9192 (cmn)-CanonNi-同情.wav",
+"Zh-tóngqíng.ogg"
+],
+"同时": [
+"LL-Q9192 (cmn)-CanonNi-同时.wav"
+],
+"完成": [
+"LL-Q9192 (cmn)-Jouketou-完成.wav",
+"zh-wánchéng.ogg"
+],
+"完全": [
+"LL-Q9192 (cmn)-CanonNi-完全.wav",
+"LL-Q9192 (cmn)-Jouketou-完全.wav",
+"zh-wánquán.ogg"
+],
+"晚会": [],
+"往往": [
+"LL-Q9192 (cmn)-CanonNi-往往.wav",
+"Zh-wangwang.ogg"
+],
+"为了": [
+"LL-Q9192 (cmn)-Jouketou-为了.wav"
+],
+"为什么": [],
+"味道": [
+"LL-Q9192 (cmn)-CanonNi-味道.wav",
+"LL-Q9192 (cmn)-Luilui6666-味道.wav",
+"LL-Q9192_(cmn)-Luilui6666-味道.wav"
+],
+"文章": [
+"LL-Q9192 (cmn)-CanonNi-文章.wav",
+"LL-Q9192 (cmn)-Luilui6666-文章.wav",
+"zh-wénzhāng.ogg"
+],
+"问路": [],
+"污染": [
+"LL-Q9192 (cmn)-CanonNi-污染.wav",
+"Zh-wuran.ogg"
+],
+"误会": [
+"LL-Q9192 (cmn)-CanonNi-误会.wav"
+],
+"吸引": [
+"LL-Q9192 (cmn)-CanonNi-吸引.wav",
+"Zh-xiyin.ogg"
+],
+"洗澡": [
+"zh-xǐzǎo.ogg"
+],
+"下班": [
+"LL-Q9192 (cmn)-Luilui6666-下班.wav"
+],
+"先生": [
+"zh-xiānsheng.ogg",
+"zh-yue-先生.opus"
+],
+"现代": [],
+"羡慕": [
+"LL-Q9192 (cmn)-CanonNi-羡慕.wav"
+],
+"限制": [
+"zh-xiànzhì.ogg"
+],
+"相同": [
+"LL-Q9192 (cmn)-CanonNi-相同.wav",
+"Zh-xiāngtóng.oga"
+],
+"详细": [
+"LL-Q9192 (cmn)-CanonNi-详细.wav"
+],
+"想法": [],
+"消息": [
+"LL-Q9192 (cmn)-CanonNi-消息.wav",
+"LL-Q9192 (cmn)-Jouketou-消息.wav",
+"zh-xiāoxi.ogg"
+],
+"小心": [
+"LL-Q9192 (cmn)-Jouketou-小心.wav",
+"Zh-xiaoxin.ogg"
+],
+"小说": [
+"LL-Q9192 (cmn)-CanonNi-小说.wav"
+],
+"效果": [
+"LL-Q9192 (cmn)-CanonNi-效果.wav",
+"Zh-xiàoguǒ.oga"
+],
+"鞋子": [],
+"辛苦": [
+"LL-Q9192 (cmn)-CanonNi-辛苦.wav",
+"Zh-xīnkǔ.ogg"
+],
+"新鲜": [],
+"信心": [
+"LL-Q9192 (cmn)-CanonNi-信心.wav",
+"Zh-xìnxin.ogg"
+],
+"兴奋": [
+"LL-Q9192 (cmn)-CanonNi-兴奋.wav"
+],
+"性别": [
+"LL-Q9192 (cmn)-CanonNi-性别.wav"
+],
+"性格": [
+"LL-Q9192 (cmn)-CanonNi-性格.wav",
+"zh-xìnggé.ogg"
+],
+"许多": [
+"LL-Q9192 (cmn)-CanonNi-许多.wav"
+],
+"学期": [
+"LL-Q9192 (cmn)-CanonNi-学期.wav"
+],
+"牙膏": [
+"LL-Q9192 (cmn)-CanonNi-牙膏.wav",
+"Zh-yágao.ogg"
+],
+"压力": [
+"LL-Q9192 (cmn)-CanonNi-压力.wav"
+],
+"亚洲": [
+"LL-Q9192 (cmn)-CanonNi-亚洲.wav",
+"LL-Q9192 (cmn)-Jouketou-亚洲.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-亚洲.wav"
+],
+"研究": [
+"LL-Q9192 (cmn)-CanonNi-研究.wav",
+"zh-yánjiū.ogg"
+],
+"演出": [
+"LL-Q9192 (cmn)-CanonNi-演出.wav",
+"Zh-yǎnchū.ogg"
+],
+"羊肉": [
+"LL-Q9192 (cmn)-CanonNi-羊肉.wav"
+],
+"阳光": [
+"LL-Q9192 (cmn)-CanonNi-阳光.wav"
+],
+"养成": [
+"LL-Q9192 (cmn)-CanonNi-养成.wav"
+],
+"样子": [
+"LL-Q9192 (cmn)-CanonNi-样子.wav",
+"LL-Q9192 (cmn)-Jouketou-样子.wav"
+],
+"要求": [
+"LL-Q9192 (cmn)-Jouketou-要求.wav"
+],
+"要是": [
+"LL-Q9192 (cmn)-CanonNi-要是.wav"
+],
+"也许": [
+"LL-Q9192 (cmn)-CanonNi-也许.wav",
+"LL-Q9192 (cmn)-Jouketou-也许.wav"
+],
+"一定": [
+"LL-Q9192 (cmn)-Jouketou-一定.wav"
+],
+"一共": [
+"LL-Q9192 (cmn)-Luilui6666-一共.wav",
+"zh-yígòng.ogg"
+],
+"一样": [
+"LL-Q9192 (cmn)-Jouketou-一样.wav",
+"LL-Q9192 (cmn)-Luilui6666-一样.wav"
+],
+"一般": [
+"zh-yìbān.ogg"
+],
+"一边": [],
+"一起": [
+"LL-Q9192 (cmn)-Luilui6666-一起.wav",
+"Zh-yìqǐ.ogg"
+],
+"一直": [
+"LL-Q9192 (cmn)-Jouketou-一直.wav",
+"Zh-yìzhí.ogg"
+],
+"衣服": [
+"LL-Q9192 (cmn)-Luilui6666-衣服.wav",
+"zh-yīfu.ogg"
+],
+"以为": [
+"LL-Q9192 (cmn)-CanonNi-以为.wav",
+"LL-Q9192 (cmn)-Jouketou-以为.wav"
+],
+"艺术": [
+"LL-Q9192 (cmn)-CanonNi-艺术.wav"
+],
+"因此": [
+"LL-Q9192 (cmn)-CanonNi-因此.wav",
+"Zh-yinci.ogg"
+],
+"音乐会": [],
+"引起": [
+"LL-Q9192 (cmn)-CanonNi-引起.wav",
+"Zh-yinqi.ogg"
+],
+"印象": [
+"LL-Q9192 (cmn)-CanonNi-印象.wav",
+"zh-yìnxiàng.ogg"
+],
+"应聘": [
+"LL-Q9192 (cmn)-CanonNi-应聘.wav"
+],
+"影子": [
+"Zh-yǐngzi.oga"
+],
+"永远": [
+"LL-Q9192 (cmn)-CanonNi-永远.wav",
+"LL-Q9192 (cmn)-Jouketou-永远.wav"
+],
+"优点": [
+"LL-Q9192 (cmn)-CanonNi-优点.wav"
+],
+"优秀": [
+"LL-Q9192 (cmn)-CanonNi-优秀.wav"
+],
+"由于": [
+"LL-Q9192 (cmn)-CanonNi-由于.wav"
+],
+"友好": [
+"LL-Q9192 (cmn)-CanonNi-友好.wav",
+"Zh-yǒuhǎo.ogg"
+],
+"友谊": [
+"LL-Q9192 (cmn)-CanonNi-友谊.wav"
+],
+"有意思": [
+"zh-yǒuyìsi.ogg"
+],
+"于是": [
+"LL-Q9192 (cmn)-CanonNi-于是.wav"
+],
+"愉快": [
+"LL-Q9192 (cmn)-CanonNi-愉快.wav",
+"zh-yúkuài.ogg"
+],
+"羽毛球": [
+"LL-Q9192 (cmn)-CanonNi-羽毛球.wav",
+"LL-Q9192 (cmn)-Luilui6666-羽毛球.wav",
+"Zh-yumáoqiú.ogg"
+],
+"语言": [
+"LL-Q9192 (cmn)-CanonNi-语言.wav"
+],
+"预习": [
+"LL-Q9192 (cmn)-CanonNi-预习.wav"
+],
+"原来": [
+"LL-Q9192 (cmn)-CanonNi-原来.wav"
+],
+"原谅": [
+"LL-Q9192 (cmn)-CanonNi-原谅.wav"
+],
+"允许": [
+"LL-Q9192 (cmn)-CanonNi-允许.wav"
+],
+"咱们": [
+"LL-Q9192 (cmn)-CanonNi-咱们.wav",
+"LL-Q9192 (cmn)-Jouketou-咱们.wav"
+],
+"暂时": [
+"LL-Q9192 (cmn)-CanonNi-暂时.wav"
+],
+"责任": [
+"LL-Q9192 (cmn)-CanonNi-责任.wav"
+],
+"怎么": [],
+"怎么样": [],
+"增长": [],
+"招聘": [
+"LL-Q9192 (cmn)-CanonNi-招聘.wav",
+"Zh-zhaopìn.ogg"
+],
+"着急": [],
+"真正": [
+"LL-Q9192 (cmn)-CanonNi-真正.wav",
+"LL-Q9192 (cmn)-Jouketou-真正.wav",
+"zh-zhēnzhèng.ogg"
+],
+"整理": [
+"LL-Q9192 (cmn)-CanonNi-整理.wav",
+"Zh-zhengli.ogg"
+],
+"整齐": [],
+"正常": [
+"LL-Q9192 (cmn)-CanonNi-正常.wav",
+"LL-Q9192 (cmn)-Jouketou-正常.wav",
+"Zh-zhèngcháng.ogg"
+],
+"正好": [
+"LL-Q9192 (cmn)-CanonNi-正好.wav",
+"Zh-zhènghao.ogg"
+],
+"正在": [
+"Zh-zhèngzài.ogg"
+],
+"证明": [
+"LL-Q9192 (cmn)-CanonNi-证明.wav",
+"LL-Q9192 (cmn)-Jouketou-证明.wav"
+],
+"支持": [
+"LL-Q9192 (cmn)-CanonNi-支持.wav",
+"Zh-zhichí.ogg"
+],
+"直接": [
+"LL-Q9192 (cmn)-CanonNi-直接.wav",
+"LL-Q9192 (cmn)-Jouketou-直接.wav",
+"Zh-zhíjie.ogg"
+],
+"值得": [
+"LL-Q9192 (cmn)-CanonNi-值得.wav"
+],
+"职业": [
+"LL-Q9192 (cmn)-CanonNi-职业.wav"
+],
+"植物": [
+"LL-Q9192 (cmn)-CanonNi-植物.wav",
+"zh-zhíwù.ogg"
+],
+"只好": [
+"LL-Q9192 (cmn)-CanonNi-只好.wav",
+"zh-zhǐhǎo.ogg"
+],
+"只要": [
+"LL-Q9192 (cmn)-CanonNi-只要.wav",
+"LL-Q9192 (cmn)-Jouketou-只要.wav",
+"Zh-zhiyào.ogg"
+],
+"至少": [
+"LL-Q9192 (cmn)-CanonNi-至少.wav",
+"LL-Q9192 (cmn)-Jouketou-至少.wav",
+"Zh-zhìshao.ogg"
+],
+"质量": [
+"LL-Q9192 (cmn)-CanonNi-质量.wav"
+],
+"中文": [
+"LL-Q9192 (cmn)-Luilui6666-中文.wav",
+"zh-zhōngwén.ogg"
+],
+"中心": [],
+"种类": [],
+"重点": [
+"LL-Q9192 (cmn)-CanonNi-重点.wav"
+],
+"周围": [
+"LL-Q9192 (cmn)-CanonNi-周围.wav"
+],
+"猪肉": [],
+"主要": [
+"Zh-zhǔyào.ogg"
+],
+"主意": [
+"LL-Q9192 (cmn)-CanonNi-主意.wav",
+"LL-Q9192 (cmn)-Jouketou-主意.wav",
+"LL-Q9192_(cmn)-Jouketou-主意.wav",
+"Zh-zhǔyi.ogg"
+],
+"著名": [
+"LL-Q9192 (cmn)-CanonNi-著名.wav",
+"zh-zhùmíng.ogg"
+],
+"专门": [
+"LL-Q9192 (cmn)-CanonNi-专门.wav"
+],
+"专业": [
+"LL-Q9192 (cmn)-CanonNi-专业.wav"
+],
+"准时": [
+"LL-Q9192 (cmn)-CanonNi-准时.wav"
+],
+"仔细": [
+"LL-Q9192 (cmn)-CanonNi-仔细.wav"
+],
+"字典": [
+"LL-Q9192 (cmn)-Jouketou-字典.wav",
+"Zh-zìdian.ogg"
+],
+"总结": [
+"LL-Q9192 (cmn)-CanonNi-总结.wav"
+],
+"走路": [],
+"最好": [
+"LL-Q9192 (cmn)-CanonNi-最好.wav",
+"Zh-zuìhao.ogg"
+],
+"尊重": [
+"LL-Q9192 (cmn)-CanonNi-尊重.wav",
+"Zh-zunzhòng.ogg"
+],
+"作用": [
+"LL-Q9192 (cmn)-CanonNi-作用.wav",
+"zh-zuòyòng.ogg"
+],
+"座位": [
+"LL-Q9192 (cmn)-CanonNi-座位.wav",
+"zh-zuòwèi.ogg"
+],
+"做生意": [],
+"长江": [
+"LL-Q9192 (cmn)-CanonNi-长江.wav"
+],
+"吃饭": [
+"LL-Q9192 (cmn)-Luilui6666-吃饭.wav"
+],
+"穿衣服": [],
+"打扮": [
+"LL-Q9192 (cmn)-CanonNi-打扮.wav"
+],
+"大夫": [
+"LL-Q9192 (cmn)-CanonNi-大夫.wav",
+"zh-dàifu.ogg"
+],
+"刀子": [],
+"地铁站": [],
+"点菜": [
+"LL-Q9192 (cmn)-Luilui6666-点菜.wav"
+],
+"电影院": [],
+"饿死了": [],
+"公共": [],
+"贵姓": [
+"LL-Q9192 (cmn)-Luilui6666-贵姓.wav"
+],
+"好吃": [
+"LL-Q9192 (cmn)-Luilui6666-好吃.wav",
+"zh-hǎochī.ogg"
+],
+"喝茶": [],
+"很多": [
+"LL-Q9192 (cmn)-Luilui6666-很多.wav"
+],
+"后天": [],
+"花钱": [],
+"回家": [
+"LL-Q9192 (cmn)-Luilui6666-回家.wav"
+],
+"鸡肉": [
+"LL-Q9192 (cmn)-Luilui6666-鸡肉.wav"
+],
+"价钱": [],
+"借书": [],
+"进来": [],
+"开会": [],
+"可乐": [],
+"课本": [],
+"口渴": [],
+"老家": [],
+"脸色": [],
+"两个": [],
+"零钱": [
+"LL-Q9192 (cmn)-CanonNi-零钱.wav",
+"LL-Q9192 (cmn)-Luilui6666-零钱.wav"
+],
+"楼上": [],
+"楼下": [],
+"慢慢": [],
+"毛衣": [],
+"没有": [
+"LL-Q9192 (cmn)-Luilui6666-没有.wav"
+],
+"美国人": [
+"LL-Q9192 (cmn)-Luilui6666-美国人.wav"
+],
+"名片": [
+"LL-Q9192 (cmn)-CanonNi-名片.wav"
+],
+"哪里": [
+"LL-Q9192 (cmn)-Luilui6666-哪里.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-哪里.wav",
+"LL-Q9192 (cmn)-雲角-哪里.wav"
+],
+"那里": [
+"LL-Q9192 (cmn)-Luilui6666-那里.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-那里.wav",
+"LL-Q9192 (cmn)-Wang Cheng (Yug)-那里.wav",
+"LL-Q9192 (cmn)-雲角-那里.wav"
+],
+"女儿": [],
+"朋友们": [],
+"前天": [],
+"商场": [],
+"上课": [
+"LL-Q9192 (cmn)-Luilui6666-上课.wav"
+],
+"下课": [
+"LL-Q9192 (cmn)-Luilui6666-下课.wav"
+],
+"书架": [],
+"水果": [
+"LL-Q9192 (cmn)-Jouketou-水果.wav",
+"zh-shuǐguǒ.ogg"
+],
+"宿舍": [
+"zh-sùshè.ogg"
+],
+"他们": [
+"LL-Q9192 (cmn)-Vickylin77amis-他们.wav",
+"LL-Q9192 (cmn)-Wang Cheng (Yug)-他们.wav",
+"LL-Q9192 (cmn)-雲角-他们.wav"
+],
+"听说": [
+"LL-Q9192 (cmn)-Luilui6666-听说.wav"
+],
+"我们": [
+"LL-Q9192 (cmn)-Assassas77-我们.wav",
+"LL-Q9192 (cmn)-Luilui6666-我们.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-我们.wav",
+"LL-Q9192 (cmn)-Wang Cheng (Yug)-我们.wav",
+"LL-Q9192 (cmn)-雲角-我们.wav"
+],
+"洗手": [],
+"小姐": [
+"LL-Q9192 (cmn)-Luilui6666-小姐.wav",
+"Zh-xiǎojiě.oga"
+],
+"小时候": [],
+"校园": [],
+"写字": [],
+"星期天": [
+"LL-Q9192 (cmn)-Jouketou-星期天.wav"
+],
+"银行卡": [],
+"英文": [
+"LL-Q9192 (cmn)-Luilui6666-英文.wav"
+],
+"运动员": [],
+"怎么办": [],
+"这个": [],
+"一些": [
+"LL-Q9192 (cmn)-Luilui6666-一些.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-一些.wav",
+"LL-Q9192 (cmn)-雲角-一些.wav",
+"Zh-yìxiē.ogg"
+],
+"一切": [
+"LL-Q9192 (cmn)-CanonNi-一切.wav",
+"LL-Q9192 (cmn)-Jouketou-一切.wav",
+"Zh-yíqiè.ogg"
+],
+"一半": [],
+"一同": [],
+"一生": [],
+"一致": [],
+"一辈子": [],
+"万一": [],
+"上升": [],
+"上学": [],
+"上衣": [],
+"上面": [
+"LL-Q9192 (cmn)-Luilui6666-上面.wav",
+"LL-Q9192_(cmn)-Luilui6666-上面.wav"
+],
+"下面": [],
+"下降": [],
+"不仅": [
+"LL-Q9192 (cmn)-CanonNi-不仅.wav"
+],
+"不停": [],
+"不同": [
+"zh-bùtóng.ogg"
+],
+"不少": [],
+"不幸": [],
+"不必": [
+"Zh-bùbì.ogg"
+],
+"不断": [],
+"不行": [],
+"不错": [
+"LL-Q9192 (cmn)-Luilui6666-不错.wav"
+],
+"专家": [],
+"专心": [],
+"东北": [],
+"东南": [],
+"丢失": [],
+"严重": [
+"LL-Q9192 (cmn)-CanonNi-严重.wav"
+],
+"严肃": [],
+"个人": [],
+"个性": [],
+"中学": [],
+"中年": [
+"Zh-zhongnián.ogg"
+],
+"中秋": [],
+"中医": [],
+"丰收": [],
+"临时": [],
+"主人": [
+"Zh-zhurén.ogg"
+],
+"主任": [],
+"主动": [],
+"主题": [],
+"乐器": [],
+"乐趣": [
+"LL-Q9192 (cmn)-Fake estate-乐趣.wav"
+],
+"习俗": [],
+"乡下": [],
+"书法": [],
+"买卖": [],
+"了不起": [],
+"争取": [],
+"争论": [],
+"事先": [
+"Zh-shìxian.ogg"
+],
+"事实": [],
+"事故": [
+"LL-Q9192 (cmn)-Fake estate-事故.wav",
+"zh-shìgù.ogg"
+],
+"云彩": [],
+"交换": [],
+"产品": [],
+"享受": [
+"Zh-xiangshòu.ogg"
+],
+"京剧": [
+"LL-Q9192 (cmn)-CanonNi-京剧.wav"
+],
+"亲切": [],
+"亲爱": [
+"LL-Q9192 (cmn)-Jouketou-亲爱.wav"
+],
+"亲自": [],
+"人口": [
+"Zh-rénkou.ogg"
+],
+"人员": [],
+"人生": [],
+"人类": [],
+"仍旧": [
+"LL-Q9192 (cmn)-Fake estate-仍旧.wav"
+],
+"从来": [
+"LL-Q9192 (cmn)-CanonNi-从来.wav",
+"LL-Q9192 (cmn)-Jouketou-从来.wav"
+],
+"从前": [],
+"从小": [],
+"代表": [
+"zh-dàibiǎo.ogg"
+],
+"代替": [
+"zh-dàitì.ogg"
+],
+"以上": [],
+"以下": [],
+"以外": [],
+"价值": [],
+"仿佛": [],
+"企业": [],
+"优美": [],
+"伙伴": [
+"Zh-huobàn.ogg"
+],
+"会员": [],
+"伟大": [],
+"传统": [],
+"传说": [],
+"伤口": [],
+"估计": [
+"LL-Q9192 (cmn)-CanonNi-估计.wav"
+],
+"似乎": [
+"Zh-sìhu.ogg"
+],
+"位置": [],
+"住院": [],
+"体会": [],
+"体重": [],
+"何必": [
+"zh-hébì.ogg"
+],
+"作品": [
+"Zh-zuòpin.ogg"
+],
+"作者": [
+"LL-Q9192 (cmn)-CanonNi-作者.wav"
+],
+"作文": [
+"zh-zuòwén.ogg"
+],
+"你们": [
+"LL-Q9192 (cmn)-Luilui6666-你们.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-你们.wav",
+"LL-Q9192 (cmn)-Wang Cheng (Yug)-你们.wav",
+"LL-Q9192 (cmn)-雲角-你们.wav"
+],
+"佩服": [],
+"例子": [
+"LL-Q9192 (cmn)-Luilui6666-例子.wav"
+],
+"供应": [],
+"依然": [
+"Zh-yirán.ogg"
+],
+"保存": [
+"Zh-baocún.ogg"
+],
+"保持": [
+"Zh-baochí.ogg"
+],
+"保险": [],
+"信任": [
+"zh-xìnrèn.ogg"
+],
+"信封": [
+"LL-Q9192 (cmn)-CanonNi-信封.wav",
+"zh-xìnfēng.ogg"
+],
+"信息": [
+"LL-Q9192 (cmn)-CanonNi-信息.wav",
+"Zh-xìnxi.ogg"
+],
+"修改": [
+"Zh-xiugai.ogg"
+],
+"倒霉": [
+"Zh-daoméi.ogg"
+],
+"假如": [
+"Zh-jiarú.ogg"
+],
+"做梦": [],
+"停留": [],
+"偶然": [
+"Zh-ourán.ogg"
+],
+"偷偷": [],
+"傍晚": [
+"Zh-bàngwan.ogg"
+],
+"儿童": [
+"LL-Q9192 (cmn)-CanonNi-儿童.wav"
+],
+"元旦": [
+"zh-yuándàn.ogg"
+],
+"兄弟": [
+"LL-Q9192 (cmn)-Jouketou-兄弟.wav"
+],
+"充分": [
+"Zh-chōngfèn.oga"
+],
+"充满": [],
+"先进": [
+"LL-Q9192 (cmn)-Fake estate-先进.wav"
+],
+"光临": [
+"LL-Q9192 (cmn)-Luilui6666-光临.wav"
+],
+"光明": [
+"Zh-guangmíng.ogg"
+],
+"免费": [
+"LL-Q9192 (cmn)-CanonNi-免费.wav"
+],
+"全体": [],
+"全面": [
+"Zh-quánmiàn.ogg"
+],
+"公平": [
+"Zh-gongpíng.ogg"
+],
+"公开": [],
+"公布": [],
+"公民": [
+"LL-Q9192 (cmn)-Fake estate-公民.wav",
+"Zh-gongmín.ogg"
+],
+"关怀": [],
+"兴趣": [],
+"其次": [
+"LL-Q9192 (cmn)-CanonNi-其次.wav",
+"zh-qícì.ogg"
+],
+"具体": [],
+"内心": [],
+"再三": [
+"Zh-zàisan.ogg"
+],
+"冒险": [],
+"农业": [],
+"冠军": [],
+"冬季": [],
+"决心": [],
+"决赛": [],
+"冷静": [
+"LL-Q9192 (cmn)-CanonNi-冷静.wav",
+"LL-Q9192 (cmn)-Jouketou-冷静.wav"
+],
+"准确": [
+"LL-Q9192 (cmn)-CanonNi-准确.wav"
+],
+"凉水": [],
+"凌晨": [
+"LL-Q9192 (cmn)-Fake estate-凌晨.wav",
+"Zh-língchén.ogg"
+],
+"减轻": [],
+"凡是": [
+"Zh-fánshì.ogg"
+],
+"出口": [
+"Zh-chukou.ogg"
+],
+"出名": [],
+"出门": [],
+"出席": [
+"Zh-chuxí.ogg"
+],
+"出色": [
+"Zh-chusè.ogg"
+],
+"出售": [],
+"分别": [],
+"分析": [
+"Zh-fenxi.ogg",
+"Zh-分析.oga"
+],
+"分数": [],
+"切实": [],
+"创造": [],
+"初中": [],
+"初级": [],
+"判断": [
+"LL-Q9192 (cmn)-CanonNi-判断.wav"
+],
+"利用": [
+"zh-lìyòng.ogg"
+],
+"别的": [
+"LL-Q9192 (cmn)-Luilui6666-别的.wav"
+],
+"到底": [
+"LL-Q9192 (cmn)-CanonNi-到底.wav",
+"LL-Q9192 (cmn)-Jouketou-到底.wav",
+"Zh-dàodi.ogg"
+],
+"制定": [],
+"制造": [],
+"刻苦": [],
+"前年": [],
+"前途": [],
+"剧场": [],
+"力量": [],
+"办事": [],
+"办理": [],
+"功课": [],
+"加班": [
+"LL-Q9192 (cmn)-CanonNi-加班.wav",
+"Zh-jiābān.oga"
+],
+"加强": [],
+"动人": [],
+"动手": [
+"LL-Q9192 (cmn)-Fake estate-动手.wav"
+],
+"劳动": [],
+"劳驾": [],
+"勇气": [],
+"勤劳": [],
+"包裹": [
+"Zh-bāoguǒ.oga"
+],
+"匆忙": [
+"Zh-congmáng.ogg"
+],
+"化学": [],
+"北边": [],
+"医学": [],
+"千万": [
+"LL-Q9192 (cmn)-CanonNi-千万.wav"
+],
+"半天": [
+"zh-bàntiān.ogg"
+],
+"华人": [],
+"协助": [
+"LL-Q9192 (cmn)-Fake estate-协助.wav"
+],
+"单位": [],
+"单独": [],
+"单词": [],
+"南方": [
+"LL-Q9192 (cmn)-Luilui6666-南方.wav"
+],
+"博士": [
+"LL-Q9192 (cmn)-CanonNi-博士.wav",
+"LL-Q9192 (cmn)-Jouketou-博士.wav",
+"zh-bóshì.ogg"
+],
+"卡车": [],
+"卫生": [],
+"危机": [
+"LL-Q9192 (cmn)-Fake estate-危机.wav"
+],
+"即将": [
+"LL-Q9192 (cmn)-Fake estate-即将.wav"
+],
+"厂长": [],
+"历来": [],
+"原则": [],
+"参考": [],
+"友情": [],
+"双方": [],
+"反正": [
+"Zh-fanzhèng.ogg"
+],
+"反应": [],
+"发明": [],
+"发达": [],
+"发表": [],
+"发言": [],
+"取得": [
+"zh-qǔdé.ogg"
+],
+"口袋": [],
+"古代": [
+"Zh-gudài.ogg"
+],
+"古老": [
+"Zh-gulao.ogg"
+],
+"只是": [
+"Zh-zhishì.ogg"
+],
+"只有": [
+"LL-Q9192 (cmn)-Jouketou-只有.wav"
+],
+"叫做": [],
+"可怕": [
+"Zh-kěpà.oga"
+],
+"可靠": [
+"Zh-kekào.ogg"
+],
+"可笑": [
+"Zh-kěxiào.oga"
+],
+"叶子": [
+"LL-Q9192 (cmn)-CanonNi-叶子.wav"
+],
+"号召": [],
+"吃惊": [
+"LL-Q9192 (cmn)-CanonNi-吃惊.wav"
+],
+"吃苦": [
+"Zh-chiku.ogg"
+],
+"各种": [],
+"各自": [
+"zh-gèzì.ogg"
+],
+"合作": [
+"Zh-hézuò.ogg"
+],
+"合格": [
+"LL-Q9192 (cmn)-CanonNi-合格.wav",
+"Zh-hégé.ogg"
+],
+"合理": [
+"Zh-héli.ogg"
+],
+"同样": [],
+"名单": [],
+"名胜": [],
+"后悔": [
+"LL-Q9192 (cmn)-CanonNi-后悔.wav"
+],
+"后果": [],
+"向往": [],
+"否定": [
+"LL-Q9192 (cmn)-Jouketou-否定.wav",
+"Zh-foudìng.ogg"
+],
+"含义": [
+"LL-Q9192 (cmn)-Fake estate-含义.wav"
+],
+"听众": [],
+"听写": [],
+"吸烟": [],
+"告别": [],
+"周到": [],
+"周年": [
+"LL-Q9192 (cmn)-Fake estate-周年.wav",
+"Zh-zhounián.ogg"
+],
+"呼吸": [
+"LL-Q9192 (cmn)-雲角-呼吸.wav",
+"Zh-huxi.ogg"
+],
+"命运": [],
+"品尝": [
+"LL-Q9192 (cmn)-Fake estate-品尝.wav"
+],
+"品种": [],
+"商品": [
+"Zh-shangpin.ogg"
+],
+"商业": [],
+"善良": [
+"Zh-shànliáng.ogg"
+],
+"喜爱": [],
+"嘴巴": [
+"LL-Q9192 (cmn)-Luilui6666-嘴巴.wav",
+"LL-Q9192_(cmn)-Luilui6666-嘴巴.wav"
+],
+"回来": [],
+"回去": [
+"zh-huíqù.ogg"
+],
+"团结": [
+"LL-Q9192 (cmn)-Fake estate-团结.wav"
+],
+"围巾": [],
+"固定": [
+"Zh-gùdìng.ogg"
+],
+"国庆节": [],
+"国王": [],
+"图片": [],
+"土地": [
+"Zh-tudì.ogg"
+],
+"在乎": [],
+"地区": [],
+"场所": [],
+"坚强": [],
+"培养": [],
+"处理": [],
+"外交": [
+"Zh-wàijiao.ogg"
+],
+"外语": [],
+"多么": [],
+"大人": [],
+"大声": [],
+"大衣": [
+"LL-Q9192 (cmn)-Luilui6666-大衣.wav"
+],
+"天才": [
+"LL-Q9192 (cmn)-Fake estate-天才.wav",
+"Zh-tiancái.ogg"
+],
+"太空": [
+"LL-Q9192 (cmn)-Fake estate-太空.wav",
+"Zh-tàikong.ogg"
+],
+"失去": [
+"LL-Q9192 (cmn)-Jouketou-失去.wav",
+"Zh-shiqù.ogg"
+],
+"奖励": [
+"LL-Q9192 (cmn)-Fake estate-奖励.wav"
+],
+"如何": [
+"LL-Q9192 (cmn)-Jouketou-如何.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-如何.wav",
+"LL-Q9192 (cmn)-雲角-如何.wav",
+"zh-rúhé.ogg"
+],
+"姑娘": [
+"zh-gūniang.ogg"
+],
+"存在": [
+"zh-cúnzài.ogg"
+],
+"学年": [],
+"学问": [],
+"学者": [],
+"宇宙": [
+"LL-Q9192 (cmn)-Fake estate-宇宙.wav",
+"Zh-yuzhòu.ogg"
+],
+"安心": [
+"zh-cmn-安心.opus"
+],
+"宝贵": [],
+"实习": [],
+"实现": [],
+"害处": [],
+"家乡": [],
+"家务": [],
+"密切": [
+"Zh-mìqiè.ogg"
+],
+"对比": [],
+"对待": [],
+"寻找": [],
+"导演": [],
+"小组": [],
+"少数": [],
+"尝试": [
+"LL-Q9192 (cmn)-Fake estate-尝试.wav",
+"LL-Q9192 (cmn)-Jouketou-尝试.wav"
+],
+"尤其": [
+"LL-Q9192 (cmn)-CanonNi-尤其.wav",
+"zh-yóuqí.ogg"
+],
+"居然": [
+"Zh-jurán.ogg"
+],
+"展览": [],
+"工具": [
+"Zh-gongjù.ogg"
+],
+"工程": [],
+"巨大": [
+"zh-jùdà.ogg"
+],
+"市长": [],
+"平安": [],
+"平常": [
+"LL-Q9192 (cmn)-Luilui6666-平常.wav",
+"zh-píngcháng.ogg"
+],
+"平等": [
+"Zh-píngdeng.ogg"
+],
+"年代": [
+"zh-niándài.ogg"
+],
+"广播": [
+"LL-Q9192 (cmn)-CanonNi-广播.wav"
+],
+"应用": [],
+"建筑": [],
+"开发": [],
+"开放": [],
+"异常": [
+"LL-Q9192 (cmn)-Fake estate-异常.wav"
+],
+"强大": [],
+"当地": [],
+"录音": [],
+"形式": [
+"zh-xíngshì.ogg"
+],
+"形状": [],
+"彼此": [
+"Zh-bici.ogg"
+],
+"往返": [
+"Zh-wangfan.ogg"
+],
+"待遇": [
+"Zh-dàiyù.ogg"
+],
+"得意": [
+"LL-Q9192 (cmn)-CanonNi-得意.wav",
+"zh-déyì.ogg"
+],
+"心情": [
+"LL-Q9192 (cmn)-CanonNi-心情.wav",
+"Zh-xinqíng.ogg"
+],
+"心理": [
+"Zh-xinli.ogg"
+],
+"必然": [
+"Zh-bìrán.ogg"
+],
+"怀念": [],
+"思考": [
+"Zh-sikao.ogg"
+],
+"急忙": [
+"Zh-jímáng.ogg"
+],
+"性质": [],
+"总统": [],
+"恢复": [],
+"情绪": [],
+"想念": [
+"Zh-xiǎngniàn.oga"
+],
+"意义": [],
+"成熟": [
+"zh-chéngshú.ogg"
+],
+"成果": [
+"Zh-chéngguǒ.oga"
+],
+"成长": [],
+"战争": [],
+"户口": [],
+"房租": [],
+"手续": [],
+"打招呼": [
+"LL-Q9192 (cmn)-CanonNi-打招呼.wav"
+],
+"扩大": [],
+"承认": [],
+"抄写": [],
+"投资": [],
+"抱怨": [
+"zh-bàoyuàn.ogg"
+],
+"担任": [],
+"招待": [
+"Zh-zhaodài.ogg"
+],
+"拥抱": [],
+"挑战": [],
+"损失": [],
+"排列": [
+"LL-Q9192 (cmn)-CanonNi-排列.wav",
+"Zh-páiliè.ogg"
+],
+"接近": [
+"Zh-jiejìn.ogg"
+],
+"推迟": [
+"LL-Q9192 (cmn)-CanonNi-推迟.wav"
+],
+"描写": [],
+"提供": [
+"LL-Q9192 (cmn)-CanonNi-提供.wav",
+"Zh-tígong.ogg"
+],
+"摄影": [],
+"改变": [
+"LL-Q9192 (cmn)-CanonNi-改变.wav",
+"LL-Q9192 (cmn)-Jouketou-改变.wav"
+],
+"改善": [
+"Zh-gaishàn.ogg"
+],
+"放松": [
+"LL-Q9192 (cmn)-CanonNi-放松.wav",
+"LL-Q9192 (cmn)-Jouketou-放松.wav"
+],
+"故乡": [],
+"效率": [
+"Zh-xiàolu.ogg"
+],
+"教练": [],
+"教材": [],
+"整个": [
+"LL-Q9192 (cmn)-Jouketou-整个.wav"
+],
+"整天": [],
+"文学": [],
+"文字": [],
+"新年": [
+"zh-xīnnián.ogg",
+"zh-yue-新年.opus"
+],
+"方案": [
+"Zh-fang'àn.ogg"
+],
+"旅客": [],
+"日常": [
+"Zh-rìcháng.ogg"
+],
+"日期": [
+"LL-Q9192 (cmn)-Luilui6666-日期.wav"
+],
+"时代": [],
+"时刻": [],
+"明星": [
+"Zh-míngxing.ogg"
+],
+"春季": [],
+"显然": [],
+"普遍": [
+"LL-Q9192 (cmn)-CanonNi-普遍.wav",
+"Zh-pubiàn.ogg"
+],
+"智能": [
+"Zh-zhìnéng.ogg"
+],
+"最初": [
+"zh-zuìchū.ogg"
+],
+"有效": [],
+"有用": [],
+"服装": [],
+"期间": [],
+"未来": [],
+"本领": [],
+"本子": [
+"zh-běnzi.ogg"
+],
+"机器": [],
+"材料": [
+"LL-Q9192 (cmn)-CanonNi-材料.wav",
+"zh-cáiliào.ogg"
+],
+"村子": [],
+"来自": [
+"LL-Q9192 (cmn)-CanonNi-来自.wav",
+"LL-Q9192 (cmn)-Jouketou-来自.wav"
+],
+"构成": [],
+"标志": [],
+"根本": [
+"LL-Q9192 (cmn)-Jouketou-根本.wav",
+"Zh-genben.ogg"
+],
+"格外": [
+"Zh-géwài.ogg"
+],
+"检验": [
+"LL-Q9192 (cmn)-Fake estate-检验.wav"
+],
+"概念": [
+"zh-gàiniàn.ogg"
+],
+"模仿": [
+"Zh-mófang.ogg"
+],
+"正式": [
+"LL-Q9192 (cmn)-CanonNi-正式.wav",
+"zh-zhèngshì.ogg"
+],
+"武术": [],
+"死亡": [
+"LL-Q9192 (cmn)-Fake estate-死亡.wav",
+"LL-Q9192 (cmn)-Jouketou-死亡.wav",
+"Zh-siwáng.ogg"
+],
+"毛笔": [],
+"民间": [],
+"气候": [
+"LL-Q9192 (cmn)-CanonNi-气候.wav"
+],
+"沟通": [],
+"法院": [
+"Zh-fayuàn.ogg"
+],
+"波浪": [
+"Zh-bolàng.ogg"
+],
+"活力": [
+"LL-Q9192 (cmn)-Fake estate-活力.wav",
+"Zh-huólì.ogg"
+],
+"海洋": [
+"LL-Q9192 (cmn)-CanonNi-海洋.wav",
+"Zh-haiyáng.ogg"
+],
+"消费": [],
+"深刻": [
+"Zh-shenkè.ogg"
+],
+"清晨": [
+"LL-Q9192 (cmn)-Fake estate-清晨.wav",
+"Zh-qingchén.ogg"
+],
+"温暖": [],
+"游客": [],
+"满足": [],
+"演讲": [],
+"激烈": [
+"Zh-jiliè.ogg"
+],
+"灵活": [],
+"热爱": [],
+"热心": [],
+"照相机": [],
+"物理": [
+"zh-wùlǐ.ogg"
+],
+"特色": [
+"zh-tèsè.ogg"
+],
+"独立": [],
+"玩具": [
+"zh-wánjù.ogg"
+],
+"现实": [],
+"现金": [
+"LL-Q9192 (cmn)-CanonNi-现金.wav",
+"LL-Q9192 (cmn)-Luilui6666-现金.wav"
+],
+"球迷": [
+"Zh-qiúmí.ogg"
+],
+"理由": [
+"Zh-liyóu.ogg"
+],
+"生动": [],
+"生意": [
+"LL-Q9192 (cmn)-CanonNi-生意.wav"
+],
+"生词": [
+"LL-Q9192 (cmn)-Luilui6666-生词.wav"
+],
+"用功": [
+"Zh-yònggong.ogg"
+],
+"电子": [],
+"病人": [],
+"目标": [],
+"直到": [],
+"相当": [],
+"眼泪": [],
+"着凉": [],
+"石油": [
+"LL-Q9192 (cmn)-Fake estate-石油.wav",
+"Zh-shíyóu.ogg"
+],
+"研究生": [
+"Zh-yánjiusheng.ogg"
+],
+"祝贺": [
+"LL-Q9192 (cmn)-CanonNi-祝贺.wav"
+],
+"神奇": [
+"LL-Q9192 (cmn)-Fake estate-神奇.wav",
+"zh-shénqí.ogg"
+],
+"秘密": [
+"zh-mìmì.ogg"
+],
+"科技": [],
+"积累": [
+"LL-Q9192 (cmn)-CanonNi-积累.wav"
+],
+"称赞": [],
+"程度": [
+"zh-chéngdù.ogg"
+],
+"空间": [],
+"窗户": [
+"LL-Q9192 (cmn)-CanonNi-窗户.wav"
+],
+"立刻": [
+"zh-lìkè.ogg"
+],
+"笔记": [
+"LL-Q9192 (cmn)-Luilui6666-笔记.wav"
+],
+"答应": [],
+"精力": [],
+"系统": [],
+"紧急": [],
+"繁荣": [],
+"红茶": [],
+"经典": [],
+"结论": [],
+"绝对": [
+"LL-Q9192 (cmn)-Jouketou-绝对.wav"
+],
+"统一": [],
+"继承": [],
+"老百姓": [
+"Zh-laobaixìng.ogg"
+],
+"而已": [
+"LL-Q9192 (cmn)-Fake estate-而已.wav",
+"LL-Q9192 (cmn)-Jouketou-而已.wav"
+],
+"职员": [],
+"联合": [],
+"能干": [],
+"自信": [
+"LL-Q9192 (cmn)-CanonNi-自信.wav",
+"Zh-zìxìn.ogg"
+],
+"自然": [
+"LL-Q9192 (cmn)-CanonNi-自然.wav",
+"zh-zìrán.ogg"
+],
+"自私": [
+"Zh-zìsi.ogg"
+],
+"自觉": [],
+"至今": [
+"Zh-zhìjin.ogg"
+],
+"节省": [],
+"英雄": [
+"Zh-yīngxióng.oga"
+],
+"范围": [],
+"营养": [],
+"蔬菜": [
+"Zh-shucài.ogg"
+],
+"行人": [
+"zh-xíngrén.ogg"
+],
+"表情": [
+"Zh-biaoqíng.ogg"
+],
+"表现": [
+"LL-Q9192 (cmn)-Jouketou-表现.wav"
+],
+"规律": [],
+"观众": [
+"LL-Q9192 (cmn)-CanonNi-观众.wav"
+],
+"观点": [],
+"记录": [],
+"记忆": [],
+"设计": [],
+"证据": [],
+"评价": [],
+"诚恳": [],
+"语气": [],
+"说服": [],
+"请求": [],
+"读者": [],
+"调整": [],
+"负担": [
+"LL-Q9192 (cmn)-Fake estate-负担.wav"
+],
+"责备": [],
+"贸易": [],
+"资料": [],
+"赞成": [],
+"起码": [
+"LL-Q9192 (cmn)-Fake estate-起码.wav"
+],
+"趋势": [],
+"轻易": [],
+"辅导": [],
+"迅速": [
+"zh-xùnsù.ogg"
+],
+"过程": [
+"LL-Q9192 (cmn)-CanonNi-过程.wav"
+],
+"运气": [],
+"进步": [],
+"远方": [],
+"退休": [
+"Zh-tuìxiu.ogg"
+],
+"适应": [
+"LL-Q9192 (cmn)-CanonNi-适应.wav"
+],
+"选手": [
+"LL-Q9192 (cmn)-Fake estate-选手.wav",
+"LL-Q9192 (cmn)-Jouketou-选手.wav"
+],
+"逐渐": [],
+"遗憾": [],
+"部门": [],
+"重视": [
+"LL-Q9192 (cmn)-CanonNi-重视.wav"
+],
+"金牌": [],
+"钢琴": [],
+"长途": [],
+"门诊": [],
+"阅览室": [],
+"降低": [
+"LL-Q9192 (cmn)-CanonNi-降低.wav",
+"Zh-jiàngdi.ogg"
+],
+"随时": [],
+"需求": [
+"LL-Q9192 (cmn)-Fake estate-需求.wav",
+"Zh-xuqiú.ogg"
+],
+"靠近": [],
+"面对": [],
+"项目": [],
+"顺序": [
+"LL-Q9192 (cmn)-CanonNi-顺序.wav"
+],
+"预报": [],
+"领导": [],
+"风格": [],
+"餐厅": [
+"LL-Q9192 (cmn)-CanonNi-餐厅.wav",
+"LL-Q9192 (cmn)-Luilui6666-餐厅.wav"
+],
+"首先": [
+"LL-Q9192 (cmn)-CanonNi-首先.wav",
+"Zh-shouxian.ogg"
+],
+"香味": [],
+"高速": [],
+"鼓励": [
+"LL-Q9192 (cmn)-CanonNi-鼓励.wav"
+],
+"留学生": [],
+"电冰箱": [],
+"游泳池": [],
+"没意思": [],
+"普通话": [
+"LL-Q9192 (cmn)-CanonNi-普通话.wav"
+],
+"收音机": [
+"LL-Q9192 (cmn)-Fake estate-收音机.wav"
+],
+"小朋友": [],
+"不好意思": [
+"LL-Q9192 (cmn)-Luilui6666-不好意思.wav",
+"Zh-bùhaoyìsi.ogg"
+],
+"小学生": [],
+"不一定": [],
+"一路平安": [
+"Zh-yilùpíng'an.ogg"
+],
+"体育场": [],
+"俱乐部": [],
+"圆珠笔": [],
+"圣诞节": [],
+"大多数": [],
+"大自然": [],
+"奖学金": [],
+"小伙子": [
+"LL-Q9192 (cmn)-CanonNi-小伙子.wav",
+"Zh-xiaohuozi.ogg"
+],
+"小提琴": [],
+"幼儿园": [],
+"录音机": [],
+"摩托车": [],
+"明信片": [
+"zh-míngxìnpiàn.ogg"
+],
+"星期日": [
+"LL-Q9192 (cmn)-Luilui6666-星期日.wav",
+"zh-xīngqīrì.ogg"
+],
+"望远镜": [],
+"显微镜": [],
+"派出所": [],
+"电视台": [],
+"电风扇": [],
+"计算机": [],
+"运动会": [],
+"连续剧": [],
+"面包车": [],
+"高血压": [],
+"有时候": [],
+"自来水": [],
+"立交桥": [],
+"简体字": [],
+"繁体字": [],
+"工艺品": [],
+"日用品": [
+"Zh-rìyòngpin.ogg"
+],
+"温度计": [],
+"热水瓶": [],
+"不得不": [
+"LL-Q9192 (cmn)-CanonNi-不得不.wav",
+"Zh-bùdébù.ogg"
+],
+"无所谓": [],
+"老太太": [],
+"感兴趣": [],
+"大拇指": [],
+"博览会": [],
+"展览会": [],
+"没什么": [],
+"现代化": [],
+"少数民族": [],
+"无论如何": [],
+"总的来说": [],
+"一路顺风": [],
+"自言自语": [],
+"莫名其妙": [
+"LL-Q9192 (cmn)-Fake estate-莫名其妙.wav",
+"zh-mòmíngqímiào.ogg"
+],
+"尾巴": [
+"Zh-weiba.ogg"
+],
+"萝卜": [],
+"木头": [],
+"舌头": [
+"LL-Q9192 (cmn)-Fake estate-舌头.wav"
+],
+"骨头": [],
+"日子": [
+"zh-rìzi.ogg"
+],
+"橘子": [
+"zh-júzi.ogg"
+],
+"胖子": [],
+"脑子": [],
+"上边": [],
+"里边": [],
+"外边": [],
+"前边": [],
+"后边": [],
+"这么": [],
+"那么": [],
+"车厢": [],
+"餐车": [],
+"列车": [],
+"乘坐": [
+"LL-Q9192 (cmn)-CanonNi-乘坐.wav",
+"LL-Q9192 (cmn)-Jouketou-乘坐.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-乘坐.wav"
+],
+"旅途": [],
+"打折": [
+"LL-Q9192 (cmn)-CanonNi-打折.wav",
+"LL-Q9192 (cmn)-Luilui6666-打折.wav"
+],
+"八折": [],
+"买二送一": [],
+"宫保鸡丁": [
+"LL-Q9192 (cmn)-Luilui6666-宫保鸡丁.wav"
+],
+"太极拳": [
+"LL-Q9192 (cmn)-CanonNi-太极拳.wav"
+],
+"国宝": [],
+"四川": [
+"LL-Q9192 (cmn)-Luilui6666-四川.wav",
+"Zh-Sichuan.ogg"
+],
+"竹子": [
+"Zh-zhúzi.ogg"
+],
+"唯一": [
+"LL-Q9192 (cmn)-CanonNi-唯一.wav",
+"LL-Q9192 (cmn)-Jouketou-唯一.wav"
+],
+"学生证": [],
+"一束花": [],
+"各位": [],
+"本次": [],
+"看好": [],
+"不变": [],
+"教学": [],
+"老年大学": [],
+"打车": [],
+"晚点": [],
+"过年": [],
+"喜欢上": [],
+"话题": [],
+"包饺子": [],
+"打太极拳": [],
+"跑来跑去": [],
+"越来越": [],
+"一下子": [],
+"大卫": [],
+"安娜": [
+"LL-Q9192 (cmn)-Luilui6666-安娜.wav"
+],
+"马克": [],
+"王丽": [],
+"小李": [
+"LL-Q9192 (cmn)-Luilui6666-小李.wav"
+],
+"小王": [
+"LL-Q9192 (cmn)-Luilui6666-小王.wav"
+],
+"小张": [],
+"小明": [],
+"张先生": [],
+"李阿姨": [],
+"王老师": [],
+"王经理": [],
+"上半场": [],
+"下半场": [],
+"进球": [],
+"二比零": [],
+"试衣间": [
+"LL-Q9192 (cmn)-Luilui6666-试衣间.wav"
+],
+"最低价": [],
+"鱼香肉丝": [],
+"健身房": [],
+"上海话": [],
+"踢足球": [
+"LL-Q9192 (cmn)-Luilui6666-踢足球.wav"
+],
+"咖啡店": [],
+"阿拉伯语": [],
+"德语": [],
+"法语": [],
+"韩国语": [],
+"西班牙语": [],
+"星期一": [
+"LL-Q9192 (cmn)-Luilui6666-星期一.wav"
+],
+"星期二": [
+"LL-Q9192 (cmn)-Jouketou-星期二.wav"
+],
+"星期三": [
+"LL-Q9192 (cmn)-Jouketou-星期三.wav"
+],
+"星期四": [
+"LL-Q9192 (cmn)-Luilui6666-星期四.wav"
+],
+"星期五": [
+"LL-Q9192 (cmn)-Luilui6666-星期五.wav"
+],
+"星期六": [
+"LL-Q9192 (cmn)-Luilui6666-星期六.wav"
+],
+"哪儿": [
+"LL-Q9192 (cmn)-CanonNi-哪儿.wav"
+],
+"那儿": [],
+"不客气": [
+"LL-Q9192 (cmn)-Assassas77-不客气.wav",
+"LL-Q9192 (cmn)-CanonNi-不客气.wav",
+"LL-Q9192 (cmn)-Jouketou-不客气.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-不客气.wav",
+"LL-Q9192 (cmn)-Luilui6666-不客气.wav"
+],
+"请问": [
+"LL-Q9192 (cmn)-Luilui6666-请问.wav"
+],
+"德国": [
+"LL-Q9192 (cmn)-Luilui6666-德国.wav"
+],
+"俄国": [],
+"英国": [
+"LL-Q9192 (cmn)-Luilui6666-英国.wav"
+],
+"麦克": [],
+"张东": [],
+"食堂": [
+"zh-shítáng.ogg"
+],
+"这些": [],
+"那些": [],
+"面条儿": [],
+"玛丽": [],
+"营业员": [],
+"人民": [
+"zh-rénmín.ogg"
+],
+"美元": [],
+"港币": [],
+"日元": [],
+"欧元": [],
+"一会儿": [
+"LL-Q9192 (cmn)-Jouketou-一会儿.wav"
+],
+"办公": [],
+"李昌浩": [],
+"秘书": [],
+"一下儿": [],
+"田芳": [],
+"罗兰": [],
+"爱德华": [],
+"同屋": [],
+"北京语言大学": [],
+"这儿": [],
+"中药": [],
+"西药": [],
+"香水": [],
+"光盘": [
+"LL-Q9192 (cmn)-CanonNi-光盘.wav",
+"LL-Q9192 (cmn)-Jouketou-光盘.wav"
+],
+"好久": [
+"LL-Q9192 (cmn)-Luilui6666-好久.wav"
+],
+"开学": [],
+"有点儿": [],
+"一点儿": [
+"LL-Q9192 (cmn)-Luilui6666-一点儿.wav"
+],
+"点儿": [],
+"还是": [
+"LL-Q9192 (cmn)-Jouketou-还是.wav",
+"LL-Q9192 (cmn)-Luilui6666-还是.wav"
+],
+"汽车": [],
+"衬衣": [],
+"好看": [
+"LL-Q9192 (cmn)-Luilui6666-好看.wav",
+"zh-hǎokàn.ogg"
+],
+"外贸": [],
+"画报": [],
+"大门": [],
+"好吧": [],
+"大小": [],
+"小学": [],
+"不小心": [],
+"这是": [],
+"不是": [
+"LL-Q9192 (cmn)-Luilui6666-不是.wav"
+],
+"请进": [],
+"中国人": [
+"LL-Q9192 (cmn)-Luilui6666-中国人.wav"
+],
+"哪国人": [
+"LL-Q9192 (cmn)-Luilui6666-哪国人.wav"
+],
+"很难": [],
+"鸡蛋汤": [],
+"喝啤酒": [],
+"两斤": [],
+"两块": [],
+"买苹果": [],
+"多少钱": [],
+"换钱": [],
+"等一会儿": [],
+"学号": [],
+"电话号码": [],
+"不知道": [
+"LL-Q9192 (cmn)-Luilui6666-不知道.wav"
+],
+"她们": [],
+"我们俩": [],
+"你们俩": [],
+"他们俩": [],
+"同班": [],
+"看到": [],
+"十八个": [],
+"法国人": [
+"LL-Q9192 (cmn)-Luilui6666-法国人.wav"
+],
+"三零五": [],
+"王老师的": [],
+"中文杂志": [],
+"九号楼": [],
+"我的": [
+"LL-Q9192 (cmn)-Luilui6666-我的.wav"
+],
+"日本人": [],
+"日语书": [],
+"在家": [
+"LL-Q9192 (cmn)-Luilui6666-在家.wav"
+],
+"韩国人": [],
+"李昌浩的同屋": [],
+"三零八": [],
+"很好": [
+"LL-Q9192 (cmn)-Luilui6666-很好.wav"
+],
+"苹果和橘子": [],
+"五块": [],
+"十四块五": [],
+"五块五": [],
+"读和写": [],
+"六零一": [],
+"手机号码": [],
+"我们班的语法老师": [],
+"林教授": [],
+"四个": [
+"LL-Q9192 (cmn)-Luilui6666-四个.wav"
+],
+"不太贵": [],
+"好朋友": [],
+"一个": [],
+"四块五": [],
+"五毛": [],
+"十三块": [],
+"办公室的电话号码": [],
+"我觉得语法不太难，汉字很难。": [],
+"再见！": [],
+"这是英文书。": [],
+"我住三零六号。": [],
+"这位是我们的马校长。": [],
+"对，我们都是留学生。": [],
+"我叫麦克。": [],
+"不客气。": [],
+"我住留学生楼。": [],
+"六二三一零八九四。": [],
+"他不在家，他在办公室。": [],
+"我喝茶，谢谢。": [],
+"两块五一斤。": [],
+"我的同屋是罗兰。": [],
+"我是法国人。": [],
+"不要了，谢谢。": [],
+"我学习汉语。": [],
+"没关系。": [],
+"这是王老师的杂志。": [],
+"我去天安门。": [],
+"我很好，谢谢。": [],
+"我买橘子。": [],
+"我在北京语言大学学习。": [],
+"欢迎您，林教授！": [],
+"今天星期四。": [],
+"我换人民币。": [],
+"不去，我去银行。": [],
+"我要三斤。": [],
+"我姓王。": [],
+"我们的老师很好。": [],
+"不太忙。": [],
+"这些是包子。": [],
+"我去图书馆。": [],
+"四块五一斤。": [],
+"他是我们的校长。": [],
+"不是，她是我朋友。": [],
+"不太多。": [],
+"我吃米饭。": [],
+"知道，她的号码是一三八零一二三四五六七。": [],
+"王老师在家吗？": [],
+"这是什么书？": [],
+"今天星期几？": [],
+"你们班的同学多吗？": [],
+"这位是谁？": [],
+"你叫什么名字？": [],
+"他是谁？": [],
+"您换什么钱？": [],
+"你要几斤？": [],
+"橘子怎么卖？": [],
+"你工作忙吗？": [],
+"还要别的吗？": [],
+"您贵姓？": [],
+"你在哪儿学习？": [],
+"你去哪儿？": [],
+"我先介绍一下儿，这位是林教授。": [],
+"你住哪儿？": [],
+"苹果一斤多少钱？": [],
+"这是谁的杂志？": [],
+"您喝什么？": [],
+"你知道玛丽的手机号码吗？": [],
+"对不起！": [],
+"她是你妹妹吗？": [],
+"这些是什么？": [],
+"你买什么？": [],
+"你觉得汉语难吗？": [],
+"你好吗？": [],
+"你吃什么？": [],
+"你的同屋是谁？": [],
+"你们都是留学生吗？": [],
+"星期天你去哪儿？": [],
+"明天见！": [],
+"你去邮局吗？": [],
+"你学习什么？": [],
+"你的电话号码是多少？": [],
+"你是哪国人？": [],
+"你住多少号？": [],
+"你们的老师怎么样？": [],
+"谢谢你！": [],
+"частица (太…了)": [],
+"我们都不忙。": [],
+"这是谁的书？": [],
+"我也不知道。": [],
+"你忙不忙？": [],
+"我去邮局寄信。": [],
+"我们也都是学生。": [],
+"我在北京学习。": [],
+"你中午吃什么？": [],
+"三十五块。": [],
+"她是我的同学。": [],
+"今天很热。": [],
+"是我同学的。": [],
+"我叫李明。": [],
+"他在医院工作。": [],
+"坐飞机": [],
+"五天": [],
+"很冷": [],
+"看电影": [
+"LL-Q9192 (cmn)-Luilui6666-看电影.wav"
+],
+"七岁": [],
+"没看见。": [],
+"二十块。": [],
+"我是俄罗斯人。": [],
+"会说一点儿。": [],
+"好吗": [],
+"三个": [],
+"小狗": [],
+"他五岁了。": [],
+"我想喝茶。": [],
+"现在三点十分。": [],
+"看书": [
+"LL-Q9192 (cmn)-Luilui6666-看书.wav"
+],
+"我家前面": [],
+"一年": [],
+"我坐出租车去。": [],
+"我明天去。": [],
+"我家有四个人。": [],
+"写字和读书": [],
+"我是去年来中国的。": [],
+"你吃饭了吗？": [],
+"你在哪儿工作？": [],
+"因为我生病了。": [],
+"我今年十九岁。": [],
+"快一年了。": [],
+"米饭，谢谢。": [],
+"来一杯茶吧。": [],
+"我喜欢踢足球。": [],
+"坐火车": [],
+"比北京热": [],
+"因为他运动得多": [],
+"他家旁边": [],
+"每个星期六": [],
+"看书、休息": [],
+"有，什么事？": [],
+"对，他比我高一点儿。": [],
+"下个月。": [],
+"很慢": [],
+"汉字写得很好": [],
+"他的生日": [],
+"我在路上，马上就到。": [],
+"我姓张。": [],
+"因为…所以": [],
+"很近": [],
+"和妻子一起看电视": [],
+"没关系，快进来吧。": [],
+"颜色不错，就是有点儿大。": [],
+"八点": [
+"LL-Q9192 (cmn)-Luilui6666-八点.wav"
+],
+"鸡蛋和牛奶": [],
+"十一点五十。": [],
+"路上走得太慢": [],
+"一边…一边": [],
+"从来没": [],
+"见…懂": [],
+"我想去西安看看。": [],
+"晴天，不太冷。": [],
+"不远，走路十分钟就到了。": [],
+"一点儿也": [],
+"虽然…但是": [],
+"不…也不": [],
+"他比我高。": [],
+"他没来，因为他病了。": [],
+"请问，去火车站怎么走？": [],
+"妈妈让我买牛奶。": [],
+"他一个小时以前走了。": [],
+"我去过两次上海。": [],
+"我不太喜欢吃肉。": [],
+"这个电影很有意思。": [],
+"请您说慢一点儿。": [],
+"你等我一下。": [],
+"他正在吃饭呢。": [],
+"今天比昨天冷。": [],
+"我明天早上八点去学校。": [],
+"我学汉语学了两年了。": [],
+"我等你等了两个小时了。": [],
+"我一到家就给你打电话。": [],
+"我会游泳。": [],
+"这么多我吃不完。": [],
+"你喝茶还是咖啡？": [],
+"他汉语说得很好。": [],
+"一下": [
+"LL-Q9192 (cmn)-Luilui6666-一下.wav",
+"LL-Q9192_(cmn)-Luilui6666-一下.wav"
+],
+"我没去过中国。": [],
+"我没有哥哥高。": [],
+"我去图书馆借书了。": [],
+"差五分八点。": [],
+"不是，是图书馆的。": [],
+"这已经是最低价了。": [],
+"有一点儿，不过很好吃。": [],
+"考完试就回去。": [],
+"火车上": [],
+"上午十一点二十": [],
+"5号": [],
+"他感冒了": [],
+"多喝水，多休息": [],
+"明天下午两点": [],
+"秋天，不冷不热。": [],
+"差不多习惯了，就是还不太会用筷子。": [],
+"我家有四口人。": [],
+"星期五晚上我有空。": [],
+"快十二点才睡。": [],
+"读“学”，学习的学。": [],
+"七点": [],
+"他们支持的队赢了": [],
+"下午三点，在学校门口。": [],
+"我坐地铁去。": [],
+"他出去了，你一个小时以后再打吧。": [],
+"好的，一共一百二十块。": [],
+"花和蛋糕": [],
+"两个小时": [],
+"好的，没问题。": [],
+"当然可以，试衣间在那边。": [],
+"大概有一万多个。": [],
+"去过，去年去的。": [],
+"约好": [],
+"去公园跳舞": [],
+"很忙，但是很快乐": [],
+"在草地上跑": [],
+"在家看看书，有时候去爬山。": [],
+"对不起，我的闹钟坏了。": [],
+"山不太高": [],
+"口…口": [],
+"非常开心，拍了很多照片。": [],
+"会一点儿。": [],
+"每个星期去两次健身房。": [],
+"又…又": [],
+"有，还有白的和黑的。": [],
+"坐地铁": [],
+"五点半": [
+"LL-Q9192 (cmn)-Luilui6666-五点半.wav"
+],
+"还差一点儿，今天晚上再复习复习。": [],
+"三个月": [],
+"一句也不会说": [],
+"多听多说": [],
+"比商店便宜": [],
+"他要请假": [],
+"两天": [],
+"有，过了马路就是。": [],
+"让人精神更好": [],
+"三杯": [],
+"九十分钟": [],
+"学校旁边": [],
+"一边喝咖啡一边看书": [],
+"我头疼，可能感冒了。": [],
+"一直往前走，在右边。": [],
+"十分钟": [],
+"不大，但是很干净": [],
+"两把": [],
+"请朋友吃饭": [],
+"比饭馆的还好吃": [],
+"好多了，谢谢关心。": [],
+"不但…而且": [],
+"我的老师给我起的。": [],
+"同学帮他交": [],
+"我在银行工作。": [],
+"每天学一点儿": [],
+"去图书馆看书": [],
+"汉字有点儿难，口语还可以。": [],
+"哪里哪里，还差得远呢。": [],
+"睡不着觉": [],
+"我写给你吧。": [],
+"因为熊猫很可爱": [],
+"晚上十点": [],
+"吃了，你呢？": [],
+"中国朋友": [],
+"不好看": [],
+"一百多个": [],
+"记意思": [],
+"怎么才": [],
+"是…还是": [],
+"这儿可以照相吗？": [],
+"我还没做作业。": [],
+"桌子上放着两本书。": [],
+"我越学越有意思。": [],
+"窗户开着。": [],
+"我想去北京看长城。": [],
+"他比我高五厘米。": [],
+"我家离地铁站很远。": [],
+"我的自行车被偷了。": [],
+"会…能": [],
+"很冷，常常下雪": [],
+"接朋友": [],
+"路上车太多": [],
+"四点": [],
+"他不但聪明，而且很努力。": [],
+"练习口语": [],
+"记得更快": [],
+"我把手机忘在出租车上了。": [],
+"汉语老师": [],
+"有两年以上教学经验": [],
+"不要": [
+"zh-búyào.ogg"
+],
+"我把书放在桌子上了。": [],
+"如果下雨，我们就不去了。": [],
+"他一直在学习。": [],
+"房租更贵": [],
+"人": [
+"LL-Q9192 (cmn)-雲角-人.wav",
+"zh-rén.ogg"
+],
+"大": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-大.wav",
+"LL-Q9192 (cmn)-Luilui6666-大.wav",
+"LL-Q9192 (cmn)-雲角-大.wav",
+"zh-dà.ogg"
+],
+"小": [
+"LL-Q9192 (cmn)-雲角-小.wav",
+"zh-xiǎo.ogg"
+],
+"多": [
+"LL-Q9192 (cmn)-Vickylin77amis-多.wav",
+"LL-Q9192 (cmn)-雲角-多.wav",
+"zh-duō.ogg"
+],
+"少": [
+"LL-Q9192 (cmn)-雲角-少.wav"
+],
+"好": [
+"LL-Q9192 (cmn)-Assassas77-好.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-好.wav",
+"LL-Q9192 (cmn)-Luilui6666-好.wav"
+],
+"吃": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-吃.wav",
+"LL-Q9192 (cmn)-Luilui6666-吃.wav",
+"LL-Q9192 (cmn)-雲角-吃.wav"
+],
+"喝": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-喝.wav",
+"LL-Q9192 (cmn)-Luilui6666-喝.wav",
+"LL-Q9192 (cmn)-雲角-喝.wav"
+],
+"水": [
+"LL-Q9192 (cmn)-雲角-水.wav",
+"zh-shuǐ.ogg"
+],
+"茶": [
+"LL-Q9192 (cmn)-Luilui6666-茶.wav",
+"zh-chá.ogg"
+],
+"热": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-热.wav",
+"LL-Q9192 (cmn)-Luilui6666-热.wav"
+],
+"冷": [
+"Zh-lǐng.oga",
+"zh-líng.ogg",
+"zh-lěng.ogg"
+],
+"爱": [
+"LL-Q9192 (cmn)-Jouketou-爱.wav"
+],
+"想": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-想.wav",
+"LL-Q9192 (cmn)-Luilui6666-想.wav",
+"LL-Q9192 (cmn)-雲角-想.wav",
+"zh-xiǎng.ogg"
+],
+"看": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-看.wav",
+"LL-Q9192 (cmn)-Luilui6666-看.wav",
+"LL-Q9192 (cmn)-雲角-看.wav",
+"zh-kàn.ogg"
+],
+"听": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-听.wav",
+"LL-Q9192 (cmn)-Luilui6666-听.wav",
+"LL-Q9192 (cmn)-雲角-听.wav"
+],
+"说": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-说.wav",
+"LL-Q9192 (cmn)-Luilui6666-说.wav",
+"LL-Q9192 (cmn)-雲角-说.wav"
+],
+"读": [],
+"写": [
+"LL-Q9192 (cmn)-Luilui6666-写.wav"
+],
+"买": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-买.wav",
+"LL-Q9192 (cmn)-Luilui6666-买.wav"
+],
+"卖": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-卖.wav",
+"LL-Q9192 (cmn)-Luilui6666-卖.wav"
+],
+"开": [],
+"坐": [
+"LL-Q9192 (cmn)-雲角-坐.wav",
+"zh-zuò.ogg"
+],
+"住": [
+"zh-zhù.ogg"
+],
+"去": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-去.wav",
+"LL-Q9192 (cmn)-Luilui6666-去.wav",
+"zh-qù.ogg"
+],
+"来": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-来.wav",
+"LL-Q9192 (cmn)-Luilui6666-来.wav",
+"LL-Q9192 (cmn)-雲角-来.wav"
+],
+"回": [
+"zh-huí.ogg"
+],
+"走": [
+"LL-Q9192 (cmn)-雲角-走.wav",
+"zh-zǒu.ogg"
+],
+"跑": [
+"zh-páo.ogg",
+"zh-pǎo.ogg"
+],
+"洗": [
+"LL-Q9192 (cmn)-雲角-洗.wav",
+"zh-xǐ.ogg"
+],
+"穿": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-穿.wav",
+"LL-Q9192 (cmn)-Luilui6666-穿.wav",
+"zh-chuān.ogg"
+],
+"书": [
+"LL-Q9192 (cmn)-Luilui6666-书.wav"
+],
+"门": [],
+"窗": [
+"zh-chuāng.ogg"
+],
+"钱": [],
+"块": [],
+"贵": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-贵.wav",
+"LL-Q9192 (cmn)-Luilui6666-贵.wav"
+],
+"菜": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-菜.wav",
+"LL-Q9192 (cmn)-Luilui6666-菜.wav",
+"Zh-cài.ogg"
+],
+"肉": [
+"LL-Q9192 (cmn)-Luilui6666-肉.wav",
+"LL-Q9192 (cmn)-雲角-肉.wav",
+"zh-ròu.ogg"
+],
+"鱼": [
+"LL-Q9192 (cmn)-Luilui6666-鱼.wav",
+"LL-Q9192 (cmn)-雲角-鱼.wav"
+],
+"猫": [
+"LL-Q9192 (cmn)-Jouketou-猫.wav"
+],
+"狗": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-狗.wav",
+"LL-Q9192 (cmn)-Luilui6666-狗.wav",
+"LL-Q9192 (cmn)-雲角-狗.wav",
+"LL-Q9192_(cmn)-雲角-狗.wav"
+],
+"花": [
+"LL-Q9192 (cmn)-Jouketou-花.wav",
+"LL-Q9192 (cmn)-雲角-花.wav",
+"zh-huā.ogg"
+],
+"山": [
+"LL-Q9192 (cmn)-Jouketou-山.wav",
+"zh-shān.ogg"
+],
+"叫": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-叫.wav",
+"LL-Q9192 (cmn)-Luilui6666-叫.wav",
+"zh-jiào.ogg"
+],
+"岁": [],
+"年": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-年.wav",
+"LL-Q9192 (cmn)-Luilui6666-年.wav",
+"zh-nián.ogg"
+],
+"月": [
+"LL-Q9192 (cmn)-雲角-月.wav",
+"zh-yuè.ogg"
+],
+"号": [],
+"请": [],
+"会": [
+"LL-Q9192 (cmn)-Assassas77-会.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-会.wav",
+"LL-Q9192 (cmn)-Luilui6666-会.wav"
+],
+"能": [
+"LL-Q9192 (cmn)-Luilui6666-能.wav",
+"LL-Q9192_(cmn)-Luilui6666-能.wav",
+"zh-néng.ogg"
+],
+"太": [
+"LL-Q9192 (cmn)-Luilui6666-太.wav",
+"zh-tài.ogg"
+],
+"很": [
+"zh-hěn.ogg"
+],
+"都": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-都.wav",
+"LL-Q9192 (cmn)-Luilui6666-都.wav",
+"zh-dōu.ogg"
+],
+"也": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-也.wav",
+"LL-Q9192 (cmn)-Luilui6666-也.wav",
+"zh-yě.ogg"
+],
+"不": [
+"LL-Q9192 (cmn)-Assassas77-不.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-不.wav",
+"LL-Q9192 (cmn)-Luilui6666-不.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-不.wav",
+"LL-Q9192 (cmn)-雲角-不.wav",
+"zh-bù.ogg"
+],
+"没": [],
+"快": [
+"zh-kuài.ogg"
+],
+"慢": [
+"zh-màn.ogg"
+],
+"长": [
+"LL-Q9192 (cmn)-Jouketou-长.wav",
+"LL-Q9192 (cmn)-雲角-长.wav"
+],
+"远": [],
+"近": [
+"zh-jìn.ogg"
+],
+"新": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-新.wav",
+"LL-Q9192 (cmn)-Luilui6666-新.wav",
+"zh-xīn.ogg"
+],
+"累": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-累.wav",
+"LL-Q9192 (cmn)-Luilui6666-累.wav"
+],
+"忙": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-忙.wav",
+"LL-Q9192 (cmn)-Luilui6666-忙.wav",
+"Zh-máng.ogg"
+],
+"饿": [
+"LL-Q9192 (cmn)-Luilui6666-饿.wav"
+],
+"渴": [
+"zh-kě.ogg"
+],
+"女": [
+"LL-Q9192 (cmn)-雲角-女.wav",
+"zh-nǚ.ogg"
+],
+"绿": [
+"LL-Q9192 (cmn)-Luilui6666-绿.wav"
+],
+"鞋": [
+"zh-xié.ogg"
+],
+"手": [
+"LL-Q9192 (cmn)-雲角-手.wav",
+"zh-shǒu.ogg"
+],
+"脚": [
+"LL-Q9192 (cmn)-Jouketou-脚.wav",
+"LL-Q9192 (cmn)-雲角-脚.wav"
+],
+"唱": [
+"LL-Q9192 (cmn)-雲角-唱.wav",
+"zh-chàng.ogg"
+],
+"跳": [
+"zh-tiào.ogg"
+],
+"笑": [
+"LL-Q9192 (cmn)-雲角-笑.wav",
+"zh-xiào.ogg"
+],
+"哭": [
+"LL-Q9192 (cmn)-Jouketou-哭.wav",
+"zh-kū.ogg"
+],
+"睡": [
+"LL-Q9192 (cmn)-雲角-睡.wav",
+"zh-shuì.ogg"
+],
+"站": [
+"LL-Q9192 (cmn)-Jouketou-站.wav",
+"LL-Q9192 (cmn)-雲角-站.wav",
+"zh-zhàn.ogg"
+],
+"找": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-找.wav",
+"LL-Q9192 (cmn)-Luilui6666-找.wav",
+"zh-zhǎo.ogg"
+],
+"给": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-给.wav",
+"LL-Q9192 (cmn)-Luilui6666-给.wav",
+"LL-Q9192 (cmn)-雲角-给.wav"
+],
+"送": [
+"zh-sòng.ogg"
+],
+"借": [
+"LL-Q9192 (cmn)-Jouketou-借.wav",
+"zh-jiè.ogg"
+],
+"进": [],
+"出": [
+"zh-chū.ogg"
+],
+"擦": [
+"LL-Q9192 (cmn)-CanonNi-擦.wav",
+"LL-Q9192 (cmn)-雲角-擦.wav",
+"zh-cā.ogg"
+],
+"药": [],
+"灯": [],
+"酸": [
+"LL-Q9192 (cmn)-CanonNi-酸.wav",
+"LL-Q9192 (cmn)-Luilui6666-酸.wav",
+"zh-suān.ogg"
+],
+"甜": [
+"LL-Q9192 (cmn)-Jouketou-甜.wav",
+"LL-Q9192 (cmn)-Luilui6666-甜.wav",
+"zh-tián.ogg"
+],
+"苦": [
+"LL-Q9192 (cmn)-CanonNi-苦.wav",
+"LL-Q9192 (cmn)-Luilui6666-苦.wav",
+"zh-kǔ.ogg"
+],
+"辣": [
+"LL-Q9192 (cmn)-CanonNi-辣.wav",
+"LL-Q9192 (cmn)-Luilui6666-辣.wav",
+"zh-là.ogg"
+],
+"咸": [
+"LL-Q9192 (cmn)-CanonNi-咸.wav",
+"zh-xián.ogg"
+],
+"香": [
+"LL-Q9192 (cmn)-CanonNi-香.wav",
+"zh-xiāng.ogg"
+],
+"脏": [
+"LL-Q9192 (cmn)-CanonNi-脏.wav"
+],
+"难": [
+"LL-Q9192 (cmn)-Jouketou-难.wav"
+],
+"换": [
+"LL-Q9192 (cmn)-Jouketou-换.wav"
+],
+"带": [
+"LL-Q9192 (cmn)-Jouketou-带.wav"
+],
+"拿": [
+"LL-Q9192 (cmn)-Jouketou-拿.wav",
+"LL-Q9192 (cmn)-雲角-拿.wav",
+"zh-ná.ogg"
+],
+"放": [
+"LL-Q9192 (cmn)-Jouketou-放.wav",
+"zh-fàng.ogg"
+],
+"关": [
+"LL-Q9192 (cmn)-Jouketou-关.wav"
+],
+"树": [
+"LL-Q9192 (cmn)-雲角-树.wav"
+],
+"草": [
+"LL-Q9192 (cmn)-雲角-草.wav",
+"zh-cǎo.ogg"
+],
+"河": [
+"LL-Q9192 (cmn)-Jouketou-河.wav",
+"zh-hé.ogg"
+],
+"海": [
+"zh-hǎi.ogg"
+],
+"湖": [
+"zh-hú.ogg"
+],
+"马": [],
+"鸟": [
+"LL-Q9192 (cmn)-雲角-鸟.wav"
+],
+"蛇": [
+"LL-Q9192 (cmn)-雲角-蛇.wav"
+],
+"红": [],
+"黄": [],
+"蓝": [],
+"白": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-白.wav",
+"LL-Q9192 (cmn)-Luilui6666-白.wav",
+"zh-bái.ogg"
+],
+"黑": [
+"LL-Q9192 (cmn)-Jouketou-黑.wav",
+"zh-hēi.ogg"
+],
+"紫": [
+"Zh-zǐ.oga"
+],
+"头": [
+"LL-Q9192 (cmn)-雲角-头.wav"
+],
+"嘴": [
+"LL-Q9192 (cmn)-Jouketou-嘴.wav",
+"zh-zuǐ.ogg"
+],
+"牙": [
+"LL-Q9192 (cmn)-雲角-牙.wav",
+"zh-yá.ogg"
+],
+"腿": [
+"LL-Q9192 (cmn)-Jouketou-腿.wav",
+"LL-Q9192 (cmn)-雲角-腿.wav",
+"zh-tuǐ.ogg"
+],
+"脸": [
+"LL-Q9192 (cmn)-Jouketou-脸.wav"
+],
+"饭": [],
+"汤": [
+"LL-Q9192 (cmn)-CanonNi-汤.wav",
+"LL-Q9192 (cmn)-Luilui6666-汤.wav"
+],
+"梨": [],
+"桃": [
+"zh-táo.ogg"
+],
+"糖": [
+"LL-Q9192 (cmn)-CanonNi-糖.wav",
+"LL-Q9192 (cmn)-Jouketou-糖.wav",
+"zh-táng.ogg"
+],
+"盐": [
+"LL-Q9192 (cmn)-CanonNi-盐.wav"
+],
+"油": [],
+"醋": [
+"zh-cù.ogg"
+],
+"酒": [
+"LL-Q9192 (cmn)-Jouketou-酒.wav",
+"zh-jiǔ.ogg"
+],
+"桥": [
+"LL-Q9192 (cmn)-CanonNi-桥.wav"
+],
+"路": [
+"zh-lù.ogg"
+],
+"街": [
+"zh-jiē.ogg"
+],
+"船": [
+"LL-Q9192 (cmn)-Jouketou-船.wav",
+"zh-chuán.ogg"
+],
+"点": [],
+"刻": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-刻.wav",
+"LL-Q9192 (cmn)-Luilui6666-刻.wav",
+"zh-kè.ogg"
+],
+"做": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-做.wav",
+"LL-Q9192 (cmn)-Luilui6666-做.wav",
+"zh-zuò.ogg"
+],
+"用": [
+"LL-Q9192 (cmn)-Jouketou-用.wav",
+"zh-yòng.ogg"
+],
+"等": [
+"LL-Q9192 (cmn)-CanonNi-等.wav",
+"LL-Q9192 (cmn)-Jouketou-等.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-等.wav",
+"LL-Q9192 (cmn)-Luilui6666-等.wav",
+"Zh-děng.ogg"
+],
+"问": [],
+"停": [
+"LL-Q9192 (cmn)-CanonNi-停.wav",
+"LL-Q9192 (cmn)-Jouketou-停.wav",
+"zh-tíng.ogg"
+],
+"爬": [
+"zh-pá.ogg"
+],
+"飞": [
+"LL-Q9192 (cmn)-雲角-飞.wav"
+],
+"游": [
+"LL-Q9192 (cmn)-雲角-游.wav"
+],
+"骑": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-骑.wav",
+"LL-Q9192 (cmn)-Luilui6666-骑.wav"
+],
+"挂": [
+"LL-Q9192 (cmn)-CanonNi-挂.wav"
+],
+"推": [
+"LL-Q9192 (cmn)-CanonNi-推.wav",
+"LL-Q9192 (cmn)-雲角-推.wav",
+"zh-tuī.ogg"
+],
+"拉": [
+"LL-Q9192 (cmn)-CanonNi-拉.wav",
+"LL-Q9192 (cmn)-Jouketou-拉.wav",
+"LL-Q9192 (cmn)-雲角-拉.wav",
+"zh-lā.ogg"
+],
+"扔": [
+"LL-Q9192 (cmn)-CanonNi-扔.wav",
+"LL-Q9192 (cmn)-Jouketou-扔.wav",
+"LL-Q9192 (cmn)-雲角-扔.wav",
+"Zh-reng.ogg"
+],
+"捡": [],
+"数": [],
+"画": [
+"LL-Q9192 (cmn)-Jouketou-画.wav"
+],
+"种": [
+"LL-Q9192 (cmn)-Jouketou-种.wav",
+"LL-Q9192 (cmn)-雲角-种.wav"
+],
+"养": [],
+"抱": [
+"LL-Q9192 (cmn)-CanonNi-抱.wav",
+"zh-bào.ogg"
+],
+"高": [
+"LL-Q9192 (cmn)-Jouketou-高.wav",
+"zh-gāo.ogg"
+],
+"矮": [
+"zh-ǎi.ogg"
+],
+"胖": [
+"zh-pàng.ogg",
+"zh-pán.ogg"
+],
+"瘦": [
+"zh-shòu.ogg"
+],
+"老": [
+"LL-Q9192 (cmn)-Jouketou-老.wav",
+"zh-lǎo.ogg"
+],
+"重": [
+"LL-Q9192 (cmn)-CanonNi-重.wav",
+"LL-Q9192 (cmn)-Jouketou-重.wav",
+"LL-Q9192 (cmn)-Luilui6666-重.wav",
+"LL-Q9192 (cmn)-雲角-重.wav",
+"zh-zhòng.ogg"
+],
+"轻": [
+"LL-Q9192 (cmn)-CanonNi-轻.wav"
+],
+"深": [
+"LL-Q9192 (cmn)-CanonNi-深.wav",
+"zh-shēn.ogg"
+],
+"浅": [],
+"宽": [
+"LL-Q9192 (cmn)-雲角-宽.wav"
+],
+"窄": [
+"LL-Q9192 (cmn)-雲角-窄.wav",
+"LL-Q9192_(cmn)-雲角-窄.wav"
+],
+"亮": [
+"zh-liàng.ogg"
+],
+"暗": [
+"Zh-àn.ogg"
+],
+"软": [],
+"硬": [
+"zh-yìng.ogg"
+],
+"湿": [],
+"满": [
+"LL-Q9192 (cmn)-CanonNi-满.wav"
+],
+"空": [
+"LL-Q9192 (cmn)-CanonNi-空.wav"
+],
+"对": [],
+"错": [],
+"真": [
+"zh-zhēn.ogg"
+],
+"假": [
+"LL-Q9192 (cmn)-CanonNi-假.wav"
+],
+"半": [
+"LL-Q9192 (cmn)-Jouketou-半.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-半.wav",
+"LL-Q9192 (cmn)-Luilui6666-半.wav",
+"zh-bàn.ogg"
+],
+"早": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-早.wav",
+"LL-Q9192 (cmn)-Luilui6666-早.wav",
+"zh-zǎo.ogg"
+],
+"晚": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-晚.wav",
+"LL-Q9192 (cmn)-Luilui6666-晚.wav",
+"zh-wǎn.ogg"
+],
+"久": [
+"LL-Q9192 (cmn)-Jouketou-久.wav",
+"zh-jiǔ.ogg"
+],
+"旧": [],
+"梦": [
+"LL-Q9192 (cmn)-CanonNi-梦.wav"
+],
+"票": [
+"zh-piào.ogg"
+],
+"包": [
+"LL-Q9192 (cmn)-Jouketou-包.wav",
+"Zh-bāo.oga"
+],
+"碗": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-碗.wav",
+"LL-Q9192 (cmn)-Luilui6666-碗.wav",
+"zh-wǎn.ogg"
+],
+"刀": [
+"LL-Q9192 (cmn)-CanonNi-刀.wav",
+"LL-Q9192 (cmn)-Jouketou-刀.wav",
+"zh-dāo.ogg"
+],
+"床": [
+"LL-Q9192 (cmn)-Jouketou-床.wav",
+"zh-chuáng.ogg"
+],
+"墙": [],
+"楼": [
+"LL-Q9192 (cmn)-Jouketou-楼.wav"
+],
+"风": [],
+"雨": [
+"LL-Q9192 (cmn)-Jouketou-雨.wav",
+"zh-yǔ.ogg"
+],
+"雪": [
+"LL-Q9192 (cmn)-Jouketou-雪.wav",
+"zh-xuě.ogg"
+],
+"云": [
+"LL-Q9192 (cmn)-CanonNi-云.wav",
+"LL-Q9192 (cmn)-Jouketou-云.wav",
+"zh-yún.ogg"
+],
+"雷": [
+"Zh-léi.ogg"
+],
+"火": [
+"LL-Q9192 (cmn)-CanonNi-火.wav",
+"LL-Q9192 (cmn)-Jouketou-火.wav",
+"zh-huǒ.oga"
+],
+"牛": [
+"LL-Q9192 (cmn)-Jouketou-牛.wav",
+"zh-niú.ogg"
+],
+"羊": [
+"LL-Q9192 (cmn)-Jouketou-羊.wav",
+"zh-yáng.ogg"
+],
+"猪": [],
+"鸡": [],
+"鸭": [],
+"比": [
+"zh-bǐ.ogg"
+],
+"只": [
+"LL-Q9192 (cmn)-Jouketou-只.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-只.wav",
+"LL-Q9192 (cmn)-Luilui6666-只.wav",
+"zh-zhǐ.ogg"
+],
+"再": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-再.wav",
+"LL-Q9192 (cmn)-Luilui6666-再.wav",
+"zh-zài.ogg"
+],
+"又": [
+"LL-Q9192 (cmn)-Jouketou-又.wav",
+"zh-yòu.ogg"
+],
+"还": [
+"LL-Q9192 (cmn)-Jouketou-还.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-还.wav",
+"LL-Q9192 (cmn)-Luilui6666-还.wav"
+],
+"就": [
+"LL-Q9192 (cmn)-Luilui6666-就.wav",
+"zh-jiù.ogg"
+],
+"才": [
+"LL-Q9192 (cmn)-Jouketou-才.wav",
+"zh-cái.ogg"
+],
+"刚": [
+"LL-Q9192 (cmn)-CanonNi-刚.wav",
+"LL-Q9192 (cmn)-Jouketou-刚.wav"
+],
+"讲": [],
+"寄": [
+"LL-Q9192 (cmn)-CanonNi-寄.wav"
+],
+"岛": [],
+"粥": [],
+"个": [],
+"本": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-本.wav",
+"LL-Q9192 (cmn)-Luilui6666-本.wav",
+"zh-běn.ogg"
+],
+"件": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-件.wav",
+"LL-Q9192 (cmn)-Luilui6666-件.wav",
+"zh-jiàn.ogg"
+],
+"张": [
+"LL-Q9192 (cmn)-Jouketou-张.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-张.wav",
+"LL-Q9192 (cmn)-Luilui6666-张.wav"
+],
+"条": [
+"LL-Q9192 (cmn)-Jouketou-条.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-条.wav",
+"LL-Q9192 (cmn)-Luilui6666-条.wav"
+],
+"双": [
+"LL-Q9192 (cmn)-Jouketou-双.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-双.wav",
+"LL-Q9192 (cmn)-Luilui6666-双.wav"
+],
+"把": [
+"LL-Q9192 (cmn)-Jouketou-把.wav",
+"zh-bǎ.ogg",
+"zh-pá.ogg"
+],
+"班": [
+"zh-bān.ogg"
+],
+"搬": [
+"LL-Q9192 (cmn)-Jouketou-搬.wav",
+"zh-bān.ogg"
+],
+"办": [],
+"被": [
+"LL-Q9192 (cmn)-Jouketou-被.wav",
+"zh-bèi.ogg",
+"zh-bì.ogg",
+"zh-pì.ogg",
+"zh-pī.oga"
+],
+"笔": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-笔.wav",
+"LL-Q9192 (cmn)-Luilui6666-笔.wav"
+],
+"变": [],
+"遍": [
+"LL-Q9192 (cmn)-CanonNi-遍.wav",
+"LL-Q9192 (cmn)-Jouketou-遍.wav",
+"zh-biàn.ogg"
+],
+"别": [],
+"冰": [
+"LL-Q9192 (cmn)-Jouketou-冰.wav"
+],
+"饼": [],
+"病": [
+"zh-bìng.ogg"
+],
+"层": [],
+"尝": [
+"LL-Q9192 (cmn)-CanonNi-尝.wav"
+],
+"场": [
+"LL-Q9192 (cmn)-CanonNi-场.wav",
+"LL-Q9192 (cmn)-Jouketou-场.wav"
+],
+"吵": [],
+"城": [
+"zh-chéng.ogg"
+],
+"迟": [],
+"春": [
+"zh-chūn.ogg"
+],
+"次": [
+"zh-cì.ogg"
+],
+"从": [],
+"戴": [
+"LL-Q9192 (cmn)-CanonNi-戴.wav",
+"zh-dài.ogg"
+],
+"当": [
+"LL-Q9192 (cmn)-CanonNi-当.wav",
+"LL-Q9192 (cmn)-Jouketou-当.wav"
+],
+"低": [
+"LL-Q9192 (cmn)-CanonNi-低.wav",
+"zh-dī.ogg"
+],
+"底": [
+"LL-Q9192 (cmn)-CanonNi-底.wav",
+"Zh-di.ogg"
+],
+"丢": [
+"LL-Q9192 (cmn)-CanonNi-丢.wav",
+"LL-Q9192 (cmn)-Jouketou-丢.wav"
+],
+"东": [
+"LL-Q9192 (cmn)-Jouketou-东.wav"
+],
+"懂": [
+"zh-dǒng.ogg"
+],
+"短": [
+"LL-Q9192 (cmn)-雲角-短.wav",
+"zh-duǎn.ogg"
+],
+"段": [
+"LL-Q9192 (cmn)-Jouketou-段.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-段.wav",
+"LL-Q9192 (cmn)-Luilui6666-段.wav",
+"zh-duàn.ogg"
+],
+"队": [],
+"而": [
+"LL-Q9192 (cmn)-CanonNi-而.wav",
+"LL-Q9192 (cmn)-Jouketou-而.wav",
+"zh-ér.ogg"
+],
+"翻": [
+"Zh-fān.ogg"
+],
+"分": [
+"LL-Q9192 (cmn)-Jouketou-分.wav",
+"LL-Q9192 (cmn)-雲角-分.wav",
+"zh-fèn.ogg",
+"zh-fēn.ogg"
+],
+"份": [
+"LL-Q9192 (cmn)-CanonNi-份.wav",
+"LL-Q9192 (cmn)-Jouketou-份.wav",
+"Zh-fèn.ogg"
+],
+"赶": [
+"LL-Q9192 (cmn)-CanonNi-赶.wav"
+],
+"敢": [
+"LL-Q9192 (cmn)-CanonNi-敢.wav",
+"LL-Q9192 (cmn)-Jouketou-敢.wav",
+"zh-gǎn.ogg"
+],
+"各": [
+"LL-Q9192 (cmn)-CanonNi-各.wav",
+"zh-gè.ogg"
+],
+"跟": [
+"LL-Q9192 (cmn)-Jouketou-跟.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-跟.wav",
+"LL-Q9192 (cmn)-Luilui6666-跟.wav",
+"zh-gēn.ogg"
+],
+"更": [
+"LL-Q9192 (cmn)-Jouketou-更.wav",
+"Zh-geng.ogg",
+"zh-gèng.ogg"
+],
+"刮": [
+"zh-guā.ogg"
+],
+"光": [
+"LL-Q9192 (cmn)-CanonNi-光.wav",
+"Zh-guang.ogg"
+],
+"逛": [
+"LL-Q9192 (cmn)-CanonNi-逛.wav",
+"Zh-guàng.ogg"
+],
+"过": [
+"LL-Q9192 (cmn)-Jouketou-过.wav",
+"LL-Q9192 (cmn)-Luilui6666-过.wav"
+],
+"汗": [
+"LL-Q9192 (cmn)-CanonNi-汗.wav",
+"Zh-hàn.ogg"
+],
+"厚": [
+"LL-Q9192 (cmn)-CanonNi-厚.wav",
+"LL-Q9192 (cmn)-雲角-厚.wav",
+"LL-Q9192_(cmn)-雲角-厚.wav"
+],
+"坏": [
+"LL-Q9192 (cmn)-Jouketou-坏.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-坏.wav",
+"LL-Q9192 (cmn)-Luilui6666-坏.wav"
+],
+"极": [],
+"交": [
+"LL-Q9192 (cmn)-CanonNi-交.wav",
+"zh-jiāo.ogg"
+],
+"教": [
+"LL-Q9192 (cmn)-Jouketou-教.wav",
+"zh-jiào.ogg",
+"zh-jiāo.ogg"
+],
+"角": [
+"LL-Q9192 (cmn)-雲角-角.wav",
+"LL-Q9192_(cmn)-雲角-角.wav",
+"zh-jiǎo.ogg"
+],
+"接": [
+"LL-Q9192 (cmn)-Jouketou-接.wav",
+"zh-jiē.ogg"
+],
+"节": [
+"LL-Q9192 (cmn)-CanonNi-节.wav"
+],
+"紧": [],
+"句": [
+"zh-jù.ogg"
+],
+"棵": [
+"LL-Q9192 (cmn)-CanonNi-棵.wav",
+"zh-kē.ogg"
+],
+"克": [
+"zh-kè.ogg"
+],
+"课": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-课.wav",
+"LL-Q9192 (cmn)-Luilui6666-课.wav"
+],
+"口": [
+"LL-Q9192 (cmn)-Jouketou-口.wav",
+"LL-Q9192 (cmn)-雲角-口.wav",
+"zh-kǒu.ogg"
+],
+"困": [
+"LL-Q9192 (cmn)-CanonNi-困.wav",
+"zh-kùn.ogg"
+],
+"懒": [
+"LL-Q9192 (cmn)-CanonNi-懒.wav"
+],
+"离": [
+"zh-chī.ogg",
+"zh-lí.ogg"
+],
+"里": [
+"zh-lǐ.ogg"
+],
+"俩": [
+"LL-Q9192 (cmn)-CanonNi-俩.wav",
+"LL-Q9192 (cmn)-Jouketou-俩.wav"
+],
+"连": [
+"LL-Q9192 (cmn)-CanonNi-连.wav",
+"LL-Q9192 (cmn)-Jouketou-连.wav"
+],
+"两": [],
+"辆": [
+"LL-Q9192 (cmn)-Jouketou-辆.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-辆.wav",
+"LL-Q9192 (cmn)-Luilui6666-辆.wav"
+],
+"零": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-零.wav",
+"LL-Q9192 (cmn)-Luilui6666-零.wav",
+"zh-líng.ogg"
+],
+"留": [
+"LL-Q9192 (cmn)-CanonNi-留.wav",
+"LL-Q9192 (cmn)-Jouketou-留.wav",
+"zh-liú.ogg"
+],
+"乱": [
+"LL-Q9192 (cmn)-CanonNi-乱.wav"
+],
+"每": [
+"zh-měi.ogg"
+],
+"米": [
+"LL-Q9192 (cmn)-Jouketou-米.wav",
+"zh-mǐ.ogg"
+],
+"男": [
+"LL-Q9192 (cmn)-雲角-男.wav",
+"zh-nán.ogg"
+],
+"南": [
+"LL-Q9192 (cmn)-Jouketou-南.wav",
+"zh-nán.ogg"
+],
+"您": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-您.wav",
+"LL-Q9192 (cmn)-Luilui6666-您.wav",
+"zh-nín.ogg"
+],
+"弄": [
+"LL-Q9192 (cmn)-CanonNi-弄.wav",
+"LL-Q9192 (cmn)-Jouketou-弄.wav",
+"zh-nòng.ogg"
+],
+"怕": [
+"LL-Q9192 (cmn)-雲角-怕.wav",
+"zh-pà.ogg"
+],
+"拍": [
+"LL-Q9192 (cmn)-Jouketou-拍.wav",
+"zh-pāi.ogg"
+],
+"陪": [
+"LL-Q9192 (cmn)-CanonNi-陪.wav",
+"zh-péi.ogg"
+],
+"篇": [
+"LL-Q9192 (cmn)-CanonNi-篇.wav",
+"zh-piān.ogg"
+],
+"骗": [
+"LL-Q9192 (cmn)-CanonNi-骗.wav"
+],
+"瓶": [
+"zh-píng.ogg"
+],
+"破": [
+"LL-Q9192 (cmn)-CanonNi-破.wav",
+"Zh-pò.ogg"
+],
+"千": [
+"LL-Q9192 (cmn)-Jouketou-千.wav",
+"zh-qiān.ogg"
+],
+"前": [
+"zh-qián.ogg"
+],
+"穷": [
+"LL-Q9192 (cmn)-CanonNi-穷.wav"
+],
+"秋": [
+"zh-qiū.ogg"
+],
+"取": [
+"LL-Q9192 (cmn)-CanonNi-取.wav"
+],
+"却": [
+"LL-Q9192 (cmn)-CanonNi-却.wav",
+"LL-Q9192 (cmn)-Jouketou-却.wav"
+],
+"让": [],
+"谁": [],
+"省": [
+"LL-Q9192 (cmn)-CanonNi-省.wav",
+"zh-shěng.ogg"
+],
+"剩": [
+"zh-shèng.ogg"
+],
+"收": [
+"LL-Q9192 (cmn)-CanonNi-收.wav"
+],
+"帅": [
+"LL-Q9192 (cmn)-CanonNi-帅.wav"
+],
+"死": [
+"LL-Q9192 (cmn)-CanonNi-死.wav",
+"LL-Q9192 (cmn)-雲角-死.wav",
+"zh-sǐ.ogg"
+],
+"算": [
+"LL-Q9192 (cmn)-Luilui6666-算.wav",
+"zh-suàn.ogg"
+],
+"它": [
+"zh-tā.ogg"
+],
+"她": [
+"zh-tā.ogg"
+],
+"抬": [
+"LL-Q9192 (cmn)-CanonNi-抬.wav",
+"zh-tái.ogg"
+],
+"谈": [
+"LL-Q9192 (cmn)-CanonNi-谈.wav",
+"LL-Q9192 (cmn)-Jouketou-谈.wav"
+],
+"躺": [
+"LL-Q9192 (cmn)-CanonNi-躺.wav",
+"LL-Q9192 (cmn)-雲角-躺.wav",
+"zh-tǎng.ogg"
+],
+"趟": [
+"LL-Q9192 (cmn)-CanonNi-趟.wav",
+"zh-tàng.ogg"
+],
+"疼": [
+"zh-téng.ogg"
+],
+"提": [
+"LL-Q9192 (cmn)-CanonNi-提.wav",
+"LL-Q9192 (cmn)-Jouketou-提.wav",
+"zh-tí.ogg"
+],
+"题": [],
+"铁": [],
+"挺": [
+"LL-Q9192 (cmn)-CanonNi-挺.wav",
+"LL-Q9192 (cmn)-Jouketou-挺.wav",
+"zh-tǐng.ogg"
+],
+"脱": [
+"LL-Q9192 (cmn)-CanonNi-脱.wav"
+],
+"外": [
+"Zh-wài.ogg"
+],
+"完": [
+"LL-Q9192 (cmn)-Luilui6666-完.wav",
+"zh-wán.ogg"
+],
+"玩": [
+"LL-Q9192 (cmn)-雲角-玩.wav",
+"zh-wán.ogg"
+],
+"万": [
+"LL-Q9192 (cmn)-Jouketou-万.wav",
+"LL-Q9192 (cmn)-Luilui6666-万.wav",
+"Zh-mò.ogg"
+],
+"往": [
+"zh-wǎng.ogg"
+],
+"忘": [
+"zh-wàng.ogg"
+],
+"为": [
+"LL-Q9192 (cmn)-Jouketou-为.wav"
+],
+"位": [
+"LL-Q9192 (cmn)-Jouketou-位.wav",
+"LL-Q9192 (cmn)-Luilui6666-位.wav",
+"zh-wèi.ogg"
+],
+"喂": [
+"LL-Q9192 (cmn)-CanonNi-喂.wav",
+"LL-Q9192 (cmn)-Fake estate-喂.wav",
+"LL-Q9192 (cmn)-Jouketou-喂.wav"
+],
+"无": [
+"LL-Q9192 (cmn)-CanonNi-无.wav",
+"LL-Q9192 (cmn)-Jouketou-无.wav"
+],
+"西": [
+"LL-Q9192 (cmn)-Jouketou-西.wav",
+"zh-xī.ogg"
+],
+"先": [
+"LL-Q9192 (cmn)-Jouketou-先.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-先.wav",
+"LL-Q9192 (cmn)-Luilui6666-先.wav",
+"zh-xiān.ogg"
+],
+"响": [
+"LL-Q9192 (cmn)-CanonNi-响.wav"
+],
+"像": [
+"LL-Q9192 (cmn)-Jouketou-像.wav",
+"zh-xiàng.ogg"
+],
+"向": [
+"LL-Q9192 (cmn)-Jouketou-向.wav",
+"zh-xiàng.ogg"
+],
+"些": [
+"zh-xiē.ogg"
+],
+"信": [
+"zh-xìn.ogg"
+],
+"行": [
+"LL-Q9192 (cmn)-CanonNi-行.wav",
+"LL-Q9192 (cmn)-Jouketou-行.wav",
+"zh-xíng.ogg"
+],
+"醒": [
+"LL-Q9192 (cmn)-CanonNi-醒.wav",
+"LL-Q9192 (cmn)-Jouketou-醒.wav"
+],
+"姓": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-姓.wav",
+"LL-Q9192 (cmn)-Luilui6666-姓.wav",
+"zh-xìng.ogg"
+],
+"修": [
+"Zh-xiu.ogg"
+],
+"选": [],
+"呀": [
+"LL-Q9192 (cmn)-CanonNi-呀.wav",
+"LL-Q9192 (cmn)-Jouketou-呀.wav",
+"zh-yā.ogg"
+],
+"页": [
+"LL-Q9192 (cmn)-CanonNi-页.wav"
+],
+"夜": [
+"LL-Q9192 (cmn)-Jouketou-夜.wav",
+"zh-yè.ogg"
+],
+"阴": [],
+"银": [],
+"赢": [
+"LL-Q9192 (cmn)-CanonNi-赢.wav",
+"LL-Q9192 (cmn)-Jouketou-赢.wav"
+],
+"右": [
+"zh-yòu.ogg"
+],
+"与": [
+"LL-Q9192 (cmn)-CanonNi-与.wav",
+"LL-Q9192 (cmn)-Jouketou-与.wav"
+],
+"元": [
+"LL-Q9192 (cmn)-Luilui6666-元.wav",
+"zh-yuán.ogg"
+],
+"越": [
+"LL-Q9192 (cmn)-Jouketou-越.wav",
+"zh-yuè.ogg"
+],
+"照": [
+"LL-Q9192 (cmn)-CanonNi-照.wav"
+],
+"之": [
+"LL-Q9192 (cmn)-CanonNi-之.wav",
+"LL-Q9192 (cmn)-Jouketou-之.wav",
+"zh-zhī.ogg"
+],
+"指": [
+"LL-Q9192 (cmn)-CanonNi-指.wav",
+"LL-Q9192 (cmn)-Jouketou-指.wav",
+"zh-zhǐ.ogg"
+],
+"祝": [
+"zh-zhòu.ogg",
+"zh-zhù.ogg"
+],
+"转": [
+"LL-Q9192 (cmn)-CanonNi-转.wav",
+"LL-Q9192 (cmn)-Jouketou-转.wav",
+"LL-Q9192 (cmn)-雲角-转.wav"
+],
+"赚": [
+"LL-Q9192 (cmn)-CanonNi-赚.wav"
+],
+"字": [
+"LL-Q9192 (cmn)-Jouketou-字.wav",
+"zh-zì.ogg"
+],
+"租": [
+"LL-Q9192 (cmn)-CanonNi-租.wav"
+],
+"左": [
+"LL-Q9192 (cmn)-Jouketou-左.wav",
+"zh-zuǒ.ogg"
+],
+"座": [
+"LL-Q9192 (cmn)-CanonNi-座.wav"
+],
+"蛋": [
+"LL-Q9192 (cmn)-雲角-蛋.wav",
+"zh-dàn.ogg"
+],
+"二": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-二.wav",
+"LL-Q9192 (cmn)-Luilui6666-二.wav",
+"LL-Q9192 (cmn)-雲角-二.wav",
+"zh-èr.ogg"
+],
+"家": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-家.wav",
+"LL-Q9192 (cmn)-Luilui6666-家.wav",
+"zh-jiā.ogg"
+],
+"九": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-九.wav",
+"LL-Q9192 (cmn)-Luilui6666-九.wav",
+"zh-jiǔ.ogg"
+],
+"六": [
+"LL-Q9192 (cmn)-Jouketou-六.wav",
+"zh-liù.ogg"
+],
+"面": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-面.wav",
+"LL-Q9192 (cmn)-Luilui6666-面.wav",
+"zh-miàn.ogg"
+],
+"旁": [
+"zh-páng.ogg"
+],
+"七": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-七.wav",
+"LL-Q9192 (cmn)-Luilui6666-七.wav",
+"zh-qī.ogg"
+],
+"晴": [
+"zh-qíng.ogg"
+],
+"日": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-日.wav",
+"LL-Q9192 (cmn)-Luilui6666-日.wav",
+"LL-Q9192 (cmn)-雲角-日.wav",
+"zh-mì.ogg",
+"zh-rì.ogg"
+],
+"三": [
+"LL-Q9192 (cmn)-雲角-三.wav",
+"zh-sān.ogg"
+],
+"十": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-十.wav",
+"LL-Q9192 (cmn)-Luilui6666-十.wav",
+"zh-shí.ogg"
+],
+"四": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-四.wav",
+"LL-Q9192 (cmn)-Luilui6666-四.wav",
+"LL-Q9192 (cmn)-雲角-四.wav",
+"zh-sì.ogg"
+],
+"天": [
+"LL-Q9192 (cmn)-Jouketou-天.wav",
+"zh-tiān.ogg"
+],
+"五": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-五.wav",
+"LL-Q9192 (cmn)-Luilui6666-五.wav",
+"LL-Q9192 (cmn)-雲角-五.wav",
+"zh-wǔ.ogg"
+],
+"要": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-要.wav",
+"LL-Q9192 (cmn)-Luilui6666-要.wav",
+"zh-yào.ogg"
+],
+"一": [
+"LL-Q9192 (cmn)-Wang Cheng (Yug)-一.wav",
+"LL-Q9192 (cmn)-雲角-一.wav",
+"zh-yī.ogg"
+],
+"有": [
+"LL-Q9192 (cmn)-Assassas77-有.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-有.wav",
+"LL-Q9192 (cmn)-Luilui6666-有.wav",
+"LL-Q9192 (cmn)-Yihsiangyang-有.wav",
+"zh-yòu.ogg",
+"zh-yǒu.ogg"
+],
+"在": [
+"LL-Q9192 (cmn)-Assassas77-在.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-在.wav",
+"LL-Q9192 (cmn)-Luilui6666-在.wav",
+"zh-zài.ogg"
+],
+"这": [
+"LL-Q9192 (cmn)-Assassas77-这.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-这.wav",
+"LL-Q9192 (cmn)-Luilui6666-这.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-这.wav",
+"LL-Q9192 (cmn)-Wang Cheng (Yug)-这.wav",
+"LL-Q9192 (cmn)-雲角-这.wav"
+],
+"最": [
+"zh-zuì.ogg"
+],
+"够": [
+"LL-Q9192 (cmn)-CanonNi-够.wav",
+"LL-Q9192 (cmn)-Jouketou-够.wav"
+],
+"熊": [
+"LL-Q9192 (cmn)-Jouketou-熊.wav",
+"zh-xióng.ogg"
+],
+"诗": [],
+"输": [
+"LL-Q9192 (cmn)-CanonNi-输.wav"
+],
+"递": [],
+"我": [
+"LL-Q9192 (cmn)-Assassas77-我.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-我.wav",
+"LL-Q9192 (cmn)-Luilui6666-我.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-我.wav",
+"zh-wǒ.ogg"
+],
+"你": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-你.wav",
+"LL-Q9192 (cmn)-Luilui6666-你.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-你.wav",
+"LL-Q9192 (cmn)-Wang Cheng (Yug)-你.wav",
+"LL-Q9192 (cmn)-雲角-你.wav",
+"zh-nǐ.ogg"
+],
+"他": [
+"LL-Q9192 (cmn)-Assassas77-他.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-他.wav",
+"LL-Q9192 (cmn)-Luilui6666-他.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-他.wav",
+"LL-Q9192 (cmn)-Wang Cheng (Yug)-他.wav",
+"zh-tā.ogg"
+],
+"了": [
+"LL-Q9192 (cmn)-Assassas77-了.wav",
+"LL-Q9192 (cmn)-Luilui6666-了.wav",
+"Zh-le.ogg",
+"Zh-liào.ogg",
+"zh-liǎo.ogg"
+],
+"的": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-的.wav",
+"LL-Q9192 (cmn)-Luilui6666-的.wav",
+"zh-de.ogg",
+"zh-dì.ogg"
+],
+"是": [
+"LL-Q9192 (cmn)-Assassas77-是.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-是.wav",
+"LL-Q9192 (cmn)-Luilui6666-是.wav",
+"zh-shì.ogg"
+],
+"儿": [],
+"吗": [
+"LL-Q9192 (cmn)-Assassas77-吗.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-吗.wav",
+"LL-Q9192 (cmn)-Luilui6666-吗.wav"
+],
+"上": [
+"LL-Q9192 (cmn)-Jouketou-上.wav",
+"zh-shàng.ogg"
+],
+"到": [
+"zh-dào.ogg"
+],
+"得": [
+"LL-Q9192 (cmn)-CanonNi-得.wav",
+"LL-Q9192 (cmn)-Jouketou-得.wav",
+"zh-de.ogg",
+"zh-dé.ogg",
+"zh-děi.ogg"
+],
+"学": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-学.wav",
+"LL-Q9192 (cmn)-Luilui6666-学.wav"
+],
+"吧": [],
+"哪": [
+"zh-nǎ.ogg"
+],
+"几": [
+"zh-jī.ogg"
+],
+"下": [
+"LL-Q9192 (cmn)-Jouketou-下.wav",
+"zh-xià.ogg"
+],
+"和": [
+"zh-hé.ogg"
+],
+"王": [
+"zh-wàng.ogg",
+"zh-wáng.ogg"
+],
+"八": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-八.wav",
+"LL-Q9192 (cmn)-Luilui6666-八.wav"
+],
+"车": [],
+"那": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-那.wav",
+"LL-Q9192 (cmn)-Luilui6666-那.wav",
+"LL-Q9192 (cmn)-Vickylin77amis-那.wav",
+"LL-Q9192 (cmn)-Wang Cheng (Yug)-那.wav",
+"LL-Q9192 (cmn)-雲角-那.wav",
+"zh-nà.ogg",
+"zh-nǎ.ogg"
+],
+"李": [
+"zh-lǐ.ogg"
+],
+"帮": [],
+"话": [],
+"考": [],
+"国": [
+"LL-Q9192 (cmn)-Jouketou-国.wav"
+],
+"打": [
+"Zh-dǎ.ogg"
+],
+"着": [],
+"明": [],
+"记": [],
+"生": [
+"LL-Q9192 (cmn)-Jouketou-生.wav",
+"zh-shēng.ogg"
+],
+"呢": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-呢.wav",
+"LL-Q9192 (cmn)-Luilui6666-呢.wav",
+"zh-ne.ogg"
+],
+"安": [
+"Zh-ān.oga"
+],
+"娜": [
+"zh-nuó.ogg"
+],
+"们": [],
+"卫": [],
+"百": [
+"LL-Q9192 (cmn)-Jouketou-百.wav",
+"zh-bǎi.ogg"
+],
+"网": [],
+"么": [],
+"杯": [
+"zh-bēi.ogg"
+],
+"试": [
+"LL-Q9192 (cmn)-Jouketou-试.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-试.wav",
+"LL-Q9192 (cmn)-Luilui6666-试.wav"
+],
+"子": [
+"LL-Q9192 (cmn)-Jouketou-子.wav",
+"Zh-zǐ.oga",
+"Zh-子.oga"
+],
+"丽": [],
+"束": [
+"LL-Q9192 (cmn)-Fake estate-束.wav"
+],
+"列": [
+"zh-liè.ogg"
+],
+"餐": [],
+"厢": [],
+"折": [
+"LL-Q9192 (cmn)-Fake estate-折.wav",
+"zh-shé.ogg",
+"zh-tí.ogg",
+"zh-zhé.ogg"
+],
+"名": [
+"LL-Q9192 (cmn)-Jouketou-名.wav",
+"zh-míng.ogg"
+],
+"周": [
+"zh-zhōu.ogg"
+],
+"样": [],
+"兴": [],
+"事": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-事.wav",
+"LL-Q9192 (cmn)-Luilui6666-事.wav",
+"zh-shì.ogg"
+],
+"时": [],
+"吹": [
+"LL-Q9192 (cmn)-雲角-吹.wav",
+"zh-chuī.ogg"
+],
+"友": [],
+"改": [
+"zh-gǎi.ogg"
+],
+"竹": [],
+"球": [
+"zh-qiú.ogg"
+],
+"见": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-见.wav",
+"LL-Q9192 (cmn)-Luilui6666-见.wav"
+],
+"乘": [
+"LL-Q9192 (cmn)-Fake estate-乘.wav",
+"zh-chéng.ogg"
+],
+"将": [],
+"旅": [
+"Zh-lǚ.oga"
+],
+"途": [],
+"购": [],
+"物": [],
+"然": [],
+"觉": [],
+"聊": [
+"zh-liáo.ogg"
+],
+"拳": [],
+"步": [],
+"纸": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-纸.wav",
+"LL-Q9192 (cmn)-Luilui6666-纸.wav"
+],
+"感": [],
+"付": [],
+"起": [
+"zh-qǐ.ogg"
+],
+"色": [
+"LL-Q9192 (cmn)-Jouketou-色.wav",
+"zh-sè.ogg"
+],
+"副": [
+"LL-Q9192 (cmn)-Fake estate-副.wav",
+"LL-Q9192 (cmn)-Jouketou-副.wav",
+"zh-fù.ogg"
+],
+"道": [
+"LL-Q9192 (cmn)-Jouketou-道.wav",
+"zh-dào.ogg"
+],
+"地": [
+"LL-Q9192 (cmn)-Jouketou-地.wav",
+"zh-de.ogg",
+"zh-dì.ogg"
+],
+"第": [
+"zh-dì.ogg"
+],
+"室": [],
+"宫": [],
+"保": [],
+"丁": [
+"LL-Q9192 (cmn)-Fake estate-丁.wav"
+],
+"证": [],
+"唯": [],
+"宝": [],
+"川": [
+"LL-Q9192 (cmn)-Jouketou-川.wav",
+"zh-chuān.ogg"
+],
+"台": [
+"LL-Q9192 (cmn)-CanonNi-台.wav"
+],
+"认": [],
+"经": [],
+"自": [
+"zh-zì.ogg"
+],
+"气": [],
+"丈": [],
+"中": [
+"LL-Q9192 (cmn)-Jouketou-中.wav",
+"zh-zhòng.ogg",
+"zh-zhōng.ogg"
+],
+"奶": [
+"Zh-nǎi.oga"
+],
+"京": [
+"zh-jīng.ogg"
+],
+"词": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-词.wav",
+"LL-Q9192 (cmn)-Luilui6666-词.wav"
+],
+"造": [
+"zh-zào.ogg"
+],
+"院": [
+"zh-yuàn.ogg"
+],
+"定": [
+"zh-dìng.ogg"
+],
+"舍": [
+"Zh-she.ogg"
+],
+"文": [
+"zh-wén.ogg"
+],
+"于": [],
+"爸": [],
+"啡": [],
+"便": [],
+"踢": [
+"Zh-tī.ogg"
+],
+"后": [
+"zh-hòu.ogg"
+],
+"店": [
+"zh-diàn.ogg"
+],
+"斤": [
+"zh-jīn.ogg"
+],
+"毛": [
+"LL-Q9192 (cmn)-CanonNi-毛.wav",
+"LL-Q9192 (cmn)-Jouketou-毛.wav",
+"zh-máo.ogg"
+],
+"电": [],
+"林": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-林.wav",
+"LL-Q9192 (cmn)-Luilui6666-林.wav",
+"LL-Q9192 (cmn)-雲角-林.wav",
+"LL-Q9192_(cmn)-Levi_Highway_(列维劳德)-林.wav",
+"LL-Q9192_(cmn)-雲角-林.wav"
+],
+"支": [
+"zh-zhī.ogg"
+],
+"啊": [
+"LL-Q9192 (cmn)-Jouketou-啊.wav",
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-啊.wav",
+"LL-Q9192 (cmn)-Luilui6666-啊.wav",
+"Zh-a.ogg",
+"Zh-ā.ogg"
+],
+"灰": [],
+"全": [
+"zh-quán.ogg"
+],
+"屋": [
+"Zh-wū.oga"
+],
+"知": [
+"zh-zhī.ogg"
+],
+"馆": [],
+"欢": [],
+"朋": [],
+"房": [],
+"客": [
+"zh-kè.ogg"
+],
+"午": [],
+"期": [],
+"汉": [],
+"馒": [],
+"局": [
+"zh-jú.ogg"
+],
+"谢": [],
+"工": [
+"LL-Q9192 (cmn)-Jouketou-工.wav",
+"Zh-gōng.oga"
+],
+"果": [
+"LL-Q9192 (cmn)-雲角-果.wav"
+],
+"校": [],
+"秘": [],
+"俄": [
+"zh-é.ogg"
+],
+"易": [],
+"弟": [],
+"师": [],
+"英": [
+"Zh-ying.ogg"
+],
+"间": [],
+"语": [],
+"法": [],
+"码": [],
+"绍": [],
+"美": [
+"LL-Q9192 (cmn)-Jouketou-美.wav",
+"zh-měi.ogg"
+],
+"杂": [],
+"身": [
+"zh-shēn.ogg"
+],
+"机": [
+"zh-jī.ogg",
+"zh-jǐ.ogg",
+"zh-wèi.ogg"
+],
+"今": [],
+"妹": [],
+"姐": [],
+"公": [],
+"韩": [],
+"介": [],
+"妈": [],
+"港": [],
+"容": [
+"zh-róng.ogg"
+],
+"民": [],
+"北": [
+"LL-Q9192 (cmn)-Jouketou-北.wav",
+"zh-běi.ogg"
+],
+"德": [],
+"邮": [],
+"哥": [],
+"昨": [],
+"啤": [
+"zh-pí.ogg"
+],
+"堂": [],
+"币": [],
+"同": [
+"zh-tóng.ogg"
+],
+"言": [],
+"体": [],
+"授": [],
+"较": [],
+"习": [],
+"识": [],
+"苹": [],
+"星": [
+"LL-Q9192 (cmn)-雲角-星.wav",
+"Zh-xīng.oga"
+],
+"宜": [],
+"志": [],
+"发": [
+"LL-Q9192 (cmn)-Jouketou-发.wav",
+"LL-Q9192 (cmn)-雲角-发.wav"
+],
+"迎": [],
+"方": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-方.wav",
+"LL-Q9192 (cmn)-Luilui6666-方.wav"
+],
+"作": [
+"zh-zuò.ogg"
+],
+"欧": [],
+"食": [],
+"音": [
+"zh-yīn.ogg"
+],
+"夫": [
+"LL-Q9192 (cmn)-雲角-夫.wav"
+],
+"医": [],
+"已": [
+"LL-Q9192 (cmn)-Jouketou-已.wav"
+],
+"咖": [],
+"部": [
+"zh-bù.ogg"
+],
+"田": [
+"LL-Q9192 (cmn)-Levi Highway (列维劳德)-田.wav",
+"LL-Q9192 (cmn)-Luilui6666-田.wav"
+],
+"己": [],
+"结": [],
+"入": [
+"LL-Q9192 (cmn)-Jouketou-入.wav",
+"zh-rù.ogg"
+],
+"由": [
+"LL-Q9192 (cmn)-CanonNi-由.wav",
+"LL-Q9192 (cmn)-Jouketou-由.wav",
+"zh-yóu.ogg"
+],
+"决": [],
+"宿": [],
+"闻": [],
+"加": [
+"zh-jiā.ogg"
+]
+}
