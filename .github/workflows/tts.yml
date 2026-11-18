@@ -3,6 +3,9 @@ on:
   workflow_dispatch:
   push:
     paths: ['tts_list.txt', '.github/workflows/tts.yml']
+concurrency:
+  group: tts
+  cancel-in-progress: true
 permissions:
   contents: write
 jobs:
@@ -21,7 +24,7 @@ jobs:
           mkdir -p out_tts
           python - <<'PY'
           import asyncio, os, edge_tts
-          V = 'zh-CN-XiaoxiaoNeural'
+          V = 'zh-CN-YunyangNeural'
           items = [l.rstrip('\n').split('\t', 1) for l in open('tts_list.txt', encoding='utf-8') if '\t' in l]
           sem = asyncio.Semaphore(6); fail = []
           async def one(i, t):
@@ -29,7 +32,7 @@ jobs:
               async with sem:
                   for k in range(6):
                       try:
-                          await edge_tts.Communicate(t, V).save(p)
+                          await edge_tts.Communicate(t, V, rate='-20%').save(p)
                           if os.path.getsize(p) > 1500: return
                       except Exception as e:
                           print('retry', i, t, e)
