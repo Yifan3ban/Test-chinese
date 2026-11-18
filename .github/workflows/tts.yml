@@ -1,0 +1,53 @@
+name: tts
+on:
+  workflow_dispatch:
+  push:
+    paths: ['tts_list.txt', '.github/workflows/tts.yml']
+permissions:
+  contents: write
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install edge-tts
+      - name: generate
+        run: |
+          [ -f tts_list.txt ] || { echo "no tts_list.txt yet"; exit 0; }
+          mkdir -p out_tts
+          python - <<'PY'
+          import asyncio, os, edge_tts
+          V = 'zh-CN-XiaoxiaoNeural'
+          items = [l.rstrip('\n').split('\t', 1) for l in open('tts_list.txt', encoding='utf-8') if '\t' in l]
+          sem = asyncio.Semaphore(6); fail = []
+          async def one(i, t):
+              p = f'out_tts/{i}.mp3'
+              async with sem:
+                  for k in range(6):
+                      try:
+                          await edge_tts.Communicate(t, V).save(p)
+                          if os.path.getsize(p) > 1500: return
+                      except Exception as e:
+                          print('retry', i, t, e)
+                      await asyncio.sleep(2 + 3 * k)
+                  fail.append(i + '\t' + t)
+          async def main():
+              await asyncio.gather(*(one(i, t) for i, t in items))
+          asyncio.run(main())
+          open('out_tts/fail.txt', 'w', encoding='utf-8').write('\n'.join(fail))
+          print('done', len(items), 'failed', len(fail))
+          PY
+      - name: push to tts-audio branch
+        run: |
+          [ -d out_tts ] || exit 0
+          cp tts_list.txt out_tts/
+          cd out_tts
+          git init -q
+          git checkout -q -b tts-audio
+          git add .
+          git -c user.name=tts -c user.email=tts@users.noreply.github.com commit -qm "tts audio"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" tts-audio
