@@ -1,0 +1,114 @@
+name: samples
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/samples.yml']
+permissions:
+  contents: write
+jobs:
+  samples:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install edge-tts
+      - run: which ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+      - name: collect
+        run: |
+          python - <<'PY'
+          import asyncio, os, json, re, time, subprocess, hashlib, urllib.request, urllib.parse, concurrent.futures as cf
+          OUT = 'out_s'; os.makedirs(OUT + '/edge', exist_ok=True); os.makedirs(OUT + '/wm', exist_ok=True)
+          LOG = open(OUT + '/log.txt', 'w', encoding='utf-8')
+          def log(*a):
+              s = ' '.join(str(x) for x in a); print(s); LOG.write(s + '\n'); LOG.flush()
+          # ---------- 1. edge voices ----------
+          SAMPLES = ['你好', '谢谢', '俄国', '欧元', '星期二', '电话号码', '我们俩', '我觉得语法不太难，汉字很难。']
+          VOICES = ['zh-CN-XiaoxiaoNeural', 'zh-CN-XiaoyiNeural', 'zh-CN-YunjianNeural', 'zh-CN-YunxiNeural', 'zh-CN-YunxiaNeural', 'zh-CN-YunyangNeural']
+          RATES = ['-20%', '-35%']
+          async def edge():
+              import edge_tts
+              for v in VOICES:
+                  for r in RATES:
+                      for i, t in enumerate(SAMPLES):
+                          p = f'{OUT}/edge/{v}_{r[1:3]}_{i}.mp3'
+                          for k in range(4):
+                              try:
+                                  await edge_tts.Communicate(t, v, rate=r).save(p); break
+                              except Exception as e:
+                                  log('edge retry', v, r, t, e); await asyncio.sleep(3)
+          try:
+              asyncio.run(edge())
+          except Exception as e:
+              log('edge failed', e)
+          # ---------- 2. wikimedia human recordings ----------
+          UA = {'User-Agent': 'Yifan3ban-chinese-trainer/1.0 (https://github.com/Yifan3ban; educational)'}
+          def get(url, tries=5):
+              for k in range(tries):
+                  try:
+                      with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=40) as r:
+                          return r.read()
+                  except Exception as e:
+                      if k == tries - 1: log('GET fail', url[:150], e); return None
+                      time.sleep(2 + 3 * k)
+          def api(host, **q):
+              q['format'] = 'json'; q['formatversion'] = '2'
+              b = get(f'https://{host}/w/api.php?' + urllib.parse.urlencode(q))
+              try: return json.loads(b) if b else {}
+              except Exception: return {}
+          AUD = re.compile(r'\.(ogg|oga|wav|mp3|flac|opus)$', re.I)
+          def zh_audio(name):
+              n = name.replace('_', ' ')
+              return bool(AUD.search(n)) and (('Q9192' in n) or ('(cmn)' in n) or re.match(r'^(File:)?(Zh|Cmn|zh|cmn)[- ]', n) is not None)
+          words = [l.rstrip('\n').split('\t', 1)[1] for l in open('tts_list.txt', encoding='utf-8') if '\t' in l]
+          extra = list('人大小多少好吃喝水茶热冷爱想看听说读写买卖开坐住去来回走跑洗穿书门窗钱块贵菜肉鱼猫狗花山叫岁年月号请会能太很都也不没快慢长远近新累忙饿渴女绿鞋手脚唱跳笑哭睡站找给送借进出擦药灯酸甜苦辣咸香脏难换带拿放关树草河海湖马鸟蛇红黄蓝白黑紫头嘴牙腿脸饭汤梨桃糖盐油醋酒桥路街船点刻做用等问停爬飞游骑挂推拉扔捡数画种养抱高矮胖瘦老重轻深浅宽窄亮暗软硬湿满空对错真假半早晚久旧梦票包碗刀床墙楼风雨雪云雷火牛羊猪鸡鸭比只再又还就才刚讲寄岛粥个本件张条双把班搬办被笔变遍别冰饼病层尝场吵城迟春次从戴当低底丢东懂短段队而翻分份赶敢各跟更刮光逛过汗厚坏极交教角接节紧句棵克课口困懒离里俩连两辆零留乱每米男南您弄怕拍陪篇骗瓶破千前穷秋取却让谁省剩收帅死算它她抬谈躺趟疼提题铁挺脱外完玩万往忘为位喂无西先响像向些信行醒姓修选呀页夜阴银赢右与元越照之指祝转赚字租左座蛋二家九六面旁七晴日三十四天五要一有在这最够熊诗输递我你他了的是儿吗上到得学吧哪几下和王八车那李帮话考国打着明记生呢安娜们卫百网么杯试子丽束列餐厢折名周样兴事时吹友改竹球见乘将旅途购物然觉聊拳步纸感付起色副道地第室宫保丁证唯宝川台认经自气丈中奶京词造院定舍文于爸啡便踢后店斤毛电林支啊灰全屋知馆欢朋房客午期汉馒局谢工果校秘俄易弟师英间语法码绍美杂身机今妹姐公韩介妈港容民北德邮哥昨啤堂币同言体授较习识苹星宜志发迎方作欧食音夫医已咖部田己结入由决宿闻加')
+          allw = list(dict.fromkeys(words + extra))
+          log('words', len(allw))
+          def find(w):
+              c = set()
+              d = api('en.wiktionary.org', action='parse', page=w, prop='images', redirects=1)
+              for n in (d.get('parse') or {}).get('images', []) or []:
+                  if zh_audio(n) and (w in n or n.lower().startswith(('zh-', 'cmn-'))): c.add(n)
+              d = api('commons.wikimedia.org', action='query', list='search', srnamespace=6, srlimit=30, srsearch=f'intitle:"{w}" intitle:Q9192')
+              for s in (d.get('query') or {}).get('search', []) or []:
+                  n = s['title'].split(':', 1)[1]
+                  if zh_audio(n) and re.search(r'-' + re.escape(w) + r'\.(wav|ogg|mp3|flac)$', n): c.add(n)
+              return w, sorted(c)
+          res = {}
+          with cf.ThreadPoolExecutor(4) as ex:
+              for k, (w, c) in enumerate(ex.map(find, allw)):
+                  res[w] = c
+                  if k % 200 == 0: log('progress', k, sum(1 for v in res.values() if v))
+          json.dump(res, open(OUT + '/wm_index.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+          log('found', sum(1 for v in res.values() if v), 'of', len(allw))
+          def dl(item):
+              w, names = item; got = []
+              for j, n in enumerate(names[:3]):
+                  b = get('https://commons.wikimedia.org/wiki/Special:FilePath/' + urllib.parse.quote(n.replace(' ', '_')))
+                  if not b: continue
+                  raw = f'{OUT}/wm/tmp_' + hashlib.md5(n.encode()).hexdigest()[:10]; open(raw, 'wb').write(b)
+                  o = f'{OUT}/wm/' + hashlib.md5(w.encode()).hexdigest()[:12] + f'_{j}.mp3'
+                  r = subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', raw, '-ac', '1', '-ar', '24000', '-b:a', '48k', o])
+                  os.remove(raw)
+                  if r.returncode == 0: got.append([n, os.path.basename(o)])
+              return w, got
+          files = {}
+          with cf.ThreadPoolExecutor(4) as ex:
+              for w, g in ex.map(dl, [(w, c) for w, c in res.items() if c]):
+                  if g: files[w] = g
+          json.dump(files, open(OUT + '/wm_files.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
+          log('downloaded words', len(files))
+
+          PY
+      - name: push to tts-samples branch
+        if: always()
+        run: |
+          [ -d out_s ] || exit 0
+          cd out_s
+          git init -q
+          git checkout -q -b tts-samples
+          git add .
+          git -c user.name=tts -c user.email=tts@users.noreply.github.com commit -qm samples
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" tts-samples
