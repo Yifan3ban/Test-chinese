@@ -3985,9 +3985,10 @@ document.addEventListener('pointerdown',unlock,{capture:true});document.addEvent
 async function fetchBin(url,onp){const r=await fetch(url);if(!r.ok)throw 0;const total=+(r.headers.get('content-length')||0);
  if(r.body&&r.body.getReader){const rd=r.body.getReader(),ch=[];let got=0;for(;;){const{done,value}=await rd.read();if(done)break;ch.push(value);got+=value.length;onp&&onp(got,total)}const u=new Uint8Array(got);let o=0;for(const c of ch){u.set(c,o);o+=c.length}return u.buffer}
  const b=await r.arrayBuffer();onp&&onp(b.byteLength,b.byteLength);return b}
-async function loadPack(n,onp){const ir=await fetch(n+'.json');if(!ir.ok)throw 0;const idx=await ir.json();const meta=idx._||{p:1,z:[0]};delete idx._;
+const VPV='373732a9';
+async function loadPack(n,onp){const qv=n=='v'||n=='u'?'?v='+VPV:'';const ir=await fetch(n+'.json'+qv);if(!ir.ok)throw 0;const idx=await ir.json();const meta=idx._||{p:1,z:[0]};delete idx._;
  const got=new Array(meta.p).fill(0),tot=meta.z.reduce((a,b)=>a+b,0)||1;
- const bufs=await Promise.all(Array.from({length:meta.p},(_,j)=>fetchBin(n+(j?j+1:'')+'.mp3',g=>{got[j]=g;onp&&onp(Math.min(1,got.reduce((a,b)=>a+b,0)/tot))})));
+ const bufs=await Promise.all(Array.from({length:meta.p},(_,j)=>fetchBin(n+(j?j+1:'')+'.mp3'+qv,g=>{got[j]=g;onp&&onp(Math.min(1,got.reduce((a,b)=>a+b,0)/tot))})));
  AU.packs[n]={i:idx,b:bufs};return idx}
 function ensure(n){if(AU.st[n]=='ok')return Promise.resolve();if(AU.st[n]=='load')return AU['p_'+n];AU.st[n]='load';
  AU['p_'+n]=loadPack(n,n=='w'?p=>{AU.prog=p;loadUI()}:null).then(()=>{AU.st[n]='ok';if(n=='w')markW();loadUI()}).catch(()=>{AU.st[n]='err';loadUI()});return AU['p_'+n]}
@@ -4144,14 +4145,15 @@ async function synthWord(w){try{await Promise.all([ensure('y'),ensure('z')])}cat
  while(seq.length&&seq[seq.length-1].d==null)seq.pop();if(!seq.length)return null;const lead=Math.round(.05*sr),tail=Math.round(.1*sr);let len=lead+tail;seq.forEach(x=>len+=x.z!=null?x.z:x.d.length);
  const out=new Float32Array(len);let o=lead;seq.forEach(x=>{if(x.z!=null)o+=x.z;else{out.set(x.d,o);o+=x.d.length}});return{d:out,sr}}
 /* test build only: words without a whole recording are read by the phone's own Chinese voice */
-const TTSV=false,TTS={v:null,ok:false,warned:0};
-function ttsInit(){try{if(!TTSV||!('speechSynthesis' in window))return;const pick=()=>{const vs=speechSynthesis.getVoices()||[],z=vs.filter(v=>/^(zh|cmn)([-_]|$)/i.test(v.lang)&&!/(HK|TW|MO|yue|Hant)/i.test(v.lang+' '+v.name));
- TTS.v=z.find(v=>/CN|Hans/i.test(v.lang)&&v.localService)||z.find(v=>/CN|Hans/i.test(v.lang))||z[0]||null;TTS.ok=!!TTS.v};pick();speechSynthesis.addEventListener('voiceschanged',pick)}catch(e){}}
-ttsInit();
-function ttsSay(t,ui){if(!TTS.ok)return null;try{stopAudio();const u=new SpeechSynthesisUtterance(String(t));u.voice=TTS.v;u.lang=TTS.v.lang;u.rate=.9;AU.tts=1;if(ui)ui.classList.add('on');const done=()=>{if(ui)vizEnd(ui)};u.onend=done;u.onerror=done;speechSynthesis.speak(u);return Promise.resolve(1)}catch(e){return null}}
-function sayWordX(w,ui){if(typeof w=='string')w=gl().get(w)||W.find(x=>x.h==w)||{h:w,s:[]};if(oneRec(w)||!w.h||[...w.h].length<2)return sayWord(w,0,ui);
- if(TTSV){const p=ttsSay(w.h,ui);if(p)return p;if(!TTS.warned){TTS.warned=1;toast(_('В этом браузере нет китайского голоса телефона — слово собрано из записей'))}}ensure('x');
- return playClip((AU.st.x=='ok'?Promise.resolve():AU.p_x).then(()=>getClipF('wx:'+w.h,()=>synthWord(w))),ui||null,1)}
+/* ---- exam voice: whole-word recordings (pack v), composed audio only as fallback ---- */
+function vKey(w){return vKeyP(w,'v')||vKeyP(w,'u')}
+function vKeyP(w,n){const P=AU.packs[n];if(!P)return null;const i=P.i;let h=w,s=null;if(typeof w!='string'){h=w.h;s=w.s}else if(i[w])return w;if(!h)return null;
+ if([...h].length==1){if(!s){const e=gl().get(h);s=e&&e.s}let k=s&&s.length==1?'c:'+syl(s[0]):null;if(!k||!i[k]){const a=ansInfo(h);if(a&&a.py)k='c:'+a.py.normalize('NFC').toLowerCase()}if(k&&i[k])return k;return i['d:'+h]?'d:'+h:null}return i[h]?h:null}
+function decodeV(k){const P=AU.packs.v&&AU.packs.v.i[k]?AU.packs.v:AU.packs.u,[o,l]=P.i[k],ab=P.b[0].slice(o,o+l);return new Promise(res=>{try{const r=dctx().decodeAudioData(ab,b=>res(b),()=>res(null));if(r&&r.then)r.then(res,()=>res(null))}catch(e){res(null)}}).then(b=>b?trimBuf(b):null)}
+const vOn=()=>!(G.kind=='E'&&/^a2/.test(String(G.set)));
+function vClip(w,fb){if(!vOn())return fb();return(AU.st.v=='err'?Promise.resolve():ensure('v')).then(()=>vKey(w)||AU.st.u=='ok'||AU.st.u=='err'?0:ensure('u')).then(()=>{const k=vKey(w);return k?getClipF('v:'+k,()=>decodeV(k)):fb()})}
+function oldWord(w){if(oneRec(w)||!w.h||[...w.h].length<2)return prepWord(w);ensure('x');return(AU.st.x=='ok'?Promise.resolve():AU.p_x).then(()=>getClipF('wx:'+w.h,()=>synthWord(w)))}
+function sayWordX(w,ui){if(typeof w=='string')w=gl().get(w)||W.find(x=>x.h==w)||{h:w,s:[]};return playClip(vClip(w,()=>oldWord(w)),ui||null,1)}
 async function synthText(t,w,base){try{await ensure('y')}catch(e){}const it=sandhi(planText(t,w));let U=yueUnits(it);
  if(!U){try{await ensure('c')}catch(e){}U=chenUnits(it)||unitsOf(it)}return synth(U,base)}
 function prepWord(w){if(w.sk)return getClip(sylId(w.sk),[{k:w.sk}]);if(has(w.h)&&has(w.h)!='c'&&!POLY.has(w.h))return getClip(wordId(w),[{k:w.h}]);return getClipF(wordId(w),()=>synthText(w.h,w,1.12))}
@@ -4170,7 +4172,7 @@ function vizProg(ui,f){const host=ui.querySelector('.wv');if(!host)return;const 
 function vizEnd(ui){if(!ui)return;ui.classList.remove('on');const host=ui.querySelector('.wv');if(host)[...host.children].forEach(i=>i.classList.remove('p'))}
 const oneRec=w=>w.sk||has(w.h)&&has(w.h)!='c'&&!POLY.has(w.h);
 function sayWord(w,slow,ui){if(typeof w=='string')w=W.find(x=>x.h==w)||{h:w,s:[]};return playClip(prepWord(w),ui||null,slow?.7:1)}
-function sayText(t,ui,slow){ensure('x');return playClip((AU.st.x=='ok'?Promise.resolve():AU.p_x).then(()=>prepText(t)),ui,1)}
+function sayText(t,ui,slow){ensure('x');return playClip(vClip(String(t),()=>(AU.st.x=='ok'?Promise.resolve():AU.p_x).then(()=>prepText(t))),ui,1)}
 /* pitch contour (tone melody) */
 function pitchTrack(d,sr){const f=Math.max(1,Math.round(sr/11025)),n=Math.floor(d.length/f),x=new Float32Array(n);for(let i=0;i<n;i++){let s=0;for(let j=0;j<f;j++)s+=d[i*f+j];x[i]=s/f}const r=sr/f;
  const Wn=Math.round(r*.04),H=Math.round(r*.01),minL=Math.floor(r/450),maxL=Math.ceil(r/65);const fr=[];let maxE=0;
@@ -4671,7 +4673,7 @@ function prepQ(it){const{t,src}=it;const q={t,src,sec:it.sec,pt:it.pt||1};
  else{q.opts=shuf(src.o);q.right=src.o[src.a];if(q.opts.every(x=>x.length<=6))q.g2=1}if(hwOK(q)){q.hw=1;q.hc=[...src.w.h];q.hk=0;q.hr=[]}return q}
 function qText(q){const s=q.src;if(q.t=='pz')return pyw(s.w);if(q.t=='bh'||q.t=='jg')return s.c;if(q.t=='pc')return p2t(s.p);if(q.t=='sb')return s.it.map(x=>x.c).join('');if(q.t=='zc')return s.pos?'?'+s.given:s.given+'?';if(q.t=='bs')return s.f=='a'?s.r+' → ?':s.c+' → ?';if(q.t=='dp')return s.s;if(q.t=='wpy')return s.w.h;if(q.t=='p2h')return pyw(s.w);if(q.t=='pos')return s.w+'：'+s.s;if(q.t=='match')return s.q;if(q.t=='cmpl')return s.dir=='a'?'… ？ — '+s.b:s.q;if(q.t=='dlg')return s.d.join(' ');if(q.t=='rtf')return s.q.q;if(q.t=='tf')return s.s+' ★ '+s.q;if(q.t=='read')return s.q.q;if(q.t=='qa')return s.q;if(['h2m','h2p','a2m','a2h'].includes(q.t))return s.w.h;if(q.t=='m2h')return s.w.r;if(q.t=='ord'||q.t=='tr')return s.r;return s.s}
 function fullText(q){const s=q.src;if(q.t=='pos')return s.full;if(q.t=='fill'||q.t=='gram'||q.t=='hz'||q.t=='zi'||q.t=='mw'||q.t=='bank')return s.s.replace('___',q.right);if(q.t=='ord')return s.s;if(q.t=='tr')return q.right;if(q.t=='qa')return s.q+'　'+q.right;if(q.t=='tf')return s.s;if(q.t=='read')return s.q.q;return''}
-function exStart(set,queue,retry){const items=queue||buildSet(set,set[0]=='a'?S.n:S.en);if(!items.length)return;ensure('x');if(items.some(x=>x.t=='pz'||x.t=='p2h'))hrWarmAll();
+function exStart(set,queue,retry){const items=queue||buildSet(set,set[0]=='a'?S.n:S.en);if(!items.length)return;ensure('x');if(set[0]!='a'){ensure('v');if(set[0]=='h')ensure('u')}if(items.some(x=>x.t=='pz'||x.t=='p2h'))hrWarmAll();
  const lis=set=='a2m'||set=='a2h';document.body.classList.toggle('ex',!lis&&S.ep=='r');document.body.classList.toggle('exc',!lis&&S.ep=='c');document.body.classList.toggle('exk',!lis&&S.ep=='h');document.body.classList.remove('nm');
  G={kind:'E',set,q:items,i:0,ans:0,sk:0,ms:0,ok:0,pts:0,ptT:items.reduce((a,x)=>a+(x.pt||1),0),bad:[],t0:Date.now(),retry:!!retry,exc:[0,0]};enext(true);go('exam')}
 function enext(first){gClose(1);if(G.i>=G.q.length)return end();const prev=G.cur;G.cur=prepQ(G.q[G.i]);G.done=0;hideSheet();
@@ -4723,7 +4725,7 @@ function erender(first,keepScroll){const q=G.cur,s=q.src,b=$('#ebody');let h=`<p
   $('#wps').onclick=e=>{const b=e.target.closest('[data-sy]');if(!b||G.done)return;tick();wpyGo(+b.dataset.sy)};
   $('#ochk').onclick=()=>echeck()}
  $('#epb').style.transform=`scaleX(${G.i/G.q.length})`;$('#egm').innerHTML=`<span>${G.i+1}/${G.q.length}</span>`;
- if(q.t=='a2m'||q.t=='a2h'){const u=$('#abig');u.onclick=()=>sayWord(s.w,0,u);prepWord(s.w).then(r=>{if(r&&G.cur===q)vizBars(u,r)});sayWord(s.w,0,u)}
+ if(q.t=='a2m'||q.t=='a2h'){const u=$('#abig');u.onclick=()=>sayWordX(s.w,u);vClip(s.w,()=>prepWord(s.w)).then(r=>{if(r&&G.cur===q)vizBars(u,r)});sayWordX(s.w,u)}
  const nx=G.q[G.i+1];if(nx&&(nx.t=='a2m'||nx.t=='a2h'))prepWord(nx.src.w);
  if(!keepScroll){b.classList.remove('qi');void b.offsetWidth;b.classList.add('qi')}}
 let GL=null;
@@ -4797,7 +4799,7 @@ function echeck(el){const q=G.cur,s=q.src;if(G.done)return;G.done=1;G.ans++;let 
  const vp='';
  const last=G.i+1>=G.q.length;
  $('#sin').innerHTML=`<div class="shd"><span class="sic">${ok?I.check:I.x}</span><b>${ok?(q.hinted?'Верно, но с подсказкой':'Верно'):q.part>0?'Почти':'Неверно'}</b>${ok&&!q.hinted&&G.sk>=3?`<span class="chp">Серия ${G.sk}</span>`:''}<span class="sp"></span>${isW?`<button class="vp mini" id="rpw" aria-label="Прослушать"><span class="vpi"><span class="pl">${I.play}</span><span class="pa">${I.pause}</span><span class="sp2"></span></span><span class="wv" data-n="16">${'<i style="--h:.12"></i>'.repeat(16)}</span></button>`:''}</div>${xp}${vp}<button class="btn" id="nx">${last?'Результаты':'Далее'}</button>`;
- showSheet(ok?(q.hinted?'m':'g'):'b');if(isW){const u=$('#rpw'),lis=q.t=='a2m'||q.t=='a2h';u.onclick=()=>u.classList.contains('on')?stopAudio():lis?sayWord(s.w,0,u):sayWordX(s.w,u);if(!lis)sayWordX(s.w,u);else prepWord(s.w).then(r=>r&&vizBars(u,r))}
+ showSheet(ok?(q.hinted?'m':'g'):'b');if(isW){const u=$('#rpw'),lis=q.t=='a2m'||q.t=='a2h';u.onclick=()=>u.classList.contains('on')?stopAudio():sayWordX(s.w,u);if(!lis)sayWordX(s.w,u);else vClip(s.w,()=>prepWord(s.w)).then(r=>r&&vizBars(u,r))}
  {const pa=$('#rpa');if(pa&&aw)pa.onclick=()=>pa.classList.contains('on')?stopAudio():aw.w?sayWordX(aw.w,pa):sayText(aw.t,pa)}
  $('#nx').onclick=()=>{G.i++;enext()}}
 $('#equit').onclick=()=>{if(G.ans>0)return end();home()};
